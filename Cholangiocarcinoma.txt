@@ -1,0 +1,12 @@
+Cholangiocarcinoma
+
+synonyms:
+bile duct adenocarcinomabiliary tract cancer
+
+overview:
+Cholangiocarcinomas are cancers that arise from the cells lining the bile duct. They originally were grouped according to the location from which they arise as intrahepatic (arising from the bile ducts inside the liver), perihilar (arising from the bile ducts where they exit the liver), or distal (arising from the bile ducts outside the liver). Gallbladder cancers are also biliary tract cancers but arise from the cells lining the inside of the gallbladder.
+Another way of grouping depends on genetic testing using next generation sequencing, a technology that is used to look for gene variants that may be present in some patients and may offer several new applicable therapies. More than 95% of tumors arising from the biliary tract are a type of cancer called adenocarcinoma. Most patients with bile duct cancer are diagnosed when the cancer is far too advanced to be removed by surgery. In some patients, even if the cancer cannot be removed by surgery, an operation may be needed to relieve jaundice or blockage of the stomach outlet. If the cancer is diagnosed at an early stage where surgery is possible, complex operating techniques are often required and surgery should be performed by a specialist surgeon with expertise and experience in dealing with patients with bile duct cancers.
+
+symptoms:
+Most patients have no symptoms, particularly when the cancer is at an early stage. Occasionally biliary tract cancers are diagnosed incidentally when a CT or MRI scan is done for another reason, or when the gallbladder is removed due to symptomatic gallstones. Patients may have non-specific symptoms including weight loss, abdominal pain, fevers, night sweats and fatigue. Distal and perihilar cholangiocarcinoma or gallbladder cancers more frequently cause patients to develop jaundice due to tumor or lymph nodes blocking a major bile duct.
+

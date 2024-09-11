@@ -1,0 +1,19 @@
+Chronic Inflammatory Demyelinating Polyneuropathy
+
+synonyms:
+CIDPchronic inflammatory demyelinating polyradiculoneuropathy
+
+overview:
+Summary
+Chronic inflammatory demyelinating polyneuropathy (CIDP) is a rare neurological disorder in which there is inflammation of nerve roots and peripheral nerves and destruction of the fatty protective covering (myelin sheath) of the nerve fibers. Myelin allows nerve fibers to transmit signals very rapidly (40-60 meters/second). Loss or damage to myelin can cause slowing or blockage of the nerve signals and can lead to loss of nerve fibers. This causes weakness, paralysis and/or impairment in motor function, especially of the arms and legs. Sensory disturbance may also be present. The motor and sensory impairments usually affect both sides of the body (symmetrical), and the degree of severity and the course of disease may vary from person to person. Some affected individuals may follow a slow steady pattern of symptoms while others may have symptoms that stabilize and then relapse.
+Introduction
+CIDP is sometimes thought of as the chronic form of acute inflammatory demyelinating polyneuropathy (AIDP), the most common form of Guillain Barré syndrome (GBS), in the United States and Europe. In contrast to GBS, most patients with CIDP cannot identify a preceding viral or infectious illness. GBS is a subacute disorder that progresses over 3-4 weeks, then plateaus and usually improves over months and does not usually recur. CIDP, by definition has ongoing symptoms for over 8 weeks and usually does not improve unless ongoing treatment is given.
+
+symptoms:
+The chief symptoms of CIDP are slowly progressive (over at least 2 months) symmetric weakness of both muscles around the hip and shoulder as well as of the hands and feet (both proximal and distal muscles). This pattern of weakness, if caused by nerve damage, is highly suggestive of CIDP. Nerve signals become altered causing impairment in motor function and/or abnormal, or loss of, sensation. There are usually some alterations of sensation causing incoordination, numbness, tingling, or prickling sensations. Some patients only have sensory symptoms and signs but have the typical abnormalities of nerve conduction and respond to treatment as in CIDP in which weakness predominates. This is considered a sensory variant of CIDP.
+Other symptoms of CIDP include fatigue, burning, pain, clumsiness, difficulty swallowing and double vision. The neurologic examination will show weak muscles that may have lost their bulk and definition (atrophy). Deep tendon reflexes are reduced or absent. Walking will be abnormal and responses to various sensory stimuli will be impaired.
+Typical CIDP and VariantsCIDP has a number of clinical presentations. Typical CIDP is defined as a symmetric motor and sensory disorder that has proximal and distal weakness (including muscles of the shoulders and hips as well as the hands and feet). Deep tendon reflexes are absent.
+Variants of CIDP include:
+Multifocal variant in which the deficits are asymmetric and may involve different individual nerves. This form has been called Lewis-Sumner syndrome or MADSAM (multifocal acquired demyelinating sensory and motor).Pure sensory variants in which patients have imbalance and incoordination but no demonstrable muscle weakness.Distal variant in which the sensory and motor deficits do not involve the proximal arms and legs.Pure motor variant in which no sensory abnormality is found.
+The fact that there are different forms of CIDP points to the fact that at this time, CIDP is a syndrome and that there may be a number of different causes of the disorder which manifest in different ways.
+

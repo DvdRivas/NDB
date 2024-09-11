@@ -1,0 +1,13 @@
+Cholera
+
+synonyms:
+Asiatic CholeraEpidemic Cholera
+
+overview:
+Cholera is an acute infectious disease caused by the bacterium vibrio cholerae, which lives and multiples (colonizes) in the small intestine but does not destroy or invade the intestinal tissue (noninvasive). The major symptom of cholera is massive watery diarrhea that occurs because of a toxin secreted by the bacteria that stimulates the cells of the small intestine to secrete fluid. There are several strains of V. cholerae and the severity of the disease is based on the particular infectious strain.
+Cholera is not a difficult disease to treat and most people recover well with appropriate oral fluid replacement (hydration). However, if the disease goes untreated, it can rapidly lead to shock, as a result of fluid and electrolyte loss, and to life-threatening complications.
+
+symptoms:
+The symptoms of cholera vary according to the severity of the disease.  Some infected individuals may only experience a few days of mild diarrhea.  Others may have more serious symptoms and prolonged diarrhea may be so severe that there is excessive fluid loss leading to shock.  Rapid onset of life- threatening complications may occur in very severe cases.
+The initial symptoms of cholera may include sudden painless diarrhea and vomiting.  Diarrhea becomes progressively more watery and large volumes of fluid, sodium, chloride, potassium, and bicarbonate (electrolytes) are lost.  Subsequent symptoms are the direct result of the fluid loss (dehydration) and electrolyte imbalance.  These may include intense thirst, decreased urine output, muscle cramps, and/or general weakness.  Abnormally low blood pressure (hypotension) and potassium (hypokalemia) are common.  Excessive amounts of acid may accumulate in the blood and body tissues (acidosis) and shock may develop if treatment is not administered.  Kidney failure may occur, but generally responds to fluid replacement.
+

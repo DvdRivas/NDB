@@ -1,0 +1,12 @@
+Cerebral Folate Deficiency
+
+synonyms:
+cerebral folate deficiency syndromecerebral folate transport deficiencyFOLR1 deficiencyneurodegeneration due to cerebral folate transport deficiency
+
+overview:
+Cerebral folate deficiency is a neurological syndrome in which development is usually normal in the first year of life, but at approximately 2 years of age, affected children start to lose mental and motor skills (psychomotor regression). Some early symptoms are intellectual disability, speech difficulties, and development of recurrent seizures in a third of affected children. Motor issues such as tremors and lack of muscle control or coordination of voluntary movements (ataxia) can become severe. Cerebral folate deficiency occurs because of a deficiency of vitamin B folate (vitamin B9) in the brain caused by a low level of 5-methyltetrahydrofolate (5MTHF) in the cerebrospinal fluid due to a disruption in the function of the folate receptor alpha (FRA). The function of the FRA can be disrupted by several causes. The most common etiology involves one of two autoantibodies blinding to the FRA resulting in a disruption in its function. The FRA is highly dependent on mitochondrial function leading to disrupting in FRA function in mitochondrial and other metabolic disorders. Lastly, rare mutation in theFOLR1gene can result in an autosomal recessive genetic condition which disrupts FRA function. This condition can be treated with leucovorin calcium (aka folinic acid).
+
+symptoms:
+The symptoms of cerebral folate deficiency may begin as early as four to six months of age with irritability and sleep problems (insomnia). Delays in development may be noted including slow head growth, low muscle tone (hypotonia), ataxia, loss of voluntary movement (dyskinesia), constant contracted muscles (spasticity), speech complications, and epilepsy. Additional signs may involve visual disturbances, hearing loss and autistic features.
+Even though there may be normal folate levels in the serum and red blood, evaluation of the cerebrospinal fluid shows a decreased level of 5MTHF. The brain may appear normal on an MRI, but in some affected children, a loss of white matter in the brain (leukodystrophy) may be seen. Frontotemporal atrophy and impairment of the protective layer that surrounds nerve fibers in the brain and spinal cord (subcortical demyelination) can be seen as early as 18 months.
+

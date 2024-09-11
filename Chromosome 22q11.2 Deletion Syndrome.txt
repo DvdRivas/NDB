@@ -1,0 +1,39 @@
+Chromosome 22q11.2 Deletion Syndrome
+
+synonyms:
+autosomal dominant Opitz G/BBB syndromeCayler cardiofacial syndromeconotruncal anomaly face syndromeDiGeorge syndromeShprintzen syndromevelocardiofacial syndrome22q11.2DS
+
+overview:
+Summary
+Chromosome 22q11.2 deletion syndrome (22q11.2DS) is a disorder caused by a small piece of chromosome 22 missing. 22q11.2DS is associated with a range of problems including: congenital heart disease, palate abnormalities, immune system dysfunction including autoimmune disease, low calcium (hypocalcemia) and other endocrine abnormalities such as thyroid problems and growth hormone deficiency, gastrointestinal problems, feeding difficulties, kidney abnormalities, hearing loss, seizures, skeletal abnormalities, minor facial differences, and learning and behavioral differences. The symptoms of this condition are extremely variable, even among members of the same family.
+Introduction
+A number of separately described diagnoses including DiGeorge syndrome (DGS), velocardiofacial syndrome (VCFS), conotruncal anomaly face syndrome (CTAF), autosomal dominant OpitzG/BBB syndrome and Cayler Cardiofacial syndrome were all originally thought to be separate disorders before a deletion on chromosome 22q was identified in individuals affected with all of these conditions.
+
+symptoms:
+Disorders with more than one identifying feature are called syndromes. 22q11.2DS has numerous features associated with it, not all of which will be present in every affected individual.
+Some of the common features associated with this syndrome include cleft palate, abnormalities of the heart, developmental delays and learning disabilities, psychiatric disorders, and distinct physical features.
+Individuals with 22q11.2DS typically have a mild form of cleft palate. The lobe in the middle of the back of the soft palate (uvula) is split and there is a thin union of the two halves of the palate in the middle with a mucous covering on the rear portion of the mouth. The muscles under the soft palate do not fuse together and a notch can be felt where the hard and soft palates meet. This notch replaces the back spine of the palate.
+Abnormalities of the heart associated with this syndrome often include conotruncal heart defects, or malformations of the cardiac outflow tract. These may include the following:
+•	Tetralogy of Fallot, a congenital abnormality in which there is obstruction in the outflow from the right ventricle of the heart to the lungs, with an enlarged right ventricle and a displaced aorta that receives blood from both the right and left ventricles. (For more information on this disorder choose “Tetralogy of Fallot” as your search term in the Rare Disease Database).
+•	Truncus arteriosus, in which there is only a single outflow vessel instead of the typical two outflow vessels (pulmonary artery and aorta)
+•	Interrupted aortic arch type B, a heart defect in which the aorta does not completely develop, thus resulting in an incomplete, or “interrupted” aortic arch
+•	Ventricular septal defect, when the wall that separates the right and left chambers of the heart which receive blood and then force it back into the arteries does not form properly
+Additional heart abnormalities may include differences in the structure of the aortic arch (right aortic arch, vascular ring).
+Developmental delays are common among children with 22q11.2DS. While difficulties with gross and fine motor skills are not unusual, the majority of children will demonstrate a significant delay in the development of language (70% will have minimal words by 24 months of age). Mild intellectual delay or learning disability is present in the majority of individuals with 22q11.2DS, with the average IQ around 70. The majority of individuals with 22q11.2DS will have an IQ in the range of 55-85 (general population average is 100). Problems with abstraction and comprehension in reading and math are usually apparent at school age. Severe intellectual disability is less frequent but may also be present with this syndrome.
+Psychiatric disorders in individuals with 22q11.2DS include a higher prevalence of anxiety, attention-deficit disorder, and autism spectrum disorders. About one quarter of patients with 22q11.2DS are diagnosed with schizophrenia, which typically presents in late-adolescence. Clinical studies have shown that individuals with 22q11.2DS are about 25 times more likely than the general population to develop schizophrenic symptoms. However, the manifestation of schizophrenia in individuals with 22q11.2DS does not differ from that of the general population in regard to signs, symptoms, and treatment.
+Distinct physical features sometimes associated with the syndrome include loss of muscle tone (hypotonia), small slender stature, tapered hands and fingers, small head circumference (microcephaly), recessed jaw (retrognathia), tubular nose, flat cheeks, long upper jaw, long vertical groove in the middle of the upper lip (philtrum), blue coloring under the eyes, small outer ears, thick outer rims of the ear, two different sized ears and nasal sounding speech secondary to cleft palate.
+Some (but not all) of the following additional symptoms may be present in patients with 22q11.2DS:
+•	An absent or underdeveloped thymus causing an insufficient production of antibodies
+•	Deficiency of calcium in the blood (hypocalcemia)
+•	Problems with thyroid function and growth hormone deficiency
+•	Gastrointestinal difficulties including gastroesophageal reflux, chronic constipation, feeding difficulties, and dysmotility
+•	Curvature of the spine (scoliosis)
+•	Seizures and differences in the structure of the brain
+•	Hearing loss
+•	Eye abnormalities such as clouding of the lens of the eye or its surrounding membrane obstructing the passage of light (cataract), abnormal smallness of one or both eyeballs (microphthalmia), and twisted vessels in the optic disc
+•	Rupture or protrusion in the groin or central abdominal region (inguinal or umbilical hernia)
+•	Failure of the testes to descend into the scrotum in males (cryptorchidism)
+•	Differences in the structure of the kidneys
+•	Absent or small adenoids and absent or small tonsils.
+In addition, newborn children may have obstructed breathing due to the recessed jaw and loss of muscle tone in the throat area.
+

@@ -1,0 +1,15 @@
+Carbamoyl Phosphate Synthetase 1 Deficiency
+
+synonyms:
+carbamoylphosphatase deficiency Icarbamoyl phosphate synthetase deficiencycarbamylphosphatase deficiency Icarbamyl phosphate synthetase ICPSIDCPS1 deficiency
+
+overview:
+Carbamoyl phosphate synthetase 1 deficiency (CPSID) is a rare inherited disorder characterized by complete or partial lack of the carbamoyl phosphate synthetase (CPS) enzyme. This is one of five enzymes that play a role in the breakdown and removal of nitrogen from the body, a process known as the urea cycle. The lack of the CPSI enzyme results in excessive accumulation of nitrogen, in the form of ammonia (hyperammonemia), in the blood. Affected children may experience vomiting, refusal to eat, progressive lethargy, and coma. CPSID is inherited as an autosomal recessive genetic disorder.
+The urea cycle disorders are a group of rare disorders affecting the urea cycle, a series of biochemical processes in which nitrogen is converted into urea and removed from the body through the urine. Nitrogen is a waste product of protein metabolism. Failure to break down nitrogen results in the abnormal accumulation of nitrogen, in the form of ammonia, in the blood.
+
+symptoms:
+CPSID may be associated with complete or partial absence of the CPS enzyme.  Complete lack of the CPS enzyme results in the severe form of the disorder, in which symptoms occur shortly after birth (neonatal period). Partial lack of the CPS enzyme results in a milder form of the disorder that can occur at any time during the life of the patient.
+The symptoms of CPSID are caused by the accumulation of ammonia in the blood.  The severe form of CPSID occurs within 24-72 hours after birth, regardless of exposure to dietary protein.  This form of CPSID is initially characterized by refusal to eat, lethargy, lack of appetite, vomiting, and irritability.  Shortly thereafter, affected infants may also experience seizures, respiratory distress, and abnormal movements and postures, The symptoms are mostly attributable to the swelling of the brain (cerebral edema) caused by hyperammonemia.
+In neonatal cases, untreated CPSID  progresses to coma due to high levels of ammonia in the blood (hyperammonemic coma).  In such cases and even with effective treatment, the disorder may potentially result in neurological abnormalities, including developmental delays and intellectual disability.  The neurological abnormalities are more severe in infants who are in hyperammonemic coma for a prolonged period (days).  If left untreated, the disorder will typically results in death of the patient.
+Those with the milder form of CPSID  show symptoms later during infancy, childhood, or adulthood.   Symptoms are often triggered by a secondary illness such as a viral infection or other stress.  Symptoms may include failure to grow and gain weight at the expected rate (failure to thrive), avoidance of protein from the diet, inability to coordinate voluntary movements (ataxia), lethargy, vomiting, and/or diminished muscle tone (hypotonia).  Patients with the milder form of CPSID may still experience hyperammonemic coma and life-threatening complications.
+

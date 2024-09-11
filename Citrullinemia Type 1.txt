@@ -1,0 +1,18 @@
+Citrullinemia Type 1
+
+synonyms:
+argininosuccinate synthetase deficiencyargininosuccinic acid synthetase deficiencyASS deficiencycitrullinemia, classicCTLN1
+
+overview:
+Citrullinemia type I (CTLN1) is a rare autosomal recessive genetic disorder that includes a neonatal acute (classic) form, a milder late-onset form, a form that begins during or after pregnancy and an asymptomatic form.
+CTLN1 is caused by deficiency or absence of the enzyme argininosuccinate synthetase (ASS). ASS is one of six enzymes that play a role in the removal of nitrogen from the body, a process known as the urea cycle. The lack of this enzyme results in excessive accumulation of nitrogen, in the form of ammonia (hyperammonemia) in the blood and all body fluids.
+Infants with the classic form may experience vomiting, refusal to eat, progressive lethargy and show signs of increased intracranial pressure. Prompt treatment can prolong survival, but neurologic deficits are usually present. The course of the late-onset form is sometimes milder but episodes of hyperammonemia are similar to the classic form.
+
+symptoms:
+The severity of CTLN1 varies from patient to patient. The classic form, characterized by profound lack of ASS enzyme activity, displays symptoms shortly after birth (neonatal period). A milder form of the disorder, which is characterized by partial lack of the ASS enzyme, affects some infants later during infancy or childhood.
+The symptoms of CTLN1 are caused by the accumulation of ammonia in the blood and cerebrospinal fluid (CSF). The classic form occurs within 24-72 hours after birth, usually following a protein feeding and is initially characterized by refusal to eat, lethargy, lack of appetite, vomiting and irritability. Affected infants may also experience seizures, diminished muscle tone (hypotonia), respiratory distress, accumulation of fluid in the brain (cerebral edema) and liver failure.
+If untreated, CTLN1 may progress to coma due to high levels of ammonia in the CSF (hyperammonemic coma). Neurological abnormalities including developmental delays, intellectual disability and cerebral palsy may occur and are more severe in infants who are in hyperammonemic coma for more than three days. Increased intracranial pressure can result in increased muscle tone, spasticity, abnormal reflex movements of the foot (ankle clonus) and seizures. If left untreated, the disorder will result in life-threatening complications.
+In some patients, including those with partial enzyme deficiency, onset of the disorder may not occur until later during infancy or childhood. Symptoms may include failure to grow and gain weight at the expected rate (failure to thrive), avoidance of high-protein foods from the diet, inability to coordinate voluntary movements (ataxia), progressive lethargy and vomiting. Infants with the mild form may alternate between periods of wellness and hyperammonemia. Infants and children with this form of CTLN1 may also develop hyperammonemic coma and life-threatening complications.
+Another form of CTLN1 occurs during and after pregnancy. Affected women may experience migraine headaches, repeated episodes of vomiting, lethargy, seizures, confusion, hallucinations and potentially coma. Behavioral changes may also occur including manic episodes and psychosis. Affected women may also have accumulation of fluid in the brain (cerebral edema).
+Some individuals with CTLN1 do not experience symptoms or hyperammonemia. The basis for these milder variants is not established.
+
