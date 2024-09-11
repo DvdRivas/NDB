@@ -1,0 +1,15 @@
+Agranulocytosis, Acquired
+
+synonyms:
+Agranulocytic AnginaGranulocytopenia, PrimaryNeutropenia, Malignant
+
+overview:
+Acquired agranulocytosis is a rare, drug-induced blood disorder that is characterized by a severe reduction in the number of white blood cells (granulocytes) in the circulating blood. The name granulocyte refers to grain-like bodies within the cell. Granulocytes include basophils, eosinophils, and neutrophils.
+Acquired agranulocytosis may be caused by a variety of drugs. However, among the drugs to which a patient may be sensitive are several used in the treatment of cancer (cancer chemotherapeutic agents) and others used as antipsychotic medications (e.g., clozapine). The symptoms of this disorder come about as the result of interference in the production of granulocytes in the bone marrow.
+People with acquired agranulocytosis are susceptible to a variety of bacterial infections, usually caused by otherwise benign bacteria found in the body. Not infrequently, painful ulcers also develop in mucous membranes that line the mouth and/or the gastrointestinal tract.
+
+symptoms:
+The first symptoms of acquired agranulocytosis are usually those associated with a bacterial infection such as general weakness, chills, fever, and/or extreme exhaustion.  Symptoms that are associated with rapidly falling white blood cell levels (granulocytopenia) may include the development of infected ulcers in the mucous membranes that line the mouth, throat, and/or intestinal tract.  Some people with these ulcers may experience difficulty swallowing due to irritation and pain.
+Granulocytopenia causes a concurrent decrease in the number of neutrophils in the circulating blood (neutropenia).  As neutrophil levels decrease, the susceptibility of patients with acquired agranulocytosis to bacterial infections becomes even greater.  Fevers and abnormal enlargement of the spleen (splenomegaly) are characteristic features of neutropenia.  If neutropenia is not treated, bacterial infections can lead to life-threatening complications such as bacterial shock or bacterial contamination of the blood (sepsis.)  (For more information on this disorder, choose “Neutropenia” as your search term in the Rare Disease Database.)
+Chronic acquired agranulocytosis generally progresses more slowly than acquired agranulocytosis.  Canker sores in the mouth and chronic inflammation of the gums (gingivitis) may be recurring symptoms. Other systemic infections may recur regularly.
+

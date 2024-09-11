@@ -1,0 +1,17 @@
+ALAD Porphyria
+
+synonyms:
+ADPALAD deficiencyALA-dehydratase deficient porphyriadelta-aminolevulinate dehydratase deficiencyDoss porphyriaporphyria of Doss
+
+overview:
+Summary
+ALAD porphyria is a very rare genetic metabolic disease characterized by almost complete deficiency of the enzyme delta-aminolevulinic acid (ALA) dehydratase. Deficiency of this enzyme leads to the accumulation of the porphyrin precursor ALA, which can potentially result in a variety of symptoms. Symptoms vary from one person to another, but usually come from the neurological and gastrointestinal systems. This disease is inherited as an autosomal recessive disorder.
+Introduction
+ALAD porphyria is in the group of disorders known as the porphyrias. The porphyrias are characterized by abnormally high levels of porphyrins and porphyrin precursors in the body due to deficiencies of enzymes essential to the creation (synthesis) of heme, a part of hemoglobin. There are at least seven types of porphyria. The symptoms associated with the various types of porphyria differ. It is important to note that people who have one type of porphyria do not develop any of the other types. Porphyrias are generally classified into two groups: the “hepatic” and “erythropoietic” types. Porphyrins and related substances originate in excess amounts from the liver in the hepatic types, and mostly from the bone marrow in the erythropoietic types. ALAD porphyria is a hepatic form of porphyria.
+
+symptoms:
+The onset, severity and type of symptoms can vary greatly in individuals with a specific type of porphyria. This variation may depend on, in part, the amount of residual enzyme activity in each individual. Individuals with more significant enzyme deficiency may have more severe symptoms and earlier onset. Individuals with partial deficiency will have milder symptoms, and some individuals will not develop any symptoms (asymptomatic). It is important to note that affected individuals may not have all of the symptoms discussed below. Affected individuals should talk to their medical team about their specific case, associated symptoms and overall prognosis.
+Individuals with ALAD porphyria may have bouts or “attacks” when symptoms are intense, which are referred to as neurovisceral or acute attacks. An attack may last for several weeks. During an attack, affected individuals may experience severe abdominal cramping or pain accompanied by vomiting and constipation. During infancy, gastrointestinal abnormalities may cause an affected child to fail to grow and gain weight as expected.
+Several other neurological symptoms can occur during an acute attack due to problems with the nerves outside the central nervous system (peripheral neuropathy), resulting in numbness or tingling in the hands and feet, burning pain, sensitivity to touch, and a lack of coordination. In severe cases, the motor nerves are involved, resulting in loss or partial impairment of the ability to use voluntary muscles. ALAD porphyria can also be associated with psychological changes during an acute attack. In severe cases, loss of contact from reality (psychosis) has been reported.
+Additional symptoms that occur during acute attacks include a rapid heartbeat (tachycardia), high blood pressure (hypertension), seizures, and breathing (respiratory) impairment.
+

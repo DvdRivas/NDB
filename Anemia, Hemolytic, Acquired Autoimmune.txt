@@ -1,0 +1,16 @@
+Anemia, Hemolytic, Acquired Autoimmune
+
+synonyms:
+Anemia, Idiopathic Autoimmune HemolyticAutoimmune Hemolytic AnemiaIdiopathic Autoimmune Hemolytic AnemiaImmune Hemolytic Anemia
+
+overview:
+The autoimmune hemolytic anemias are rare disorders characterized by the premature destruction (hemolysis) of red blood cells at a rate faster than they can be replaced. Acquired hemolytic anemias are non-genetic in origin. Idiopathic acquired autoimmune diseases occur when the body’s natural defenses against invading organisms (e.g., lymphocytes, antibodies) destroy its own healthy tissues for no known reason. Normally, the red blood cells (erythrocytes) have a life span of approximately 120 days before being removed by the spleen. The severity of this type of anemia is determined by the life span of the red blood cell and by the rate at which these cells are replaced by the bone marrow.
+Clinicians are able to determine quite accurately (Coombs test) whether or not red blood cells are carrying with them chemicals that are being incorrectly recognized as an “enemy” and therefore subject to autoimmune destruction.
+Acquired autoimmune hemolytic anemia is a disorder that occurs in individuals who previously had a normal red blood cell system. The disorder may occur as the result of, or in conjunction with, some other medical condition, in which case it is “secondary” to another disorder. Less commonly, it occurs alone without a precipitating factor.
+Acquired autoimmune hemolytic anemia occurs in different forms, including warm antibody hemolytic anemia and cold antibody hemolytic anemia.
+In warm antibody hemolytic anemia, the self-generated antibodies (autoantibodies) attach themselves and cause the destruction of the red blood cells at temperatures above normal body temperature. In contrast, in the cases of cold antibody hemolytic anemia, the self-generated antibodies (autoantibodies) attach themselves and cause the destruction of the red blood cells at temperatures below normal body temperature. (For more information on this disorder, choose “Warm Antibody Hemolytic Anemia” and/or Cold Antibody Hemolytic Anemia as your search term in the Rare Disease Database.)
+
+symptoms:
+Generally symptoms of acquired autoimmune hemolytic anemia resemble those of other anemias and may include fatigue, pale color, rapid heartbeat, shortness of breath, dark urine, chills, and backache. In severe cases, yellow skin color (jaundice) may be present and the spleen may be enlarged.
+If the autoimmune hemolytic anemia is secondary to another cause, the symptoms of the other cause may be most apparent.
+

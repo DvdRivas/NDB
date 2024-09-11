@@ -1,0 +1,12 @@
+ACTH Deficiency
+
+synonyms:
+adrenocorticotropic hormone deficiency, isolated
+
+overview:
+ACTH deficiency arises as a result of decreased or absent production of adrenocorticotropic hormone (ACTH) by the pituitary gland. A decline in the concentration of ACTH in the blood leads to a reduction in the secretion of adrenal hormones, resulting in adrenal insufficiency (hypoadrenalism). Adrenal insufficiency leads to weight loss, lack of appetite (anorexia), weakness, nausea, vomiting, and low blood pressure (hypotension). Because these symptoms are so general, the diagnosis is sometimes delayed or missed entirely. For that reason, some clinicians believe the disorder to be more common than previously thought.
+
+symptoms:
+ACTH deficiency can either be congenital or acquired, and its manifestations are clinically indistinguishable from those of glucocorticoid deficiency. Symptoms include weight loss, lack of appetite (anorexia), muscle weakness, nausea and vomiting, and low blood pressure (hypotension). Low blood levels of sugar and dilutional hyponatremia (low blood sodium levels) may occur; however, blood potassium levels are typically normal as affected patients are deficient in glucocorticoids and not mineralocorticoids due to their intact renin-angiotensin-aldosterone system. The pituitary hormone ACTH may be undetectable in blood tests, and the level of the adrenal hormone cortisol is abnormally low. Concentrations of 17-hydroxycorticosteroids and 17-ketosteroids, produced from the adrenal cortex, are also abnormally low in the urine. Some adrenal hormones that are decreased are precursors of male sex hormones and are also known as “pre-androgens”.
+Although males with this disorder usually have a normal hair pattern, females may have very little pubic and underarm (axillary) hair. In contrast to Addison’s disease, skin pigmentation usually remains normal. Emotional symptoms may range from depression to psychosis.
+
