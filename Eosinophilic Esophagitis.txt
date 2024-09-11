@@ -1,0 +1,11 @@
+Eosinophilic Esophagitis
+
+synonyms:
+allergic esophagitisEoE
+
+overview:
+Eosinophilic esophagitis (EoE) is a chronic disorder of the digestive system in which large numbers of a particular type of white blood cell called eosinophils are present in the esophagus. The esophagus is the tube that carries food from the mouth to the stomach. Eosinophils are part of the immune system and play a role in immune regulation and fighting certain infection, and their accumulation is a hallmark of allergic diseases. This condition is characterized by vomiting, stomach or chest pain, failure to thrive (particularly in children), difficulty swallowing and food getting stuck in the throat.
+
+symptoms:
+The symptoms of eosinophilic esophagitis are variable, especially in people of different ages. Common symptoms include difficulty swallowing (dysphagia); food getting stuck in the throat (impaction); nausea; vomiting; poor growth; weight loss; stomach pain; poor appetite; and malnutrition. Because of an overlap of these symptoms with gastroesophageal reflux disease (GERD), many patients are initially thought to have GERD, but EoE patients do not typically have GERD upon diagnostic workup. Recently, it has been appreciated that some patients with pronounced esophageal eosinophilia can have complete responses to proton pump inhibitor (PPI) therapy, typically used for the treatment of GERD, but these patients do not typically have GERD but rather EoE that is responsive to PPIs.  PPI exert this therapeutic effect by direct action rather than blockade of stomach acid alone. For example, PPIs are also ligands (bind to) the aryl hydrocarbon receptor and this elicits an anti-inflammatory and anti-proliferative effect in the esophagus. PPI responsive esophageal eosinophilia has largely overlapping clinical, histological and molecular characteristics with PPI-resistant esophageal eosinophilia, but entities are referred to as EoE and usage of PPIs is now considered a treatment of EoE. Individuals with eosinophilic esophagitis often have allergic diseases such as asthma or eczema.
+

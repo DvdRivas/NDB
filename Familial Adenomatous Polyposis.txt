@@ -1,0 +1,14 @@
+Familial Adenomatous Polyposis
+
+synonyms:
+adenomatous polyposis of the colon (APC)familial multiple polyposisFAPhereditary polyposis colimultiple polyposis of the colon
+
+overview:
+Familial adenomatous polyposis (FAP) is a rare inherited cancer predisposition syndrome characterized by hundreds to thousands of precancerous colorectal polyps (adenomatous polyps). If left untreated, affected individuals inevitably develop cancer of the colon and/or rectum at a relatively young age. FAP is inherited in an autosomal dominant manner and caused by abnormalities (mutations) in the APC gene. Mutations in the APC gene cause a group of polyposis conditions that have overlapping features: familial adenomatous polyposis, Gardner syndrome, Turcot syndrome and attenuated FAP.
+
+symptoms:
+Classic FAP is characterized by hundreds to thousands of colorectal adenomatous polyps, with polyps appearing on average at age 16 years. Without colectomy, affected individuals usually develop colorectal cancer by the third or fourth decade of life. FAP is also associated with an increased risk for cancer of the small intestine including the duodenum, and cancer of the thyroid, pancreas, liver (hepatoblatoma), central nervous system (CNS), and bile ducts, although these typically occur in less than 10% of affected individuals.
+Individuals with CNS tumors and colorectal polyposis have historically been defined as Turcot syndrome. Two-thirds of cases of Turcot syndrome develop from mutations in the APC gene. The remaining cases develop from mutations in the genes that cause hereditary non-polyposis colorectal cancer (HNPCC) also known as Lynch syndrome. Mutations in the APC gene are more commonly associated with medulloblastoma; mutations in the genes that cause HNPCC are more commonly associated with glioblastoma.
+Extracolonic manifestations are variably present in FAP, including polyps of the stomach, duodenum and small bowel; and osteomas (bony growths), dental abnormalities, congenital hypertrophy of the retinal pigment epithelium (CHRPE), and soft tissue tumors including epidermoid cysts, fibromas and desmoid tumors. About 5% of individuals with FAP experience morbidity and/or mortality from desmoid tumors. The term Gardner syndrome is often used when colonic polyposis is accompanied by clinically obvious osteomas and soft tissue tumors.
+Attenuated FAP is a variant of familial adenomatous polyposis. The disorder is characterized by an increased risk for colorectal cancer (although lower risk than classical FAP) but with fewer polyps (average of 30) and later age of onset of polyps and cancer than is typically seen in classic FAP. Extra-colonic manifestations are also associated with attenuated FAP.
+

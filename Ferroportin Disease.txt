@@ -1,0 +1,14 @@
+Ferroportin Disease
+
+synonyms:
+hemochromatosis type 4SLC40A1-related hereditary hemochromatosis
+
+overview:
+Ferroportin disease, also known as hemochromatosis type 4, is a rare genetic disorder characterized by the abnormal accumulation of iron in the body. Ferroportin disease is caused by changes (variants or mutations) of theSLC40A1gene. The specific symptoms associated with ferroportin disease can vary greatly from one person to another. Some individuals may only have elevated levels of ferritin, a protein that binds to iron and is used as an indicator of the body’s iron stores in the blood plasma. Other individuals may develop symptoms similar to classicHFE-related hemochromatosis.
+Ferroportin disease is classified as an iron overload disorder, a group of disorders characterized by the abnormal accumulation of iron in the body. It is a separate, distinct disorder from classic hereditary hemochromatosis. Ferroportin disease is caused by variants in a different gene and is inherited in a different manner from other forms of hemochromatosis.
+
+symptoms:
+The symptoms of ferroportin disease vary greatly from one person to another. Researchers believe that different variants in theSLC40A1gene are associated with different symptoms. Generally, ferroportin disease is separated into two main forms.
+Most individuals with ferroportin disease develop a mild form of the disorder. These individuals have elevated levels of ferritin in the blood plasma (hyperferritinemia) and low levels of saturated transferrin (the protein that carries iron in the blood). As affected individuals age, mild liver damage (hepatic fibrosis) and joint symptoms may occur.
+Other individuals develop a rarer form of ferroportin disease that resembles the more common classic form of hemochromatosis (hemochromatosis type 1 orHFE-related). The transferrin saturation is significantly elevated in this form. Symptoms associated with this form include joint pain, abnormalities in the heart’s rhythm or heartbeat pattern (arrhythmias) and diabetes. Liver damage is more prevalent in this form of ferroportin disease and can progress to cause advanced scarring (cirrhosis) of the liver.
+

@@ -1,0 +1,19 @@
+Epidermolysis Bullosa
+
+synonyms:
+EB
+
+overview:
+Epidermolysis bullosa (EB) is a genetic skin disorder characterized clinically by blister formation from mechanical trauma. There are four main types with additional sub-types identified. There is a spectrum of severity, and within each type, one may be either mildly or severely affected. EB ranges from being a minor inconvenience requiring modification of some activities, to being completely disabling and, in some cases, fatal.
+Friction causes blister formation. Blisters can form anywhere on the surface of the skin, within the oral cavity and in more severe forms may also involve the external surface of the eye, as well as the respiratory, gastrointestinal and genitourinary tracts. In some forms of the disease, disfiguring scars and disabling musculoskeletal deformities occur.
+Currently, there is no cure for EB. Supportive care includes daily wound care, bandaging, and pain management as needed.
+
+symptoms:
+Epidermolysis bullosa is divided into four subdivisions, and each subdivision has subtypes.
+Epidermolysis bullosa simplex (EBS) is usually dominantly inherited, and involves disorders of the genes for Keratins 5 and 14 and plectin. Recently, several suprabasal types of EBS have been described as well. Blistering occurs within the uppermost layer of the skin, the epidermis. EBS may be localized to the hands and feet or there may be a generalized distribution, with relatively mild internal involvement. Those with EBS may have thickened calluses on the palms and soles, oral blistering during infancy and rough, thickened fingernails/toenails. EBS does not usually scar. There are rare recessive forms. EBS with plectin mutations may be associated with muscular dystrophy.
+Junctional epidermolysis bullosa (JEB), is recessively inherited, and involves mutations in the genes for several components of the junction between the epidermis and dermis such as Laminin 332 (previously known as Laminin 5), plectin, and a6b4integrin. There are two major subtypes, Herlitz JEB and JEB- other (includes non-Herlitz JEB, and JEB with pyloric atresia and several other subtypes). Junctional Herlitz EB is due to mutations in any of the three Laminin 332 chains and can be a very severe form of EB. Death often occurs during infancy due to overwhelming infection (sepsis), malnutrition, dehydration, electrolyte imbalance or obstructive airway complications. There is a wide spectrum of JEB- O. Oral cavity involvement and irregular pitting of the surfaces of the teeth is common in all subtypes. Infants presenting with pyloric atresia will have trouble with feeding and abdominal distension as neonates and present as surgical emergencies in the newborn period.
+Dystrophic epidermolysis bullosa (DEB) can be either dominantly or recessively inherited, and involves defects in Type VII collagen. Blisters occur within the lower layer of the skin, the dermis. There are two major subtypes, dominant DEB (DDEB) and recessive DEB (RDEB).
+Dominant dystrophic EB (DDEB): DDEB is usually mild. Blistering may be localized to the hands, feet, elbows and knees or it may be generalized. Common findings include scarring, milia (tiny white bumps), mucous membrane involvement, and abnormal or absent nails. Some family members may only have nail dystrophy.
+Recessive dystrophic EB (RDEB): RDEB is typically more generalized and severe than DDEB. In addition to scarring, milia, mucous membrane involvement and nail dystrophy, common manifestations include malnutrition, anemia, esophageal strictures, growth retardation, webbing or fusion of the fingers and toes causing mitten deformity (pseudosyndactyly) with loss of function, development of contractures, malformation of teeth, microstomia and corneal abrasions. Severe generalized RDEB (formerly Hallopeau-Siemens RDEB) tends to be the most severe form.
+Kindler syndrome is very rare and involves all layers of the skin with extreme fragility.
+

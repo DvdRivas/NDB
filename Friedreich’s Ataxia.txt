@@ -1,0 +1,14 @@
+Friedreich’s Ataxia
+
+synonyms:
+FRDA
+
+overview:
+Friedreich’s ataxia (FRDA) is a genetic, progressive, neurodegenerative movement disorder, with a typical age of onset between 10 and 15 years. Initial symptoms may include unsteady posture, frequent falling, fatigue and progressive difficulty walking due to impaired ability to coordinate voluntary movements (ataxia). Affected individuals often develop slurred speech (dysarthria), characteristic foot deformities and an irregular curvature of the spine (scoliosis). FRDA is often associated with cardiomyopathy, a disease of cardiac muscle that may lead to heart failure or irregularities in heart rhythm (cardiac arrhythmias). About a third of the people with FRDA develop diabetes mellitus. The symptoms and clinical findings associated with FRDA result from degenerative changes in sensory nerves, including the point where they enter the spinal cord in structures known as dorsal root ganglia, and in specific nerve tracts in the spinal cord, which leads to a deficiency of sensory signals to the cerebellum, the part of the brain that helps to coordinate voluntary movements. A specific region of the cerebellum called the dentate nucleus also degenerates in FRDA. FRDA is caused by abnormalities (variants) in theFXNgene and people with FRDA inherit a pathogenic variant from each parent, so both copies of theirFXNgene do not function normally. This pattern, wherein parents who are clinically unaffected because they only carry a single variant FXN gene but can have a child who is affected because they inherit pathogenic variants from both carrier parents, is called autosomal recessive inheritance.
+
+symptoms:
+The primary symptom of FRDA is progressive ataxia of the limbs during walking. Ataxia involves inadequate muscle coordination that results in an unsteady gait and poor control of fine movements of the limbs. Involvement of muscles in the mouth and throat may lead to slurred speech and impaired swallowing. Intellect is unaffected. Sideways curvature of the spine (scoliosis) and foot abnormalities may develop. A form of heart disease (cardiomyopathy) may develop in over half of the people with FRDA. The clinical features are progressive and after initially making use of walking aids people with FRDA ultimately require the use of a wheelchair for mobility.
+Atypical Presentations
+Late-onset FRDA (LOFA)/Very late onset FRDA (VLOFA)
+Most people with FRDA are diagnosed before age 25. LOFA and VLOFA are subtypes that affect approximately 15% of individuals with Friedreich’s ataxia. For LOFA the age of onset is between the ages of 26 and 39 years, and for VLOFA the age of onset is after the age of 40 years. Disease progression in these individuals is slower than that associated with typical FRDA.
+

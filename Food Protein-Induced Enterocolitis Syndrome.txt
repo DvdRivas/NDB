@@ -1,0 +1,21 @@
+Food Protein-Induced Enterocolitis Syndrome
+
+synonyms:
+dietary protein enterocolitisFPIES
+
+overview:
+SummaryFood protein-induced enterocolitis syndrome (FPIES) is a disorder characterized by an allergic reaction to food that affects the gastrointestinal system. The term enterocolitis specially refers to inflammation of the small and large intestines.
+Individuals with FPIES have profuse vomiting and diarrhea that usually develops approximately 2-6 hours after ingesting the offending food. Additional symptoms include pallor, lethargy and abdominal swelling (distension). Symptoms can be severe and can potentially cause acute dehydration and/or hypovolemic shock. In children, the most common triggers for an episode are milk, soy and rice, but the disorder has been associated with a wide range of food proteins. In adults, shellfish is the most common trigger food. Many children develop a tolerance to the offending foods by the age of three, however, in some people, the disorder persists. Removal of the offending food should lead to a complete resolution of symptoms. The exact, underlying immune system mechanisms that are involved in the development of FPIES are unknown.
+IntroductionSeveral different gastrointestinal disorders in children are thought to be caused by an abnormal immunologic reaction to dietary proteins. They are generally classified into three groups: IgE-mediated (as in classic food allergies), non-IgE-mediated or mixed (a combination of both). IgE stands for immunoglobulin E, an antibody that the immune system creates in response to an allergic reaction and is often implicated in food allergies. Food specific IgE antibodies are typically not involved in FPIES. The disorder is presumed to be cell mediated.
+Many researchers consider FPIES the severe end of a spectrum of disease involving non-IgE-mediated gastrointestinal food allergy disorders. This spectrum also includes proctocolitis and food-protein induced enteropathy.
+It is estimated that FPIES affects about 900,000 people in United States. However, it is important to note that FPIES remains poorly understood and likely underdiagnosed.
+
+symptoms:
+The symptoms and severity of FPIES can vary greatly from one individual to another. Some individuals have vomiting and diarrhea that is not severe; other individuals can develop severe, even life-threatening complications due to profuse vomiting, diarrhea and other symptoms. Symptoms may be chronic while the offending food remains part of a child’s diet. Onset is usually during the first year of life, although the disorder can develop later during childhood. Specific rare cases due to fish or mollusks have been identified in older children and adults.
+Vomiting and diarrhea, often profuse and repetitive, are the two most common symptoms. Vomiting usually occurs 1-4 hours after eating the offending food. Diarrhea usually occurs 3-6 hours after eating (bloody diarrhea may occur in severe cases.).
+Other signs and symptoms may include:
+• Pale appearance• Lethargy• Abdominal distension• Abnormal bluish discoloration of the skin due to low levels of circulating oxygen in the blood (cyanosis)• Decreased body temperature (hypothermia)• Abnormally high numbers of platelets, blood cells that aid the blood to clot (thrombocytosis)• Atopic disorders that arise because of abnormal immune system responses to environmental allergens and that may include:o Chronic inflammatory disorder of the skin (atopic dermatitis), in about 30% of caseso Asthmao Hay fever (allergic rhinitis)
+Affected infants or children usually recover quickly from an FPIES episode. However, in some cases, an episode can result in severe complications including:
+• Loss of vital fluids (acute dehydration)• Low blood pressure (hypotension)• Hypovolemic shock, a condition in which rapid fluid loss ultimately results in insufficient oxygen delivery to various organs of the body, and that is considered an emergency condition that requires immediate medical care
+Infants or children who have multiple FPIES episodes may lose weight and may fail to grow and gain weight at the rate expected based on gender and age (failure to thrive). Most children outgrow FPIES by two or three years of age, however, in some cases the disorder persists.
+

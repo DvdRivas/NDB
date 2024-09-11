@@ -1,0 +1,19 @@
+Essential Thrombocythemia
+
+synonyms:
+essential hemorrhagic thrombocythemiaessential thrombocytosisETidiopathic thrombocythemiaidiopathic thrombocytosisprimary thrombocythemia
+
+overview:
+Summary
+
+Essential thrombocythemia, also known as ET, is a rare disease. The most important first fact about ET: on average, people with ET have a normal life expectancy.Patients with ET have increased numbers of platelets. Platelets are the smallest of the three types of blood cells and are needed for successful blood clotting after an injury. The two other types of blood cells are red blood cells, which carry oxygen to all tissues in the body, and white blood cells, which help to fight infections. Red blood cell numbers (often measured as a percentage of whole blood, called a hematocrit) are generally normal in ET, while white blood cell numbers are normal or slightly elevated in ET. Importantly, most people with an elevated platelet count do not have ET. Common alternative causes of an elevated platelet count are iron deficiency, infection or generalized inflammation; less common causes are blood disorders such as ET or other related blood diseases (also see below).
+
+Introduction
+
+In the 1950’s, a pioneering hematologist, William Dameshek, placed ET within a family of blood diseases called myeloproliferative disorders. These were unified by their propensity to lead to abnormal increases in various blood cells, perhaps, in Dr. Dameshek’s words, “due to a hitherto undiscovered stimulus”. At the time, it was unclear if these “proliferations” represented a natural response to some external cause, or were the result of an internal defect.
+Over time, it became obvious that the myeloproliferative disorders are caused by genetic accidents (an internal defect) in very early blood cells (stem cells), which are then passed along to all of the progeny of that cell, even as they mature into platelets, red cells, or white blood cells (see below). In acknowledgement of this new understanding, myeloproliferative disorders have been renamed myeloproliferative neoplasms (MPN). For this reason, ET is best thought of as a chronic type of leukemia – albeit one with an overall excellent prognosis and often requiring minimal or no treatment.
+
+symptoms:
+The greatest health risk in patients with ET is an increased risk of developing blood clots. Blood clots can be in the deep vessels of the legs or lungs; ET patients are also more likely to experience strokes and heart attacks. ET patients can develop clots elsewhere, including within the abdomen, an otherwise rare site for clots to form. The risk of clotting increases with age, and disease-associated risks may be quite different for children than for adults, with children generally being at low risk for clots and other problems related to ET. In addition, (and somewhat counter-intuitively) a subset of ET patients may also be more likely to bleed; this appears to be restricted to a small minority of patients with a very high (over 1.5 million) platelet count. Other symptoms in ET include headaches, fatigue, temporary changes in vision, dizziness, ringing in the ears, vertigo and tingling in the hands.
+Very rarely, patients with ET can experience an evolution from ET to a more advanced blood disease. ET can evolve into a related disease called myelofibrosis, or into acute leukemia. This evolution is sufficiently rare (within what is already a rare disease), that the estimates of the risk are imprecise but are thought to be on the order of 1-2% of patients with ET over a lifetime.
+

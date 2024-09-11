@@ -1,0 +1,17 @@
+Factor XII Deficiency
+
+synonyms:
+F12 deficiencyHAF deficiencyHageman factor deficiencyHageman trait
+
+overview:
+Summary
+Factor XII deficiency is a rare genetic blood disorder that causes prolonged clotting (coagulation) of blood in a test tube without the presence of prolonged clinical bleeding tendencies. It is caused by a deficiency of the factor XII (Hageman factor), a plasma protein (glycoprotein). Specifically, factor XII is a clotting factor. Clotting factors are specialized proteins that are essential for proper clotting, the process by which blood clumps together to plug the site of a wound to stop bleeding. Although it is thought that factor XII is needed for proper blood clotting, when it is deficient, other blood clotting factors appear to compensate for its absence. Therefore, the disorder is thought to be benign and usually presents no symptoms (asymptomatic); it is usually only accidentally discovered through pre-operative blood tests that are required by hospitals.
+Introduction
+Factor XII deficiency was first described in the medical literature in 1955 by doctors Oscar Ratnoff and Jane Colopy in a patient named John Hageman. The disorder is sometimes known as Hageman factor deficiency or Hageman trait.
+
+symptoms:
+Factor XII deficiency is rarely associated with any symptoms (asymptomatic). However, when blood from a patient is subjected to a partial thromboplastin time test (PTT), a test measuring clotting time, it takes an abnormally long time for the blood to clot. Serum prothrombin (PT) time, another test of blood clotting, is also abnormally long. The blood level of factor XII tends to vary greatly.
+According to some older medical reports, factor XII deficiency may predispose affected individuals to developing blood clots (thrombi) at an early age. For example, individuals may have a greater risk than the general population in developing deep vein thrombosis or acquired thrombotic disorders. However, such an association remains unproven.
+Researchers are now studying drugs to block (inhibit) factor XII as a potential therapy for individuals who are prone to developing blood clots. More research is necessary to determine the exact role that factor XII plays in the development or prevention of blood clots and its overall functions in the body.
+There are also reports in the medical literature that suggest an association between factor XII deficiency and repeated unexplained miscarriages in some affected women. However, such an association remains controversial and unproven.
+
