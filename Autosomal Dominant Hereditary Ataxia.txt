@@ -1,0 +1,72 @@
+Autosomal Dominant Hereditary Ataxia
+
+synonyms:
+episodic ataxiaspinocerebellar ataxia
+
+overview:
+Summary
+The hereditary ataxias are a group of neurological disorders (ataxias) of varying degrees of rarity that are inherited, in contrast to a related group of neurological disorders that are acquired through accidents, injuries, or other external agents. The hereditary ataxias are characterized by degenerative changes in the brain and spinal cord that lead to an awkward, uncoordinated walk (gait) accompanied often by poor eye-hand coordination and abnormal speech (dysarthria). Hereditary ataxia in one or another of its forms may present at almost any time between infancy and adulthood.
+The classification of hereditary ataxias is complex with several schools of thought vying for recognition. This report follows the classification presented by Dr. Thomas D. Bird and the University of Washington’s GeneReviews.
+This classification is based on the pattern of inheritance or mode of genetic transmission of the disorder: i.e., autosomal dominant, autosomal recessive and X-linked. The autosomal dominant ataxias, also called the spinocerebellar ataxias, are usually identified as SCA1 through SCA37. Also included are several “episodic ataxias”, as well as a very rare disorder known as DRPLA (dentato-rubro-pallido-luysian atrophy). This report deals with the autosomal dominant hereditary ataxias. There are fewer autosomal recessive hereditary ataxias than autosomal dominant hereditary ataxias, and X-linked forms of ataxia are very rare.
+Introduction
+At one time, all autosomal dominant ataxias were called Marie’s ataxia and all autosomal recessive ataxias were called Friedreich’s ataxia. This is no longer appropriate because there is now much more accurate information about these diseases.
+
+symptoms:
+Ataxia is most often associated with degeneration of the region of the brain known as the cerebellum where movement, posture, and balance are coordinated. Thus, many of the symptoms and signs are those expected from cerebellar dysfunction. Ataxia may also be associated with damage (lesions) to the spinal cord. Symptoms and signs often include a characteristic wide-based and unsteady way of walking (gait) that may be accompanied by awkward eye-hand coordination and slow, weak, or imprecise speech.
+Other symptoms and signs may include involuntary eye movement (nystagmus) or double vision (diplopia), sensory loss, and cognitive impairment.Some types of ataxia may be complicated by vision disorders including optic atrophy, retinitis pigmentosa, and eye movement paralysis (ophthalmoplegia).
+Other types of hereditary ataxia may be associated with heart disease, breathing problems, bone abnormalities and diabetes.
+Some clinical features that may be associated with specific forms of autosomal dominant hereditary ataxia are listed below. In this list, SCA refers to spinocerebellar ataxia; DRPLA refers to dentato-rubro-pallido-luysian atrophy; EA refers to episodic ataxia; and SAX refers to spastic ataxia.
+SCA1: Tremors of the hands (Parkinson-like), numbness in fingers and toes (peripheral neuropathy)
+SCA2: Involuntary, irregular eye movements that occur when changing focus from one point to another (saccade), numbness of fingers and toes (peripheral neuropathy), loss of deep tendon reflexes such as at the kneecap, sometimes dementia
+SCA3 (Machado Joseph Disease): Hand tremors, some rigidity, slowness of movement (extrapyramidal signs), involuntary eye movement (nystagmus), drawn back eyelids (lid retraction), numbness (sensory loss), eye jerking (saccade), muscle weakness and wasting (amyotrophy) with muscle twitches, most common dominant genetic ataxia
+SCA4: Progressive painless clumsiness, muscle weakness and atrophy
+SCA5: Early onset and slow progression
+SCA6: Very slow course, usually adult onset
+SCA7: Damage to the retina (retinopathy) with vision loss
+SCA8: Decreased sense of vibrations
+SCA10: Occasional seizures
+SCA11: Mild signs, able to walk about
+SCA12: Early tremor, late dementia
+SCA13: Mild intellectual disability, short stature
+SCA14: Slow progression of disease
+SCA15: Very slow worsening of the walk or gait
+SCA16: Head tremor
+SCA17: Mental function declines
+SCA18: Ataxia with early sensory/motor neuropathy, nystagmus, dysarthria, decreased tendon reflexes
+SCA19/22: Mild ataxia, spasms (myoclonus), mental deterioration and tremor, slow worsening of the walk or gait
+SCA20: Early dysarthria, spasmodic dysphonia, hyperreflexia, bradykinesia
+SCA21: Mild mental deterioration
+SCA23: Dysarthria, abnormal eye movements, reduced vibration and position sense
+SCA25: Associated sensory neuropathy
+SCA26: Dysarthria, irregular visual pursuits
+SCA27: Early onset tremor, cognitive deficits
+SCA28: Nystagmus, ptosis
+SCA29: childhood learning deficits
+SCA30: Hyper reflexia, adult onset
+SCA31: Normal sensation, adult onset
+SCA32: Males infertile
+SCA34: Skin lesions
+SCA35: Hyperreflexia, babinski responses
+SCA36: Tongue atrophy, adult onset
+SCA37: Abnormal vertical eye movements
+SCA38: Adult onset, axonal neuropathy
+SCA40: Adult onset, brisk reflexes, spasticity
+SCA42: Mild pyramidal signs, saccadic pursuit
+ADCADN: Deafness, sensory loss, narcolepsy
+Hypomyelinating leukoencephalopathy: Hypomyelination, basal ganglia atrophy, rigidity, dystonia, chorea
+GRID2-related spinocerebellar ataxia: Cognitive delay, abnormal eye movements, hearing loss
+Pure cerebellar ataxia: Other family members may have frontotemporal dementia or motor neuron disease
+Cerebellar atrophy with epileptic encephalopathy: Infantile seizures, intellectual deficits, microcephaly
+Rapid-onset ataxia: Cerebellar atrophy
+DRPLA: Rapid, sudden involuntary movements (chorea), seizures, dementia, shocklike spasms (myoclonus), more common in Japan
+EA1: Involuntary, rippling, muscular motion (myokymia), startle- or exercise-induced,
+EA2: Involuntary rapid eye movements (nystagmus), dizziness (vertigo)
+EA3: Vertigo, spasticity, involuntary eye movements (vestibulo-ocular reflex), ringing in the ears (tinnitus), double vision (diplopia)
+EA4: Vertigo, rippling of muscles (myokymia), ringing in ears (tinnitus), double vision, and blurred vision
+EA5: Childhood to adolescent onset
+EA6: Seizures, migraine, childhood onset
+EA7: Vertigo, weakness, ? seizures, childhood to adolescent onset
+CAPOS: Cerebellar ataxia, areflexia, Pes cavus, optic atrophy, sensorineural hearing loss, also alternating hemiplegia
+Episodic ataxia with neonatal epilepsy: neonatal epilepsy, later-onset episodic ataxia, autism, hypotonia, dystonia
+SAX1: Progressive leg spasticity, gait ataxia
+

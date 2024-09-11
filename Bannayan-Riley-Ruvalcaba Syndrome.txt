@@ -1,0 +1,21 @@
+Bannayan-Riley-Ruvalcaba Syndrome
+
+synonyms:
+BRRSRiley-Smith syndromeBannayan-Zonana syndromeRuvalcaba-Myhre-Smith syndrome
+
+overview:
+Summary
+Bannayan-Riley-Ruvalcaba syndrome (BRRS) is a rare genetic disorder that is present at birth and is characterized by a large head size (macrocephaly), pigmented spots (maculae) on the penis and benign tumors and tumor-like growths in the intestine called hamartomas. Other possible features include multiple vascular malformations, skeletal abnormalities, as well as developmental delay, autism spectrum disorder, and/or intellectual disability. BRRS is inherited in an autosomal dominant pattern.
+Introduction
+BRRS was previously described as three separate conditions: Riley-Smith syndrome, Bannayan-Zonana syndrome and Ruvalcaba-Myhre-Smith syndrome. BRRS is now known to be a component of PTEN hamartoma tumor syndrome when a germlinePTENmutation is also present:https://rarediseases.org/rare-diseases/pten-hamartoma-tumor-syndrome/
+Approximately 60% of patients with BRRS have an inborn change (mutation) in thePTENtumor suppressor gene in all cells of their bodies (germline). These patients can be given the diagnosis of PTEN hamartoma tumor syndrome.
+
+symptoms:
+Individuals with BRRS have clinical findings that vary from one person to another. They can be separated into different categories: skin, facial differences, skeletal abnormalities, thyroid gland tumors, gastrointestinal tract, central nervous system, ocular abnormalities, muscular system and other findings. Children with BRRS also tend to be bigger and longer at birth and can have blood vessel changes (hemangiomas) which are seen as raised red birthmarks. Growth slows down with age and patients tend to have normal size and height as adults. This is not a complete list of possible findings. Some are found in case reports and are added to the list of possible findings.
+Macrocephaly is a hallmark for the diagnosis of BRRS (head circumference greater than or equal to the 97th percentile).
+Hamartomatous polyposis in the gastrointestinal tract (in the colon and rectum) is seen in 35-45% of patients. Hamartomatous polyposis is defined as a disorganized accumulation of cells and their components from the region where they are located.
+Skin features are extensive in BRRS. Patients may have multiple subcutaneous or visceral (related to the internal organs) lipomas. Spots (hyperpigmented macules) on the skin of the penis are a very characteristic feature (penile lentigines). Other skin features are dark discoloration of the body folds and creases (acanthosis nigricans) and overgrowths of cells on the face called papillomatous papules.
+Neuromuscular and neurodevelopmental abnormalities are common and can include low muscle tone (hypotonia), delayed psychomotor development, seizures (less commonly), developmental delay, autism spectrum disorder, and/or intellectual disability.
+Children with BRRS may also have skeletal malformations such as a funnel chest (pectus excavatum) and abnormal side-to-side and/or front-to-back curvature of the spine (scoliosis, kyphosis or kyphoscoliosis if both). They can also have joint hypermobility.
+Muscular system abnormalities include an abnormal mixture of fat tissue, fibrous tissue and abnormal vessels found inside the muscle (intramuscular lesions).
+

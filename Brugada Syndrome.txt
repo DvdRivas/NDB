@@ -1,0 +1,14 @@
+Brugada Syndrome
+
+overview:
+Summary
+Brugada syndrome is a rare inherited cardiovascular disorder characterized by disturbances affecting the electrical system of the heart. The main symptom is irregular heartbeats and, without treatment, may potentially result in sudden death. Recent reports suggest that Brugada syndrome could be responsible up to 20% of sudden death in patients with structurally normal hearts. The clinical phenotype manifests in adulthood, and it is more frequent in males. Frequently, sudden death can be the first manifestation of the disease. Brugada syndrome is a genetic disease and follows autosomal dominant inheritance. Currently, the prevalence of Brugada syndrome is estimated at 5 in 10,000 people.
+Introduction
+The normal heart has four chambers. The two upper chambers are known as the atria and the two lower chambers are known as the ventricles. Electrical impulses cause the heart to beat. In individuals with Brugada syndrome, the electrical impulses between the ventricles become uncoordinated (ventricular fibrillation) resulting in decreased blood flow. Decreased blood flow to the brain and heart may result in fainting or sudden death.
+Brugada syndrome is named by the Spanish cardiologists Pedro Brugada and Josep Brugada who reported it as a distinct clinical syndrome in 1992. The genetic basis of Brugada syndrome was established by Ramon Brugada in 1998.
+
+symptoms:
+An affected individual with Brugada syndrome typically begins to show symptoms around the age of 40. Individuals with Brugada syndrome may experience irregular heartbeats (ventricular arrhythmias) or may have no apparent symptoms (asymptomatic). Irregular heartbeats may cause difficulty breathing, loss of consciousness or fainting (syncope), and sudden death.
+The severity of symptoms varies from person to person. There are some known triggers for Brugada syndrome like fever and sodium blocking drugs.
+A specific presentation of Brugada syndrome is known as sudden unexpected nocturnal death syndrome (SUNDS). SUNDS is prevalent is Southeast Asia and occurs in young individuals, who die from cardiac arrest during sleep with no apparent or identifiable cause. Another presentation of Brugada syndrome is sudden infant death syndrome (SIDS), which is the death of a child within the first year of life without an identifiable cause.
+

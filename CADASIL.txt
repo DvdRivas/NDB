@@ -1,0 +1,22 @@
+CADASIL
+
+synonyms:
+cerebral autosomal dominant arteriopathy w/subcortical infarcts & leukoencephalopathyhereditary multi-infarct dementia
+
+overview:
+CADASIL is a rare genetic disorder affecting the small blood vessels in the brain. The term CADASIL was first coined in 1993. The age of onset, severity, specific symptoms and disease progression varies greatly from one person to another, even among members of the same family. CADASIL is an acronym that stands for:
+(C)erebral – relating to the brain
+(A)utosomal
+(D)ominant – a form of inheritance in which one copy of an abnormal gene is necessary for the development of a disorder
+(A)rteriopathy – disease of the arteries (blood vessels that carry blood away from the heart)
+(S)ubcortical – relating to specific areas of the brain supplied by deep small blood vessels
+(I)nfarcts – tissue loss in the brain caused by lack of blood flow to the brain, which occurs when circulation through the small arteries is severely reduced or interrupted
+(L)eukoencephalopathy – lesions in the brain white matter caused by the disease and observed on MRI
+
+symptoms:
+Hallmark symptoms of CADASIL may include: 1) recurrent strokes, 2) cognitive impairment, 3) migraine with aura, and 4) psychiatric disturbances. These symptoms are caused by damage to small blood vessels, especially those within the brain. The specific symptoms and severity of the disorder can vary greatly among affected individuals, even among members of the same family.
+Despite this variability, most individuals (approximately three out of four patients) experience recurrent stroke or transient ischemic attacks (TIAs), beginning at 40-50 years of age. Strokes cause weakness and/or loss of feeling of one part of the body, speech difficulties, visual loss or lack of coordination. TIAs result in similar symptoms as strokes but resolve in less than 24 hours. Repeated strokes can cause progression of symptoms listed above and also cause cognitive disturbances, loss of bladder control (urinary incontinence) or loss of balance.
+Although strokes are the most common symptom associated with CADASIL, some affected individuals never have strokes. It is not uncommon for CADASIL patients to have evidence of stroke on MRI without any history of stroke-like symptoms (silent strokes).
+Cognitive impairment eventually develops in many affected individuals on average between the ages of 50-60, although the progression of the disease will vary. Symptoms may include slowly progressive difficulty with concentration, deficits in attention span or memory dysfunction, difficulty making decisions or solving problems, and general loss of interest (apathy). With age, continued cognitive decline may result in dementia, a progressive loss of memory and decline in intellectual abilities that interferes with performing routine tasks of daily life.
+Migraine with aura may be a predominant symptom in some affected individuals, occurring in at least half of CADASIL patients. Migraines are severe headaches that often cause excruciating pain and can be disabling. In individuals with CADASIL, abnormal feelings or warning signs called “aura” often precede these headaches. These additional symptoms usually affect vision and may consist of the sudden appearance of a bright light in the center of the field of vision (scintillating scotoma) or, less frequently, disturbances in all or part of the field of vision. The auras preceding the migraine usually last 20 to 30 minutes but are sometimes longer. Some patients suffer from severe attacks with unusual symptoms such as confusion, fever or coma in very rare situations. Finally, many individuals with CADASIL develop psychiatric abnormalities ranging from personality and behavioral changes to severe anxiety and depression.
+

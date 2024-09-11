@@ -1,0 +1,18 @@
+Autosomal Recessive Hypophosphatemic Rickets Type 2
+
+synonyms:
+ARHR2ENPP1 deficiency
+
+overview:
+Summary
+Autosomal recessive hypophosphatemic rickets type 2 (ARHR2) is a skeletal condition that is characterized by rickets, bone pain, bone deformities, increased risk of bone fractures, fatigue, short stature and calcium deposits in the sites where ligaments and tendons attach to the bones (calcific enthesopathy).
+ARHR2 is an extremely rare condition, characterized by low phosphate levels in the blood (hypophosphatemia) resulting from renal phosphate wasting. ARHR2 affects males and females equally and occurs in populations all around the world. ARHR2 can develop at any time in childhood or adolescence. The manifestations of ARHR2 can vary widely, even among members of the same family. The prevalence of ARHR2 is unknown.
+ARHR2 is caused by changes (variants) in theENPP1gene and is thus part of ENPP1 deficiency. Depending on age, ENPP1 deficiency can manifest in two different presentations (phenotypes): ARHR2 and generalized arterial calcification of infancy (GACI) type 1. GACI type 1 causes pathological soft tissue calcification, including mineralization of the arteries, heart, kidneys and joints. Most infants with ENPP1 deficiency who survive GACI type 1 will develop ARHR2, although ARHR2 can also be seen in patients without a prior history of GACI.
+ARHR2 is treated with daily phosphorus and active vitamin D supplementation. The phosphorus is typically taken every four to six hours to maintain proper levels in the body. Regular blood and urine tests are required to ensure the correct balance is achieved. Early diagnosis and prompt treatment can help prevent/correct bone deformities and relieve bone pain.
+
+symptoms:
+Bone deformity, bone pain, increased risk of bone fractures and short stature are symptoms of ARHR2. The most noticeable bone changes are bowed legs (genu varum) or knock knees (genu valgum), but bone changes in the s ribs and other parts of the body can also be the result of ARHR2. All bones in the body can be affected by ARHR2.
+ARHR2 doesn’t always present with the typical X-ray features of rickets, and diagnosis can be confirmed by a blood test that shows low levels of phosphate (hypophosphatemia) and elevated alkaline phosphatase and FGF23, in the setting ofENPP1variants. Patients also have too much phosphate in their urine (hyperphosphaturia) due to renal phosphate wasting.
+Over-retained primary teeth, teeth that don’t fully erupt (infraocclusion), increased cementum, ankylosis, and slow orthodontic movement are also possible symptoms of ENPP1 deficiency.
+Calcium deposits that develop in the sites where ligaments and tendons attach to the bones (calcific enthesopathies) can also be a symptom of ARHR2 in later life. This may be inflammatory and can cause pain in the area it affects.
+

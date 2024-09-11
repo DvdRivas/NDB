@@ -1,0 +1,16 @@
+Babesiosis
+
+synonyms:
+PiriplasmosisRedwater Fever
+
+overview:
+Babesiosis is a rare infectious disease caused by single-celled microorganisms (protozoa) belonging to the Babesia family. It is believed that the Babesia protozoa are usually carried and transmitted by ticks (vectors). Babesiosis occurs primarily in animals; however, in rare cases, babesiosis infection may occur in humans. Certain Babesia species are known to cause babesiosis infection in humans (e.g., Babesia microti), and the deer tick is a known vector. Human babesiosis infection may cause fever, chills, headache, nausea, vomiting, and/or muscle aches (myalgia). Symptoms may be mild in otherwise healthy people; in addition, some infected individuals may exhibit no symptoms (asymptomatic). However, a severe form of babesiosis, which may be life-threatening if untreated, may occur in individuals who have had their spleens removed (splenectomized) or who have an impaired immune system. A different form of babesiosis has been reported in Europe that is associated with a more severe expression of symptoms.
+
+symptoms:
+Most people with babesiosis do not experience any symptoms (asymptomatic) or experience only mild symptoms. However, in some cases, babesiosis can cause severe complications. These severe cases usually only occur in individuals greater than 50 years of age, individuals who have impaired immune systems (immunocompromised), or individuals who have had their spleen removed (splenectomized).
+The symptoms associated with babesiosis usually develop approximately one to four weeks (incubation period) after exposure to the parasite. Symptoms vary greatly from case to case. The initial symptoms may include fever, a general feeling of ill health (malaise), fatigue, and loss of appetite. Additional early symptoms include joint pain (arthralgia), muscle pain (myalgia), chills, sweats, and headaches.
+Affected individuals may also have additional symptoms including nausea, vomiting, and/or abdominal pain. In some cases, an abnormally large liver and or spleen (hepatosplenomegaly) may be present. Immune compromised individuals with severe babesiosis may have impaired kidney function and an abnormal yellow discoloration to their skin, mucous membranes, and whites of the eyes (jaundice).
+Laboratory examination of blood samples from affected individuals may reveal abnormally low levels of red blood cells (hemolytic anemia) due to their destruction by the parasite. Additional laboratory findings may include abnormally low levels of platelets (thrombocytopenia) and white blood cells (leukopenia).
+In 20-25 percent of human babesiosis cases, affected individuals also have Lyme disease. Individuals who have simultaneous infection with both diseases usually experience more severe expression of symptoms and a longer duration of those symptoms. Individuals with babesiosis may also have another infectious disease known as ehrlichiosis. In rare cases, an individual can be simultaneously affected by all three diseases.
+In rare cases, this infection may be responsible for a respiratory condition known as adult respiratory distress syndrome (ARDS). (For more information on this disorder, choose “Adult Respiratory Distress” as your search term in the Rare Disease Database.)
+
