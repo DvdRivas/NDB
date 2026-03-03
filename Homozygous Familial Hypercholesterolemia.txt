@@ -1,0 +1,14 @@
+Homozygous Familial Hypercholesterolemia
+
+synonyms:
+HoFH
+
+overview:
+Familial hypercholesterolemia (FH) is a diagnosis which refers to individuals with significantly elevated low-density lipoprotein (LDL) cholesterol (LDL-C) or “bad cholesterol” and an increased risk of early onset of coronary artery disease if not sufficiently treated. Most commonly, individuals have heterozygous familial hypercholesterolemia (HeFH), caused by a single gene variant for FH that they have inherited from a parent. HeFH is not rare occurring in about 1 in 250 individuals.
+Homozygous familial hypercholesterolemia (HoFH) occurs when an individual inherits two FH gene variants, one from each parent. Molecular genetic testing on an individual with HoFH shows two disease-causing variants, usually in theLDLRgene though reports of individuals with variants in two other genes have also been reported (APOB, orPCSK9). HoFH is very rare, occurring in about 1 in 250,000 individuals.
+Individuals with HoFH typically have LDL-C levels that are almost always >400 mg/dl. Severe vascular disease including coronary artery disease (CAD) and aortic stenosis are often seen by the teenage years. Without very aggressive treatment including LDL-C apheresis and HoFH specific medications, death can occur before age 30.
+When an individual is diagnosed with HoFH, it is important to identify other family members with FH through “cascade screening” or “family screening.” Without proper family screening, some family members may have undetected very high cholesterol and are at risk of developing early onset CAD. It is common for individuals with FH to have a strong family history of premature CAD (men < 50 years, women <60 years) and sudden cardiac death. With improved detection and preventative treatment, the prevalence of premature CAD in families is declining.
+
+symptoms:
+Individuals with HoFH have extremely high LDL-C levels, usually above 400 mg/dL. They usually have firm nodules caused by cholesterol buildup (xanthomas) by early childhood. The most common sites are the Achilles tendon and the tendons on top of the hands. Planar xanthomas affecting the skin on the hands, elbows, buttocks and knees in a young child are diagnostic for this condition. Corneal arcus, a white, grey or blue opaque ring surrounding the entire inside edge of the cornea is often present. Most individuals with HoFH have severe CAD by their mid-20’s if not aggressively treated. Narrowing of the heart valve leading to the aorta (aortic stenosis) often occurs, which may make it necessary to replace the aortic valve. Very aggressive therapy is needed to reduce the likelihood of vascular events. Most affected people require filtering of their blood (LDL apheresis) and/or medications specifically approved by the U.S Food and Drug Administration (FDA) for HoFH (lomitapide, PCSK9 inhibitors or evinacumab).
+

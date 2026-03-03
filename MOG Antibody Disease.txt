@@ -1,0 +1,18 @@
+MOG Antibody Disease
+
+synonyms:
+MOGAD
+
+overview:
+Summary
+MOG antibody disease (MOGAD) is a neurological, immune-mediated disorder in which there is inflammation in the optic nerve, spinal cord and/or brain. Myelin oligodendrocyte glycoprotein (MOG) is a protein that is located on the surface of myelin sheaths in the central nervous system. While the function of this glycoprotein is not exactly known, MOG is a target of the immune system in this disease. The diagnosis is confirmed when MOG antibodies in the blood are found in patients who have repeated inflammatory attacks of the central nervous system. The specific symptoms and severity of MOGAD can vary from one individual to another, but include issues with vision, symptoms associated with damage to the spinal cord, as well as seizures. Treatments are given at onset, and are typically intravenous steroids, plasma exchange (PLEX) or intravenous immunoglobulin (IVIG). Those with MOG antibody disease should consider ongoing treatment with medications that suppress the immune system.
+Introduction
+Those with MOG antibody disease may previously have been diagnosed with neuromyelitis optica spectrum disorder (NMOSD), transverse myelitis (TM), acute disseminated encephalomyelitis (ADEM), optic neuritis (ON) or multiple sclerosis (MS) because of the pattern of inflammation it causes including brain, spinal cord and optic nerve damage. Patients with persistently positive antibodies to MOG are at risk for recurrent events. Those with MOG antibody disease do not test positive for the NMO antibody called aquaporin 4 (AQP-4). AQP-4 is a water channel protein and those with NMOSD produce autoantibodies against AQP-4. MOG antibody disease and AQP-4 positive NMOSD are thought to have distinct immunological mechanisms. Furthermore, those with MOG antibody disease seem to be less likely to have other autoimmune disorders (such as rheumatoid arthritis, Hashimoto’s thyroiditis, etc.) than those with AQP-4 positive NMOSD.
+
+symptoms:
+MOG antibody disease preferentially causes inflammation in the optic nerve, but can also cause inflammation in the spinal cord, brain, and brainstem. Symptoms can include:
+Loss or blurring of vision in one or both eyesLoss of color visionParalysis (no motor function) of a limb or limbsParaparesis (weakness) of a limb or limbsLoss of sensationLoss of bladder or bowel controlProfound bladder retentionSeizures
+Those with MOG antibody disease are more likely to have both optic nerves affected at the same time, and if the symptoms are in only one eye, the other optic nerve may show subclinical atrophy.
+Children can be found to have the MOG antibody in the setting of ADEM; however, a positive MOG antibody test in the setting of ADEM does not necessarily imply a course of MOGAD. In many children, the MOG antibody disappears within 1 year, and relapses do not occur. In some, the MOG antibody persists, and relapses may occur. When a relapse occurs, the diagnosis of MOGAD is confirmed.
+MOG antibody disease can also occur in relation to another condition called anti-N-methyl-D-aspartate (NMDA) receptor encephalitis. NMDA receptor encephalitis is an autoimmune encephalitis that can cause psychosis, issues with memory and language, and seizures.
+

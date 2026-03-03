@@ -1,0 +1,34 @@
+Gaucher Disease
+
+synonyms:
+glucocerebrosidase deficiencyglucosylceramidase deficiency
+
+overview:
+Gaucher Disease (GD) is a lysosomal disorder characterized by an enlarged liver and/or spleen (hepatosplenomegaly), low levels of circulating red blood cells (anemia), low levels of platelets (thrombocytopenia) and skeletal abnormalities. In some forms of GD, the nervous system is primarily affected. The disease is caused by changes (variants) in theGBA1gene, leading to a deficiency of the enzyme glucocerebrosidase, resulting in the accumulation of glucosylceramide (Gb1) and its derivative glucosylsphingosine (Lyso-Gb1) in lysosomes, affecting various organs and systems.
+GD is categorized into three types: non-neuronopathic (GD1), acute neuronopathic (GD2) and chronic neuronopathic (GD3). Symptoms vary depending on the type, with GD1 often presenting from early childhood to adulthood, GD2 manifesting before birth (prenatally) or within the first weeks of life and GD3 symptoms typically appearing during early childhood.
+GD3 (chronic neuronopathic) typically manifests in early childhood, with neurological symptoms developing gradually, such as cognitive decline, lack of coordination (ataxia) and myoclonic seizures. The progression and cognitive involvement in GD3 can vary significantly, with some individuals presenting with eye movement abnormality as the only neurological abnormality.
+Subtypes of GD3:
+GD3a is associated with myoclonic epilepsy.GD3b is characterized by severe visceral involvement, including enlarged liver and spleen (hepatosplenomegaly), growth delay and skeletal anomalies. Neurological issues in this subtype are usually milder and progress more slowly.GD3c, also known as the cardiac type, involves specific genetic variants that contribute to its unique clinical features, including heart valve abnormalities and other cardiovascular complications.
+
+symptoms:
+Individuals with Gaucher disease may exhibit the following signs and symptoms:
+Enlargement of the spleen (splenomegaly): Often one of the earliest signs occurring in childhood or adolescence. An enlarged spleen can lead to hypersplenism, where the spleen destroys blood cells, worsening anemia, thrombocytopenia and leukopenia. Splenic Infarcts though rare, may occur and cause abdominal pain and digestive issues.
+Enlargement of the liver (hepatomegaly):May manifest in childhood or adolescence accompanying an enlarged spleen, and may result in liver dysfunction, though it is less common than splenomegaly.
+Bone Abnormalities:Includes bone pain, fractures and skeletal abnormalities, which can occur at any age. Individuals with Gaucher disease who experience symptoms in childhood may develop widening of the long bones, known as ‘Erlenmeyer flask deformities.’ Others may develop abnormal bone density or other skeletal changes later in life which can lead to bone fragility and fractures. Episodes of severe bone pain called “bone crises” due to infarctions or the death of bone tissue may occur.
+Osteonecrosis is the most severe bone complication, which can lead to significant bone deformities, often requiring pain management and/or surgery.
+Hematological abnormalities:Anemia and thrombocytopenia can occur at various stages and may worsen over time. Anemia or low red blood cell count can lead to fatigue and weakness. Low platelet counts can increase the risk of bruising and bleeding.
+Neurological complications (in GD2 and GD3):Includes swallowing difficulties, seizures, muscle stiffness, coordination problems and developmental delay, typically appearing in infancy or childhood. The most common indicator of brain involvement in GD is abnormally slowed eye movements or inability to move the eyes horizontally.
+Notably, there is a significant association between variants in theGBA1gene and Parkinson disease. Individuals with GD, particularly those with GD1, as well as carriers ofGBA1variants, have an increased risk of developing Parkinson disease or related neurodegenerative disorders. Symptoms of Parkinson disease in these individuals may include tremors, rigidity, bradykinesia (slowness of movement) and cognitive decline. This association highlights the need for neurological monitoring in GD patients and carriers ofGBA1gene variants.
+Pulmonary complications:Lung problems primarily occur in severe forms of GD (GD2 and GD3) due to recurrent aspirations and/or primary involvement of the lungs, leading to respiratory distress in infancy and childhood.
+Fatigue and chronic pain:Chronic fatigue can occur due to anemia, bone pain and other systemic issues. Generalized pain can be intermittent or persistent, especially related to bone and joint abnormalities.
+Cardiovascular:Some individuals may develop cardiovascular issues, such as heart valve abnormalities and calcification of aorta. Increased pulmonary pressures can be observed on echocardiogram in rare instances.
+Other co-morbidities:Patients with Gaucher disease may have a predisposition to develop a unique combination of other health problems, which vary in severity and may include:
+Malignancies
+Multiple myeloma: Increased risk of developing this type of blood cancerLymphoma and leukemia: Higher prevalence in individuals with Gaucher disease
+Immunological abnormalities
+Immune dysfunction: Impaired immune function can lead to increased susceptibility to infections, especially in children with GD2 who may have frequent viral infectionsGiant lymphadenopathy: Significant enlargement of lymph nodes, particularly noted in GD3. This can mimic lymphomas and requires careful differential diagnosis.
+Other metabolic issues
+Hyperlipidemia: Elevated cholesterol and triglyceride levels, contributing to cardiovascular risksDiabetes mellitus: There is some evidence of increased diabetes risk, although this is not well established.
+Protein-losing enteropathy: Loss of protein through the gastrointestinal tract, leading to low protein levels in the blood (hypoalbuminemia) and associated complications such as edema. This condition is more frequently observed in GD3.
+Gaucheroma: A localized mass of Gaucher cells, typically found in the liver or spleen, more commonly associated with GD3. Gaucheromas can mimic tumors and may cause additional diagnostic challenges and complications.
+

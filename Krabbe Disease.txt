@@ -1,0 +1,20 @@
+Krabbe Disease
+
+synonyms:
+galactocerebrosidase deficiencygalactocerebroside beta-galactosidase deficiencygalactosylceramidase deficiencygalactosylceramide lipidosisgloboid cell leukoencephalopathy (GLD)leukodystrophy, globoid cellsphingolipidosis, Krabbe's typeleukodystrophy, Krabbe’s
+
+overview:
+Krabbe disease belongs to a group of disorders called leukodystrophies, rare genetic disorders that affect the white matter of the brain. Krabbe disease is characterized by a deficiency in the enzyme galactocerebrosidase (GALC) which is an enzyme that uses water molecules to break down certain fats (lipids). Failure to break down these lipids results in deterioration of the protective covering (myelin sheath) surrounding nerves in the brain (demyelination). Characteristic globoid (sphere shaped) cells appear in affected areas of the brain. These enlarged fatty cells accumulate in affected areas and cause a variety of progressive neurological symptoms. Depending on the age that symptoms begin, individuals may present with intellectual and behavioral delays, blindness, deafness, paralysis of facial muscles (pseudobulbar palsy), muscle spasms and seizures. Most patients are diagnosed by measuring GALC enzyme activity in leukocytes taken from a blood sample. Very low activity could indicate a diagnosis of Krabbe disease. In some states, diagnosis may occur through newborn screening. If newborns are diagnosed before 14 days old, they are candidates for early treatment with hematopoietic stem cell transplantation (HSCT). Krabbe disease is inherited in an autosomal recessive pattern.
+
+symptoms:
+Krabbe disease has four subtypes based on age of onset: early infantile-onset (<13 months); late-infantile onset (13-36 months), adolescent onset and adult onset. Eighty-five percent (85%) of all patients with Krabbe disease have the early infantile onset type. Early infantile-onset Krabbe disease is marked by initial normal development followed by rapid and severe deterioration. The average age of death after symptoms begin is two years, but it can range between eight months and nine years. Later onset Krabbe disease results in a slower decline in neurologic function and an increased life expectancy averaging eight years after symptoms begin. Adults diagnosed with Krabbe disease can have significant neurologic impairment but can live 30-50 years after diagnosis.
+The specific symptoms and severity of Krabbe disease vary from person to person.
+Infantile-onset specific symptoms include:
+Excessive cryingIrritabilityDifficulty feedingUnexplained feversLoss of head controlHypersensitivity to noiseInability to gain weight (failure to thrive)Abnormal muscle tightness (spasticity) of the lower extremities
+Later-onset symptoms typically include:
+Delayed developmentSignificant loss of motor functionSeizuresMuscle spasticityRegression of previously acquired skillsVision problemsBurning pain in extremities
+In addition, degeneration of certain parts of the brain may cause:
+Legs rigidly extended at the hip and kneeArms rotated at the shoulder and extended at the elbowAnkles, toes and fingers to be flexed (decerebrate rigidity)Blindness due to brain cortex degeneration
+Individuals with Krabbe disease may also have difficulty swallowing (dysphagia) and peripheral neuropathy, a condition characterized by muscle weakness; pain; numbness; redness; and burning or tingling sensations in the affected areas, especially the arms and legs (extremities). Pathological changes may be found on a brain biopsy as well as a decrease in white matter viewed on a magnetic resonance imaging (MRI) test.
+Cells in the brain called microglia that normally clean up the excess galactolipids (fatty cells) are not working due to the lack of GALC enzyme. This process transforms them into abnormal cells that have more than one nucleus (multinucleated) and are sphere-shaped (globoid). This affects the protective myelin sheath around the nerves of the brain. This often progresses to cause life-threatening complications.
+

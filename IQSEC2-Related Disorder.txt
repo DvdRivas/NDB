@@ -1,0 +1,17 @@
+IQSEC2-Related Disorder
+
+synonyms:
+IQSEC2-related encephalopathyX-linked intellectual disability 1/78IQSEC2-related epilepsyIQSEC2-related intellectual disabilityX-linked intellectual disability 1X-linked intellectual disability 78
+
+overview:
+Summary
+IQSEC2-related disorder is a genetic condition that causes intellectual disability and sometimes other physical, neurological or psychiatric symptoms. Intellectual disability is noted in early development when a child does not meet motor, social or language milestones at a typical age. Characteristic symptoms include developmental delay in language, difficulties with social communication, abnormal hand movements and low muscle tone. This condition is caused by changes (variants or mutations) in theIQSEC2gene located on the X chromosome that are not inherited. Males are more likely be affected but females can also be affected. Females tend to have milder symptoms. Patients described in the medical literature have been diagnosed as early as 8 months of age, with seizures occurring between 8 months to 4 years of age.
+Introduction
+In developed countries, around 2% of the population is affected by intellectual disabilities and there are over 100 known genetic causes. TheIQSEC2gene was first considered as a cause of neurologic disorders in 2008. As of 2024, over seventy distinct variants in theIQSEC2gene have been identified. Several case series presenting children with intellectual disability and epilepsy with variants of theIQSEC2gene have been published in the medical literature.
+
+symptoms:
+Patients with IQSEC2-related disorder have a range of intellectual disabilities. Some patients can live independently with minimal support, and others require 24-hour care and in-depth support for daily activities. Many are unable to walk independently and have minimal ability to talk or respond to commands.  Most children also have some level of cognitive impairment, such as an inability to name body parts and common objects. Children with ISEC2-related disorder often have autistic features such as difficulty with communication, restricted interests, repetitive behaviors and lack of interest in other children. Associated mental health disorders may develop including anxiety, depression and schizophrenia.
+Physical features may include a flattened head shape (plagiocephaly), a very small head (microcephaly), reduced muscle tone (hypotonia) and crossed eyes (strabismus).
+Seizures typically present at an early age and often persist despite anti-seizure treatments. Many different types of seizures have been reported, including becoming limp (atonic), brief jerking (myoclonic), brief flexion or extension of a body part (epileptic spasms), blank staring (absence) and rhythmic jerking of the arms and legs (generalized tonic-clonic). MRI findings of the brain often show nonspecific white matter changes, thinning of the corpus callosum (nerve fibers joining the two hemispheres of the brain) and mild overall atrophy (structures smaller than usual).
+Specific symptoms depend on theIQSEC2gene variant (mutation). However, a precise relationship between the specific gene variant and physical characteristics has yet to be identified. Missense mutations (point changes causing a different amino acid to be added), nonsense mutations (early termination of the DNA reading), splice site mutations (change in DNA sequence at the processing site), deletions, duplications and structural variants in theIQSEC2gene have all been described.
+

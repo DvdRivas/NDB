@@ -1,0 +1,27 @@
+Glutathione Synthetase Deficiency
+
+synonyms:
+pyroglutamicaciduriapyroglutamic aciduria5-oxoprolinuria
+
+overview:
+Glutathione synthetase deficiency is a very rare condition that affects the body’s ability to produce an important protein called glutathione. Glutathione plays a key role in many processes inside our cells, helping protect them from damage and ensuring they function properly.
+Glutathione synthetase deficiency can vary widely in how it presents, ranging from mild to severe forms:
+The mild form affects only the red blood cells, which are responsible for carrying oxygen throughout the body. It is characterized by the premature breakdown of red blood cells (hemolytic anemia). Symptoms are often less severe and may be easier to manage.
+The moderate form has effects that are more widespread than the mild form but not as severe as the generalized form and impacts more types of cells in the body.
+The severe form or generalized form affects many different cells throughout the body. It is characterized by hemolytic anemia and metabolic acidosis, progressive neurological symptoms, intellectual disability, seizures and in some cases, recurrent infections that can be very severe.
+GSD is caused by changes (pathogenic variants) in a specific gene called theGSSgene. Inheritance is autosomal recessive.
+There is no cure for glutathione synthetase deficiency, so effective supportive care is crucial. Metabolic acidosis can be treated with sodium bicarbonate or citric acid, especially during infections. To protect tissues from oxidative stress, supplementing with vitamins C and E is recommended to improve neurological outcomes.
+
+symptoms:
+Glutathione synthetase deficiency (GSD) may be best thought of as a spectrum of disease ranging from mild to moderate to severe expression of the disorder.
+Although researchers have been able to establish a clear syndrome with characteristic or “core” symptoms, much about the disorder is not fully known, mainly because there are only a few cases reported. Therefore, it is important to note that affected people may not have all the symptoms discussed below and that each individual is unique.
+The mild form of glutathione synthetase deficiency is characterized by:
+Hemolytic anemia, the premature breakdown of red blood cells, which primary role is to delivery oxygen throughout the bodyThe red blood cells have a life span of approximately 120 days before they are destroyed by the spleen, but in GSD, the red blood cells are destroyed prematurely and the rate of production of new cells in the bone marrow can no longer compensate for their lossThe severity of the anemia is determined by the length of time that the red blood cells survive and by the rate at which the bone marrow continues to create new red blood cell productionHemolytic anemia can be associated with:FatiguePale skin colorLightheadednessIrregular heartbeatsShortness of breathAbnormally enlarged spleen (splenomegaly) in some people, but hemolytic anemia is usually the only symptom
+The moderate form may include the following signs and symptoms:
+Mild to moderate hemolytic anemiaSevere metabolic acidosis caused by an accumulation of 5-oxoprolineMetabolic acidosis is a condition in which the chemical balance of the body is off, and the body fluids contain too much acid
+The severe form can vary greatly from one person to another, but symptoms can start in babies and may include:
+Mild to moderate hemolytic anemiaMetabolic acidosis in the newbornsProgressive cerebral and cerebellar degeneration in infants including:Impairment in the acquisition of skills requiring the coordination of muscular and mental activities (psychomotor delay)Intellectual disability of varying degreesSeizuresImpaired coordination of voluntary movements (ataxia)Tremors that occur when attempting to make deliberate actions (intention tremor)Increased muscle tone and stiffness of muscles (spasticity)
+Some babies and young children may develop severe life-threatening complications due to:
+Bacterial infections that can be widespread to the blood (sepsis)Severe metabolic acidosis
+Chronic and progressive disorders of vision known as retinal dystrophies have been reported in adults with glutathione synthetase deficiency.
+

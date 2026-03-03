@@ -1,0 +1,13 @@
+Landau Kleffner Syndrome
+
+synonyms:
+acquired aphasia with convulsive disorderacquired epileptiform aphasiaLKSdevelopmental/epileptic encephalopathy with spike wave activation on sleep (DEE-SWAS)
+
+overview:
+Landau Kleffner syndrome (LKS) is a rare childhood disorder characterized by the loss of language comprehension (auditory verbal agnosia) and verbal expression (aphasia) in association with severely abnormal electroencephalographic (EEG) findings during sleep and clinical seizures in most patients.
+In 2022, the International League Against Epilepsy (ILAE) recommended that Landau-Kleffner syndrome be considered a subtype of developmental/epileptic encephalopathy with spike wave activation on sleep (DEE-SWAS). These conditions are a spectrum of epilepsy syndromes in children characterized by a specific abnormal EEG pattern and variable degrees of cognitive regression. A child with a diagnosis of LKS may transition to another DEE-SWAS syndrome over time.
+
+symptoms:
+The symptoms typically begin between the ages of three and seven years although the condition may rarely occur in children as young as 18 months of age. Affected children often appear to have acquired deafness since they fail to respond to verbal language and in some cases to nonverbal sounds. A significant minority of children with LKS also develops serious behavioral dysfunction, including hyperactivity, temper outbursts, or withdrawn behaviors but rarely the severe social impairments seen in autism spectrum disorders.
+Approximately 70% of affected children have obvious seizures, most often focal with or without alteration of awareness and/or atypical absence in type.
+

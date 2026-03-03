@@ -1,0 +1,13 @@
+Myocarditis
+
+synonyms:
+Inflammatory cardiomyopathyIdiopathic myocarditisViral cardiomyopathy
+
+overview:
+Myocarditis is a rare cause of cardiovascular disease primarily manifest as sudden death, chest pain or heart failure. The symptoms of heart failure from myocarditis include shortness of breath, fatigue and ankle swelling. The cause is an inflammation of the heart muscle, most often following a viral infection. Between 0.5 and 3.5 percent of heart failure hospitalizations are due to myocarditis. Most cases of myocarditis are identified in young adults with males affected more often than females. The diagnosis should be considered in any young adult with unexplained cardiac causes of shortness of breath or loss of consciousness. Many authorities recommend the diagnosis be made by heart biopsy, but imaging with magnetic resonance is growing as an accepted diagnostic method. Specific causes of myocarditis vary by world region, which mandates region-specific diagnostic and management strategies.
+
+symptoms:
+The symptoms of myocarditis are not specific to the disease and are similar to symptoms of more common heart disorders. A sensation of tightness or squeezing in the chest that is present with rest and with exertion is common. Not infrequently chest pain is improved with leaning forward and worse with lying back when the inflammation affects the outer lining of the heart or pericardium as well as the heart muscle. If the heart pacing or conduction tissues become inflamed, a slow heart rate may cause fatigue or lightheadedness. Inflammation can also cause extra beats that feel like a flutter in the chest. Sustained runs of extra beats in quick succession may lead to lightheadedness or even loss of consciousness. Sudden death resulting from a myocarditis-related arrhythmia is an important cause of death in children and young athletes.
+In a majority of cases, the symptoms of myocarditis are preceded a few days to weeks by a flu-like illness. Specific viruses and even multiple virus infections may be seen in immunocompromised patients such as persons infected with HIV. Rarely myocarditis may result from an adverse drug reaction. In this setting, a temporal association between a new medication and myocarditis symptoms can suggest the cause.
+Most cases of myocarditis are mild and improve with standard medical therapy directed at improving heart function or correcting abnormal heart rhythms. In a minority of cases the symptoms do not improve or become recurrent. In these circumstances referral to a medical center with expertise in myocarditis management is useful. The evaluation and management of chronic or recurrent myocarditis is not standardized.
+

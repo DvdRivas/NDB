@@ -1,0 +1,13 @@
+Huntington’s Disease
+
+synonyms:
+Chronic Progressive ChoreaDegenerative ChoreaHDHereditary ChoreaHereditary Chronic Progressive ChoreaHuntington's ChoreaVEOHDVery Early Onset Huntington's DiseaseWoody Guthrie's Disease
+
+overview:
+Huntington’s disease is a genetic, progressive, neurodegenerative disorder characterized by the gradual development of involuntary muscle movements affecting the hands, feet, face, and trunk and progressive deterioration of cognitive processes and memory (dementia). Neurologic movement abnormalities may include uncontrolled, irregular, rapid, jerky movements (chorea) and athetosis, a condition characterized by relatively slow, writhing involuntary movements. Dementia is typically associated with progressive disorientation and confusion, personality disintegration, impairment of memory control, restlessness, agitation, and other symptoms and findings. In individuals with the disorder, disease duration may range from approximately 10 years up to 25 years or more. Life-threatening complications may result from pneumonia or other infections, injuries related to falls, or other associated developments.
+Huntington’s disease is transmitted as an autosomal dominant trait. The disease results from changes (mutations) of a gene known as “huntington” located on the short arm (p) of chromosome 4 (4p16.3). In those with the disorder, the huntington gene contains errors in the coded “building blocks” (nucleotide bases) that make up the gene’s instructions. The gene contains abnormally long repeats of coded instructions consisting of the basic chemicals cytosine, adenine, and guanine (CAG trinucleotide repeat expansion). The length of the expanded repeats may affect the age at symptom onset. The specific symptoms and physical features associated with Huntington’s disease result from degeneration of nerve cells (neurons) within certain areas of the brain (e.g., basal ganglia, cerebral cortex).
+
+symptoms:
+Huntington’s disease is characterized by rapid uncontrollable muscle movements such as tics or muscle jerks (choreiform movements or chorea). This disorder causes a loss of coordination and personality changes.  As the disease progresses, the ability to speak may be impaired, memory may fade, and the involuntary jerky muscle movements (chorea) become more severe.
+Huntington’s disease runs a ten to 25 year progressive course.  As the disorder progresses,  the chorea may subside and there may be an absence of movement (akinesia).  Dementia gradually develops.  Patients with Huntington’s disease are at high risk of developing pneumonia as a result of being bedridden and undernourished.
+

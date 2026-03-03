@@ -1,0 +1,12 @@
+Mal de Debarquement
+
+synonyms:
+MDD
+
+overview:
+Mal de debarquement (MDD) is a rare and poorly understood disorder of the vestibular system that results in a phantom perception of self- motion typically described as rocking, bobbing or swaying. The symptoms tend to be exacerbated when a patient is not moving, for example, when sleeping or standing still. Studies have shown that a brief period of these symptoms is common in healthy individuals after prolonged episodes of passive motion, normally lasting seconds to three days. However, in MDD, significant balance impairment can persist for months to years. Symptoms may diminish in time or may reappear spontaneously or after another exposure. The most common triggers are water-based activities such as ocean cruising. Less common triggers include airplane travel, extended landing travel and sleeping on water beds. Other common complaints of patients with MDD include a sensation of uneven ground below their feet while walking, or feeling as if they are still on a boat. It is rare for MDD patients to have true rotational vertigo or motion sickness.
+
+symptoms:
+The primary symptom is the persistence of a sense of motion and rocking. Some patients may experience fatigue, mood changes and confusion. Imbalance is a common complaint. Symptoms often increase when exposed to fast movements, flickering lights and grocery store aisles. There may be transient improvement in symptoms with re-exposure to passive motion, for example, riding in cars or trains. After completion of the trip, however, the symptoms tend to recur.
+Studies have shown that the length of time one is exposed to a motion experience does not determine the severity or duration of the syndrome, but most typical cases are triggered by day trips lasting several days.
+

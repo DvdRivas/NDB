@@ -1,0 +1,15 @@
+Human HOXA1 Syndromes
+
+synonyms:
+Athabaskan brainstem dysgenesis syndrome (ABDS)Bosley-Salih-Alorainy syndrome (BSAS)Navajo brainstem syndrome
+
+overview:
+Human HOXA1 syndromes are rare disorders with complex neurological and systemic symptoms. These syndromes are found among a few American Indian tribes such as the Navajo and Apaches, who are related to Athabaskan Indians of northern Canada.
+It is also found in consanguineous Saudi Arabian and Turkish families. Various names have been applied (see the synonyms above), but the name human HOXA1 syndromes is generally used because it is not linked to a specific geographic location.
+The identity of the disorder was determined by genetic studies of the parents and affected children. To date, each affected child acquires a copy of the same mutated gene from each of the parents (homozygosity) who share ancestral relationships. The abnormal gene has been identified and its location on chromosome 7 has been determined. Human HOXA1 syndromes are inherited as autosomal recessive genetic conditions.
+
+symptoms:
+Both populations studied (those related to Athabaskan Native Americans and the groups from the Middle East) presented with Duane syndrome and/or “horizontal gaze palsy”, both of which are characterized by restrictions in horizontal eye movements. Both populations also shared deafness, developmental delays, and a spectrum of internal carotid artery and conotruncal heart malformations. Facial asymmetries and mild external ear malformations were also sometimes present.
+In contrast to the Middle Eastern groups, some of those in the Amerindian population had facial weakness and assumed developmental defects of the seventh cranial nerve. The Amerindian population also presented with central hypoventilation while asleep, a phenotype not yet identified in Middle Eastern families. Hypoventilation in the awake state, if present, is much milder (congenital central hypoventilation syndrome). Finally, both populations show signs of cognitive and behavioral impairments, as two Middle Eastern children from separate families were diagnosed with autism spectrum disorder (ASD) and most affected Athabaskan Indians exhibit intellectual disabilities; however, it is still unclear if the intellectual disabilities are secondary to brain hypoxia in Athabaskan patients.
+The range and types of clinical findings in affected patients can vary significantly. Patients who have horizontal gaze restrictions and sensorineural deafness, and are thus candidates for HOXA1 mutations, should undergo magnetic resonance angiography (MRA) to determine the extent of vascular malformations. Furthermore, some patients can also display normal eye movements and hearing, but may still have arterial and/or conotruncal heart malformations that could cause significant medical problems. Thus, siblings of affected children should undergo genetic testing to determine if they have the disease despite lack of obvious clinical symptoms.
+

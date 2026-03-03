@@ -1,0 +1,17 @@
+Hemolytic Disease of the Fetus and Newborn
+
+synonyms:
+maternal alloimmunizationRh diseaseisoimmunizationerythroblastosis fetalisfetal erythroblastosisHDFN
+
+overview:
+Hemolytic disease of the fetus and newborn (HDFN) can occur in an unborn baby or newborn if the mother has red cell antibodies (a diagnosis known as maternal red cell alloimmunization). During pregnancy, these antibodies can cross through the placenta and enter the unborn baby’s blood and destroy the baby’s red blood cells causing anemia (low blood count). The child is at risk for HDFN if their blood type matches the mother’s antibody. Symptoms can be mild or severe. Maternal-fetal incompatibility with ABO, Rhesus factor (Rh) and/or other red blood cell antigens, RhD, Kell, and other non-ABO alloantibodies are the primary cause of moderate to severe HDFN, whereas ABO HDFN is typically mild and occurs after birth.
+
+symptoms:
+In the unborn baby (fetus) symptoms may include:
+Anemia, which can be seen using specialized ultrasounds called middle cerebral artery (MCA) Doppler ultrasoundsIn severe cases, untreated anemia can progress to hydrops (condition in which large amounts of fluid buildup around organs cause extensive swelling), organ damage and death
+In the newborn baby symptoms may include:
+Anemia which is measured by a blood draw for hemoglobin/hematocrit and sometimes noticeable as paleness, lethargy, fussiness or rapid breathing or heart rateHigh bilirubin (hyperbilirubinemia) which his measured by blood draw for total serum bilirubin and sometimes noticeable as yellowing of skin or eyesBilirubin encephalopathy which can be noted by high pitched crying or seizures (in severe untreated cases; rare in developed countries)Low white blood cell count (neutropenia) in some casesLow platelet count (thrombocytopenia) in some cases
+If untreated or if not treated quickly, HDFN can progress to hydrops, organ failure and death.
+Hyperbilirubinemia is not a concern while the baby is inside the uterus, but it can become serious in newborn babies. If not managed well, hyperbilirubinemia can cause brain damage, developmental delay, hearing impairment or death. With proper management, survival rates of 92-98% have been reported in skilled referral centers.
+After birth the child remains at risk of HDFN until maternal red cell antibodies are cleared from the child’s blood, usually by 12-15 weeks of age. Long-term health problems are rare. Challenges with development (like cerebral palsy and hearing issues) have been reported in 4.8% of children who required intrauterine transfusion (IUT) for HDFN, but this was mostly in cases of severe hydrops, which is almost always preventable with close monitoring and timely, skilled treatment.
+

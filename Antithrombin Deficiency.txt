@@ -1,0 +1,13 @@
+Antithrombin Deficiency
+
+synonyms:
+AT 3AT III deficiencythrombophilia, hereditary, due to AT III
+
+overview:
+Antithrombin deficiency is a blood disorder characterized by the tendency to form clots in the veins (thrombosis). An inherited tendency to thrombosis is known as thrombophilia. Antithrombin is a substance in the blood that limits the blood’s ability to clot (coagulation) and the primary inhibitor of thrombin, which is required for the development of blood clots; it also is the primary inhibitor of two clotting factors, factor Xa and factor IXa, that are required for the generation of thrombin. In people with congenital antithrombin deficiency, there is a reduced amount of this substance in the blood due to a genetic abnormality. Antithrombin deficiency may also be acquired; in such cases, the disorder may be reversible with resoluton/improvement in the disease process responsible for the deficiency.
+
+symptoms:
+People with antithrombin deficiency are at risk of developing a blood clot (thrombus) within a vein (thrombosis). The first episode of thrombosis typically occurs before the age of 40 years. A thrombus is a clump of blood cells (i.e., platelets, clotting factors, fibrin, etc.) that may become attached (adhere) to the interior wall of a blood vessel, usually a deep vein in the leg. This may be brought on by surgery, pregnancy, childbirth, trauma, or use of oral contraceptives. About 40 percent of people with antithrombin deficiency develop a thrombus that pulls away from the wall of a vein in the legs or pelvis (deep vein thrombosis or DVT) and travels through the blood stream to the lungs (pulmonary embolism or PE). Pulmonary emboli are dangerous and hence DVT and PE must be treated quickly. Thrombi also occur the superficial veins in the legs (superficial thrombophlebitis). Thrombi may also occur in the veins in the abdomen (mesenteric, portal, hepatic or splenic veins) or around the brain (sinus veins). Clots in the arteries of the heart may lead to heart attack (myocardial infarction) and clots in the arteries of the brain to stroke. However, arterial clots are rare in antithrombin deficiency.
+The most common symptoms of a DVT are swelling, pain, redness, and warmth of the affected leg; pulmonary emboli typically present as chest discomfort on breathing (so-called pleuritic chest pain, shortness of breath, and anxiety; in more severe cases, patients can become dizzy, pass out (syncope), or go into shock.
+There are several reports in the medical literature of newborn children with antithrombin deficiency who develop blood clots. This occurs rarely however, and may be due to the protective effect of higher levels of a secondary plasma inhibitor of thrombin called alpha-2 macroglobulin.
+

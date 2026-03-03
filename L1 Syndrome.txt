@@ -1,0 +1,17 @@
+L1 Syndrome
+
+synonyms:
+HSAS, aqueductal stenosis, X-linkedL1 diseaseL1 spectrumMASA syndromeSPG1 (X-linked complicated hereditary spastic paraplegia type 1)X-linked corpus callosum agenesisX-linked hydrocephalus with stenosis of the aqueduct of sylvius
+
+overview:
+Summary
+
+L1 syndrome is an inherited, X-linked disorder occurring in males that primarily affects the nervous system. The disease is mainly characterized by hydrocephalus (increased fluid in the center of the brain), spasticity of the lower limbs (muscle stiffness), adducted thumbs (clasped towards the palm), aphasia (difficulty with speaking), seizures, and agenesis of the corpus callosum (underdeveloped or absent connecting tissue between the left and right hemispheres of the brain). Affected individuals have intellectual disability in the mild to moderate range. L1 syndrome is caused by abnormalities (mutations) in theL1CAMgene, which affects about 1 in 30,000 males.
+
+symptoms:
+The variable types of L1 syndrome were once thought to be different diseases, but all of the following conditions are now known to be caused by mutations in theL1CAMgene:
+X-linked hydrocephalus with stenosis of aqueduct of Sylvius (HSAS) is characterized by severe hydrocephalus that often begins prenatally, adducted thumbs, spasticity and severe intellectual disability.
+MASA syndrome (mental retardation, aphasia, spastic paraplegia adducted thumbs) is characterized by mild to moderate intellectual disability, aphasia (delayed speech), hypotonia that progresses to spasticity, adducted (clasped) thumbs, and variable widening of the third ventricle in the brain.
+X-linked complicated hereditary spastic paraplegia type 1 is characterized by spastic paraplegia (shuffling gait), mild to moderate intellectual disability and more or less normal findings on MRI of the brain.
+X-linked complicated corpus callosum agenesis is characterized by variable spastic paraplegia, mild to moderate intellectual disability and abnormalities in the corpus callosum of the brain.
+

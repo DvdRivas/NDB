@@ -1,0 +1,18 @@
+Hepatopulmonary Syndrome
+
+synonyms:
+HPS
+
+overview:
+Summary
+The hepatopulmonary syndrome (HPS) is a rare lung complication of liver disease.When the liver is not functioning properly, blood vessels in the lungs may dilate. If this is severe enough, the lungs can lose their ability to effectively transfer oxygen to the body. This is called hepatopulmonary syndrome (HPS) and it occurs in approximately 5-32% of patients with scarring of the liver (cirrhosis)1.
+The most prominent symptom of HPS is usually a severe shortness of breath and low blood oxygen levels. Patients may also notice that their fingertips turn blue or that their fingers take on a club-like appearance2. Supplemental oxygen is often required to manage the symptoms of HPS, but this may not be necessary in milder cases.
+Currently, the only known cure for HPS is a liver transplant. After replacing the diseased liver in HPS patients, the lungs return to normal within approximately one year3.
+
+symptoms:
+The vast majority of HPS patients (82%) initially present with features of their liver disease, while a minority (18%) present with lung (pulmonary) complaints first. Overall, the most common complaint is an insidiously progressive shortness of breath (dyspnea) at rest or upon exertion, reported in 95% of patients and usually developing after years of liver disease2.  However, given the high prevalence and often multifactorial nature of dyspnea in cirrhotic patients, this complaint is easily overlooked, and HPS patients reportedly have respiratory symptoms for a mean of 4.8 years before diagnosis 7.  In a majority of patients,  dyspnea and hypoxemia progress over time 8.  Furthermore, this progressive decline often occurs despite stable liver function 9.
+A more specific complaint is that of platypnea – breathlessness experienced in the upright position which is improved when lying down (supine position)7. This in turn correlates to the objective finding of orthodeoxia, a drop of  4mmHg in PaO2 or  5% in saturation when moving from the supine to the standing position, occurring in as many as 88% of HPS patients7.
+Other clinical manifestations of HPS include:•	Spider angiomata (small, dilated blood vessels clustered very close to the surface of the skin. (likelihood of HPS 21%)•	Clubbing of fingers or toes (likelihood of HPS 78%)•	Cyanosis (abnormal bluish discoloration of skin or mucous membranes due to tissues near the skin surface having low oxygen saturation) (likelihood of HPS 100%)2
+It is important to note that chest x-ray and thoracic CT scanning are often unremarkable in HPS; a lack of radiographic abnormalities is not sufficient evidence to rule out HPS.
+It should also be noted that HPS is not limited to patients with severe liver dysfunction; in fact, many patients with moderate to severe HPS have comparatively well preserved hepatic function1.
+

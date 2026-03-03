@@ -1,0 +1,25 @@
+Primary Central Nervous System Lymphoma
+
+synonyms:
+primary CNS lymphomaPCNSL
+
+overview:
+Summary
+A primary central nervous system lymphoma (PCNSL) is a type of cancer originating from immune cells known as lymphocytes (lymphoma) that develops in the brain and/or spinal cord (central nervous system; CNS). Around 1,500 patients are diagnosed each year in the United States. Older individuals and those with an impaired immune system (immunocompromised), especially those living with HIV/AIDS, are at an increased risk of developing a primary CNS lymphoma. PCNSL is an AIDS-defining illness, meaning that a HIV-positive individual with a PCNSL will be considered to have AIDS. The symptoms of PCNSL are similar to those of other brain tumors and can include arm and leg weakness, cognitive and behavioral changes, brain swelling, language deficits and vision changes. High-dose methotrexate (HD-MTX) based chemotherapy is the main treatment for PCNSL.
+
+symptoms:
+The potential symptoms of primary CNS lymphoma are varied and mostly depend on the location of the tumor. Symptoms typically develop over weeks (subacute).
+Common signs and symptoms may include:
+Focal neurological deficits such as asymmetric upper and/or lower extremity weakness or impaired movement (paresis) or difficulty walkingBlurry vision and floaters (the most common visual symptoms)-eye symptoms are present in about 20% of patients at presentationNeurocognitive deficits, especially in the case of AIDS-related PCNSLPersonality, language and behavioral changesBladder and bowel dysfunction that may lead to incontinenceBrain swelling and increased pressure inside the skull (intracranial pressure) due to pressure from the mass and fluid that surrounds it (edema) which can lead to different symptoms including:Headachesvomiting (emesis)vision changes (papilledema)seizures (less common compared to other brain tumors or brain metastases)
+If specific structures within the brain (such as the pituitary gland and hypothalamus) are damaged, PCNSL can be associated with:
+Excessive eating (hyperphagia)Decreased libido (hyposexuality)Arginine vasopressin deficiencyand inappropriate antidiuretic hormone secretion which leads to a decreased concentration of sodium in the blood, a condition known as hyponatremia
+Involvement of the brainstem which connects the brain and the spinal cord can lead to:
+Gait imbalance (ataxia)VertigoImpaired eye movements (dysconjugate gaze)Intractable vomiting
+Spinal cord involvement is rare in PCNSL. When the spinal cord is compressed and damaged (myelopathy) by a mass, affected individuals can have:
+WeaknessLoss of sensationBladder and bowel dysfunction
+Other structures that can be compromised by a primary CNS lymphoma include the coverings of the brain (meninges) and the peripheral and cranial nerves (neurolymphomatosis). The latter can lead to:
+Nerve pain and deficits specific to the function of the cranial nerve affected (for instance, face droop if the facial nerve is affected)
+PCNSL is a malignant tumor and can potentially spread to other sites outside the central nervous system, although systemic dissemination is rare. Systemic spread of PCNSL can lead to weight loss, fever and night sweats. Those symptoms are known as constitutional or B symptoms. Such symptoms may be present in patients with AIDS-related PCNSL even in the absence of systemic spread.
+PCNSL most commonly occurs in individuals around age 65, but rare cases have also been described in children. AIDS-related PCNSL tends to develop in younger patients in their 40s. With proper treatment, primary CNS lymphoma regresses in around 85% of patients. However, relapse occurs in 50% of patients, most often within two years.
+The average survival after a diagnosis of PCNSL is 44 months. Overall, 30% of affected individuals survive more than five years after diagnosis, and long-term survival is achieved in 15 to 20% of patients. Age under 60 years and high level of autonomy and functioning at the time of diagnosis are associated with increased survival, while HIV/AIDS and involvement of deep regions of the brain are associated with lower survival. Elevated blood levels of lactate dehydrogenase (LDH) and elevated protein concentration in the cerebrospinal fluid, both of which are usually measured during diagnostic workup, are also associated with lower survival.
+

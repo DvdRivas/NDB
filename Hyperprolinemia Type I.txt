@@ -1,0 +1,15 @@
+Hyperprolinemia Type I
+
+synonyms:
+proline oxidase deficiencyHPI
+
+overview:
+Summary
+Hyperprolinemia type I (HPI) is an inherited metabolic disorder of proline metabolism, which is characterized by abnormally high levels of proline, hydroxyproline and glycine in the blood and the urine. The high level of blood proline is the result of a deficiency of the enzyme proline oxidase, also called POX or proline dehydrogenase (PRODH), which is essential to the normal breakdown (metabolism) of proline. There are often no clinical manifestations of HPI.
+Introduction
+There are two types of hyperprolinemia: type I (HPI) and type II (HPII). Each type is caused by an autosomal recessive inborn error of the proline metabolic pathway. Proline is abundant in nature and readily found in a variety of foods.
+HPII is another form of hyperprolinemia caused by a deficiency of a different enzyme, Δ-1-pyrroline-5-carboxylate (P5C) dehydrogenase, leading to high blood proline levels. Patients with HPII have higher plasma levels of proline than do people with HPI and it is associated with neurological problems such as seizures and intellectual disability.
+
+symptoms:
+HPI does not usually cause symptoms, but patients with intellectual disability and/or generalized epilepsy have been reported. A relationship between adult schizophrenia or schizoaffective disorders and HPI has been discussed. Kidney (renal) symptoms have been reported in some affected people. Other symptoms include abnormal EEG readings, generalized low muscle tone (hypotonia), global developmental delay, aggressive behavior, hyperactivity and repetitive movements (stereotypy).
+

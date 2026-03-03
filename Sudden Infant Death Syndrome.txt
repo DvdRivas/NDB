@@ -1,0 +1,11 @@
+Sudden Infant Death Syndrome
+
+synonyms:
+cot deathcrib deathSIDS
+
+overview:
+Sudden infant death syndrome (SIDS) is the sudden death of an infant under the age of 1 year that remains unexplained after careful review of the history, death scene investigation, and thorough autopsy. In 2008, the most recent published data from the National Vital Statistics System indicated that SIDS was listed as the third leading cause of death in infants in the United States. Causes of SIDS are considered to be multifactorial. The triple risk hypothesis describes the presence of three risk factors that, when overlapping, predispose a baby to SIDS. These include an environmental trigger/stress, a critical developmental period, and an underlying vulnerability. Physician-scientists and scientists are studying neuropathological tissue and genetic material from SIDS victims to ascertain factors that might be responsible for heightening an infant’s vulnerability to SIDS. Others are performing physiologic studies on infants known to have an increased risk for SIDS. Basic scientists are studying animal models that might provide insight into mechanisms responsible for SIDS. Current clinical management targets improving education for families and caregivers regarding known modifiable environmental stressors (risk factors) (see below).
+
+symptoms:
+There are typically no symptoms prior to a SIDS death. Though SIDS occurs during sleep, the deaths may occur during day or night time sleep. Existing literature does not indicate any evidence for suffering by the infant in the moments preceding the sudden death.
+

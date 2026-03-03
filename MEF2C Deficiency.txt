@@ -1,0 +1,39 @@
+MEF2C Deficiency
+
+synonyms:
+5q14.3 microdeletion syndromeMEF2C haploinsufficiency syndromeMRD20
+
+overview:
+Summary
+MEF2C deficiency is an extremely rare genetic disorder caused by a change (mutation) in theMEF2Cgene. This mutation, often a deletion, leads to the dysfunction of MEF2C protein which is essential to the proper functioning of the musculoskeletal, cardiovascular, neurological, craniofacial, and immune systems. A deletion mutation occurs when a portion of a chromosome is missing. Signs and symptoms vary greatly and usually first present when the patient is between one and two years old. Some of the most common presenting symptoms are decreased muscle tone (hypotonia), global developmental delay, seizures and brain abnormalities. Currently, there is no treatment for MEF2C deficiency and care is individualized based on symptoms. Anti-seizure medications are prescribed for seizures, melatonin may be used for sleep difficulties, and physical, occupational, and speech therapy are prescribed for developmental delays.
+Introduction
+TheMEF2Cgene was discovered in 2008 by Dr. Stuart Lipton and his research team at the Burnham Institute. Originally, Dr. Lipton’s study demonstrated that disruption of the function of theMEF2Cgene resulted in mice having smaller brains, a decreased number of neurons, and severe autism-like abnormalities. Mutations in theMEF2Cgene are included in the list of mutations associated with a Rett-like phenotype, such as Rett syndrome, Angelman syndrome, Pitt-Hopkins syndrome, CDKL5 deficiency disorder and many autism-linked genes.
+
+symptoms:
+Typically, there are no distinctive signs during pregnancy or delivery of a child with MEF2C deficiency. The individual seems to develop normally in the neonatal period and it is not until infancy or early childhood when symptoms such as hypotonia, feeding difficulties and poor eye contact appear. Seizures may occur, especially when the baby has an illness or fever. Global developmental delay is found in nearly all MEF2C deficiency patients. There is variety in these developmental delays, specifically with speech, gait, cognitive abilities and social skills. These patients also present with some mild to severe distinctive facial features.
+Children with MEF2C deficiency usually have a variety of brain abnormalities. Brain MRIs of patients with MEF2C deficiency may show a loss of brain cells, enlargement of ventricles, or abnormal corpus callosum. MEF2C protein has been found to play a role in decreased forebrain development both dorsally and ventrally.
+MEF2C patients will likely have epilepsy, but the age of onset and type of seizures varies. Most commonly, the patient develops seizures in infancy. Some of the seizures that patients experience are infantile spasms, febrile, partial, absence, tonic clonic, and myoclonic seizures. It has been found that phenotypic (symptom) severity may be associated with the site of mutation within theMEF2Cgene.
+Summary of symptoms:
+NEUROLOGICAL
+Brain (MRI) abnormalitiesAbnormal corpus callosumLoss of brain cells (frontal cortical atrophy)Enlargement or asymmetry of ventriclesLess commonCerebral or cortical malformationsAbnormalities of white matterDelayed myelination or hypomyelinationUnderdeveloped cerebellum (mild cerebellar vermis hypoplasia)Abnormal forebrain developmentEpilepsy – may include the following types and are often associated with fever:Brief jerking of muscles (myoclonic seizures)Generalized tonic clonic seizures involving loss of consciousness and muscle contractionsAbsence seizures involving a brief and sudden lapse of consciousnessAtonic seizures involving a sudden loss of toneEEGs of patients may show bilateral temporal slow waves, bilateral parietal spike waves or other generalized spike-wave discharges
+BEHAVIORAL
+Wide variety of stereotypic movementsUnpurposeful hand use such as hand clapping, wringing, biting and mouthingHead noddingTeeth clenching (bruxism)Chair rockingTongue thrustingCeiling gazingOther behavioral symptoms includeInappropriate laughter, excessive enjoyment of running water, short attention span, poor eye contact, social isolation, feeding difficulties such as overfilling mouth with food or sleep difficulties such as insomnia and night laughter
+DEVELOPMENTAL DELAY
+Speech delaysSevere speech disabilitiesLoss of expressive languageGross motor delaysSitting and walking skills are absent or delayed until two to three years of ageUnstable and wide-based gaitPoor coordination
+MUSCULOSKELETAL
+Decreased muscle tone (hypotonia), more severe in femalesMuscle spasms (hyperkinesis)Abnormal hand shapeLarge range of movement (hypermobility)Abnormal reflexes
+VISION
+Nearsightedness(myopia)Pale blue eyesCross-eyed (strabismus)Blindness
+RESPIRATORY
+Episodic breathing abnormalities (apnea, hyperpnea or hyperventilations)Recurring upper respiratory infections
+GASTROINTESTINAL
+Severe GERD (gastroesophageal reflux disease)Constipation
+CRANIOFACIAL
+Broad foreheadDepressed nasal bridgeLarge mouth with full lipsDistinct philtral pillars (space between upper lip and nose)Tented upper lipShort columella (space that separates nostrils)Down-turned corners of the mouthSkin folds of the upper eyelid (epicanthic folds)Small chinShort noseLow-set earsProminent eyebrowsUpwards slanting of space between eyelids (upslanted palpebral fissure)
+CARDIOVASCULAR
+Possible correlations betweenMEF2Cmutations and heart disordersPatent ductus arteriosus (abnormal blood flow)Double outlet right ventricle (both the aorta and pulmonary artery exit from the right ventricle)Ventricular septal defect (hole in the heart)
+DERMATOLOGICAL
+Red birthmarks (hemangiomas)Thinning of skin (atrophic skin)
+OTHER LESS COMMON SYMPTOMS
+High pain toleranceJugular pit (empty space near neck/throat)Floppy larynxCold hands and feetCleft palateDuplex left kidney (two ureters from a single kidney)
+

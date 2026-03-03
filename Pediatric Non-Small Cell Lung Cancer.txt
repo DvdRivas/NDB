@@ -1,0 +1,13 @@
+Pediatric Non-Small Cell Lung Cancer
+
+synonyms:
+pediatric NSCLC
+
+overview:
+Summary
+Pediatric non-small cell lung cancer is the occurrence of non-small cell lung cancer (NSCLC) in children and adolescents (i.e. the pediatric population). This cancer is rare in individuals under 40 years of age and extremely rare in children and adolescents. NSCLC is the most common form of lung cancer; it is a general term for several different types of cancer in the lungs including adenocarcinoma, squamous cell carcinoma, large cell (undifferentiated) carcinoma, and other rare forms. ALK-positive NSCLC is a specific subtype generally associated with a younger age of onset than other forms of NSCLC and affected individuals have no history of smoking or a limited history of smoking. These tumors are usually adenocarcinomas. Because of the small number of children and adolescents that have been diagnosed with NSCLC, not much is known about this cancer in the pediatric population or how it differs from the adult population. Most of the literature and the treatment information and recommendations are based on research into adults. The treatment of NSCLC can include surgery, chemotherapy, and radiation therapy.
+
+symptoms:
+The clinical course and signs and symptoms associated with NSCLC lung cancer in children is unclear because so few children have been described in the medical literature. Sometimes, especially early in the disease, no symptoms may be present (asymptomatic). Common symptoms associated with lung cancer include a cough that doesn’t get better and doesn’t go away, chest pain that is worse when coughing, laughing or taking a deep breath, shortness of breath, coughing up of blood (hemoptysis), and the development of hoarseness or wheezing. Some affected individuals can develop loss of appetite, unintended weight loss, fatigue, and recurrent episodes of lung infections such as pneumonia or bronchitis, which is an infection that causes inflammation of the lining of the lungs or its airways.
+NSCLC can potentially spread (metastasize) to affect other areas of the body. Specific signs and symptoms depend upon the exact location where the cancer has spread and the size of the tumor(s). Sometimes, symptoms of metastatic spread including bone pain, anemia, or unintended weight loss are the initial signs of pediatric NSCLC.
+

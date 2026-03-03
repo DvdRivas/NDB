@@ -1,0 +1,15 @@
+Apnea, Infantile
+
+synonyms:
+Infantile Sleep Apnea
+
+overview:
+Apnea is a term used to describe the temporary absence of spontaneous breathing. Infantile apnea occurs in children under the age of one year. Apnea may occur because of neurological impairment of the respiratory rhythm or obstruction of air flow through the air passages. The symptoms of infantile apnea include the stoppage of breathing during sleep, an abnormal bluish discoloration to the skin (cyanosis) and sometimes an unusually slow heartbeat (bradycardia). Infantile apnea may be related to some cases of sudden infant death syndrome. Episodes of apnea may decrease with age. However, several forms of adult sleep apnea also exist.
+
+symptoms:
+The symptoms of infantile apnea include the temporary cessation of breathing; an abnormal bluish discoloration of the skin, lips, and mouth (cyanosis), and/or an unusually slow heartbeat (bradycardia).  Serious apnea is defined as the cessation of breathing during sleep for longer than 10 to 15 seconds.
+Infantile sleep apnea may occur in several forms.  The normal rate of respiration is regulated by groups of nerve cells in the brain.  They control the rhythm of breathing in response to changing oxygen levels in the blood (respiratory drive).   In central apnea, the respiratory drive is low and, during apneic episodes, there are no chest movements and no air passes through the mouth or nostrils.  In this form of the disease, the brain does not send adequate signals to the diaphragm and lungs.  Breathing stops and does not resume until the oxygen-starved brain sends impulses to the diaphragm and lungs.
+In obstructive apnea (upper airway apnea), the airway is blocked and breathing may become difficult.  Blockage may occur for a variety of reasons including collapse of the soft tissues of the throat.  In this form of apnea, chest movements are present, but there is no air flow into the lungs.  When breathing resumes, infants may make a loud “snorting noise” and become aroused from sleep.  Obstructive apnea does not involve the cessation of breathing; rather, the affected infant struggles to breath and has increased respiratory effort.
+Central apnea followed by or together with obstructive apnea is known as mixed apnea.
+Some research indicates that in many cases the symptoms of infantile apnea may decrease with advancing age.
+

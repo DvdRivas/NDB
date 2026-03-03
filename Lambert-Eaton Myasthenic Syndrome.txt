@@ -1,0 +1,11 @@
+Lambert-Eaton Myasthenic Syndrome
+
+synonyms:
+Eaton-Lambert syndromeLambert-Eaton syndromeLEMSmyasthenic syndrome of Lambert-Eaton
+
+overview:
+Lambert-Eaton myasthenic syndrome (LEMS) is a rare autoimmune disorder of the neuromuscular junction. It is a miscommunication between the nerve cell and the muscles that lead to the gradual onset of muscle weakness. It starts in the proximal muscles of the legs or arms. LEMS can be categorized into two different classes: LEMS associated with small cell lung cancer (SCLC) and LEMS without cancer association. Approximately 60 percent of patients with LEMS have SCLC, and the onset of LEMS symptoms often precedes the detection of the cancer. LEMS patients with cancer tend to be older, mostly male, and nearly always have a long history of smoking. In patients in which there is no associated cancer, disease onset can be at any age and in males and females. LEMS may impact quality of life depending on the severity of symptoms.
+
+symptoms:
+LEMS is characterized by weakness and fatigue especially of the muscles in the legs and arms. The disease may affect the patient’s ability to engage in strenuous exercise and may make such activities as climbing stairs or walking up a steep walkway difficult. Onset is gradual, typically taking place over several weeks to many months. There is often a progression of symptoms whereby the shoulder muscles, muscles of the feet and hands, speech and swallowing muscles and eye muscles are affected in a stepwise fashion. The symptoms progress more quickly when LEMS is associated with cancer. Most LEMS patients also exhibit the following symptoms (sometimes called autonomic symptoms): dry mouth, dry eyes, constipation, impotence and decreased sweating. LEMS patients with or without cancer may also undergo significant weight loss. The tendon reflexes are diminished or absent on examination. In summary, LEMS is often described as a clinical “triad” of proximal muscle weakness, autonomic symptoms and reduced tendon reflexes.
+

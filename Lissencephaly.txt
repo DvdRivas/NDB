@@ -1,0 +1,16 @@
+Lissencephaly
+
+synonyms:
+agyrialissencephaly, type Iclassic lissencephaly (LIS1)
+
+overview:
+Summary
+Lissencephaly type 1, also known as classic lissencephaly, is a brain malformation that may occur as an isolated abnormality (isolated lissencephaly sequence [ILS]) or in association with certain syndromes (e.g., Miller-Dieker syndrome). The condition is characterized by agyria or pachygyria, which means absence or incomplete development, respectively, of the brain gyri or convolution, causing the brain’s surface to appear unusually smooth.
+Infants with classical lissencephaly may have a head that is smaller than would be expected (microcephalic). Additional abnormalities may include seizures, profound intellectual disability, feeding difficulties, growth retardation, and impaired motor abilities. If an underlying syndrome is present, there may be additional symptoms and physical findings.
+There may be various possible causes of isolated lissencephaly, including viral infections, insufficient blood flow to the brain during development, or certain genetic factors. Changes (mutations) in several genes have been implicated in isolated lissencephaly:LIS1, RELN, TUBA1A, NDE1, KATNB1, CDK5, ARXandDCX.  Of these,LIS1andDCXgene mutations have been most studied.
+
+symptoms:
+Newborns with lissencephaly type 1 who have no underlying syndrome are said to have isolated lissencephaly sequence (ILS). In addition to lissencephaly, those with the condition may have other associated brain malformations, such as absence or underdevelopment of the corpus callosum, which is the thick band of nerve fibers that join and carry messages between the brain’s two cerebral hemispheres. Affected infants often also have microcephaly, seizures, and severe or profound intellectual disability. In addition, those with the condition may have a normal facial appearance or subtle facial changes, such as a relatively small jaw (micrognathia) or a slight indentation of the temples (bitemporal hollowing).  Additional symptoms and findings may include feeding difficulties, growth failure, abnormally diminished muscle tone (hypotonia) early in life, and increased muscle tone (hypertonia) later during infancy, and impaired motor abilities.
+Lissencephaly type 1 also occurs in association with genetic syndromes, including Miller-Dieker syndrome and Norman-Roberts syndrome. In addition to signs and symptoms of classical lissencephaly, infants with Miller-Dieker syndrome may also malformations including microcephaly with a broad, high forehead; bitemporal hollowing; a relatively wide face; micrognathia; a long, thin upper lip; a short nose with upturned nostrils; low-set, malformed ears; polydactyly; abnormal palmar creases; cataracts and/or malformations of the heart, kidneys and/or other organs.
+Norman-Roberts syndrome is also characterized by lissencephaly type 1 features with certain craniofacial abnormalities, such as a low, sloping forehead; abnormal prominence of the back portion of the head; a broad, prominent nasal bridge; and widely set eyes (ocular hyperterlorism).
+

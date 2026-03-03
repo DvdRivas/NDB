@@ -1,0 +1,17 @@
+Glioblastoma
+
+synonyms:
+glioblastoma multiformeastrocytoma, grade IVGBM
+
+overview:
+Summary
+Glioblastomas are aggressive and malignant grade IV brain tumors that originate from the glial cells of the brain. Malignant tumors are tumors that can spread and infect other nearby cells. Glioblastomas originate from a type of glial cell called the astrocyte, so they are sometimes called astrocytoma. A grading system from I to IV defines the rate of tumor growth with grade I indicating slow growth and grade IV indicating rapid growth. Glioblastomas can often start off as grade IV tumors without any evidence of earlier lower grade tumors.
+Glioblastomas can be located anywhere in the brain and do not regularly spread outside of the brain. Common symptoms patients with glioblastoma experience include headaches, seizures, confusion, memory loss, muscle weakness, visual changes, language deficit and cognitive changes. Glioblastomas tend to affect older individuals (age 45 to 70) with rare occurrences in children. Treatment methods typically include a combination of surgery, chemotherapy, radiation therapy and alternating electric fields therapy. The average survival time for patients with glioblastoma who have undergone combination treatments of surgery, chemotherapy and radiotherapy is 14.6 months.
+
+Introduction
+The World Health Organization classifies glioblastomas into three main categories. Glioblastoma isocitrate dehydrogenase (IDH)-mutant, glioblastoma IDH-wildtype and glioblastoma NOS (not otherwise specified). These classifications are based on the presence of an enzyme called IDH. Individuals with glioblastoma IDH-mutant protein in their bodies have a higher overall survival rate than those with glioblastoma IDH-wildtype protein.
+
+symptoms:
+Patients with glioblastoma have two types of symptoms, generalized and focal. Generalized symptoms tend to occur in many types of brain tumors. These symptoms include headaches, seizures, nausea/vomiting, memory loss and decrease in normal function. Focal symptoms are dependent on the location and size of the tumor. The size and location of the tumor often influences the signs and symptoms seen in patients. For example, if the tumor is in the part of the brain required for language processing, the patient may have more issues speaking or understanding speech. Other focal symptoms can include seizures, muscle weakness, sensory loss and visual changes.
+Tumors can also cause the brain to swell because of the amount of room they take. Because they grow, they can push on parts of the brain which can lead to headaches, nausea and vomiting. Glioblastoma is an aggressive, fast-spreading tumor that affects nearby brain tissue.
+

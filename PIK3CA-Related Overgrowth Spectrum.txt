@@ -1,0 +1,84 @@
+PIK3CA-Related Overgrowth Spectrum
+
+synonyms:
+PROS
+
+overview:
+Summary
+
+PIK3CA-related overgrowth spectrum (PROS) includes a group of genetic disorders that leads to overgrowth of various body parts due to changes (mutations) in the genePIK3CA. This gene is involved in making a protein that helps regulate cell growth, division and survival. A broad array of disorders falls within this spectrum, with some overlap of symptoms between the different disorders. Syndromes within the spectrum may also overlap genetically, meaning they may share specificPIK3CAgene mutations in cells in the areas of the body that are affected. SincePIK3CAmutations in these disorders are not present in all cells, only certain areas of the body are overgrown, ranging from isolated digits to whole limbs, trunk, or brain. Different tissues may be involved individually or in combination such as fat, muscle, bone, nerve, brain and blood vessels. Genetic mutations that cause these disorders are not passed down from parent to child but instead result from changes to genes during development in the womb. Symptoms associated with these disorders can be present at birth (congenital) or appear later in early childhood. Overgrowth may stop in childhood or continue into adulthood.
+
+symptoms:
+Different subtypes within PROS include: CLAPO syndrome, CLOVES syndrome, DCMO, DMEG, FAH/FAO/HHML, FAVA, FIL, HMEG, Klippel-Trenaunay syndrome (KTS), LON, macrodactyly, MCAP and muscular hemihyperplasia (HH). Symptoms vary widely and depend on which part of the body overgrows, ranging from intellectual disability, seizures and autism when the brain is involved to blood clots when blood vessels are affected. Some PROS syndromes affect a wider range of body systems while others are more limited in which parts of the body overgrow.
+
+CLAPO Syndrome
+
+CLAPO is an acronym for the multiple features that can co-occur in this syndrome: capillary malformation of the lower lip, lymphatic malformation of the face and neck, asymmetry of face and limbs and partial or generalized overgrowth involving one or more body segments. This syndrome was first described in 2008. Features that distinguish CLAPO from other PROS syndromes with similar signs, like MCAP syndrome, are the presence of capillary malformations on the lower lip and the absence of neurological symptoms since CLAPO does not affect the brain. Capillary malformations in MCAP are most frequently found on or above the upper lip instead. Overgrowth in CLAPO may be difficult to detect and what may appear as overgrowth of fatty tissue may be asymmetry between body parts due to vascular changes.
+
+CLOVES Syndrome
+
+CLOVES syndrome is a rare disorder first described as a distinct syndrome in 2007. It is characterized by tissue overgrowth and complex vascular anomalies. CLOVES stands for Congenital Lipomatous (fatty) Overgrowth, Vascular malformations, Epidermal nevi and Scoliosis/Skeletal/Spinal anomalies. It can affect soft tissue, blood vessels, bone and internal organs, and symptoms can range from mild to severe. This syndrome has many potential symptoms, but these are among the most common ones:
+1. Lipomatous overgrowth where soft fatty masses are present at birth on the trunk (back, flanks, axilla, abdomen or buttocks). These overgrowths can appear on one or both sides of the body.
+2. Vascular malformations may be found overlying these masses or elsewhere on the body, most often as a red-pinkish birthmark called a capillary malformation (also known as a port-wine stain). Other skin abnormalities in this syndrome include moles, prominent veins and epidermal nevi (slightly raised often rough areas of skin with light brownish color).
+3. Patients with CLOVES are more susceptible to blood clots, including pulmonary embolism (clots in the lungs), due to abnormal malformed veins (usually residual embryonic dilated veins) in the chest and upper and lower extremities. Abnormal veins may also cause localized pain and inflammation.
+4. Swellings of lymph fluid, known as lymphatic malformations, can also occur within the fatty masses or elsewhere in body (abdomen, chest, extremities).
+5. Overgrowth of one or more extremities (arms and legs) is common. Large wide hands or feet, large fingers or toes, wide space between digits (sandal gap deformity) and uneven size of extremities (length and/or girth discrepancy) are common. This can also occur in the face and head when those areas are involved.
+6. Spinal anomalies include scoliosis (curving of the spine), fatty masses pushing on the spinal cord and tethered cord (spinal cord fixed by abnormal band). Rarely, patients may suffer from arteriovenous malformations around the area of the spinal cord, which can be quite aggressive and difficult to treat.
+7. The size of the kidneys may be asymmetric (one is larger) and may show some abnormal features on imaging studies. Wilms tumor has been noted in a small number of young patients with CLOVES syndrome so screening with serial ultrasound examinations during childhood is recommended.
+Additional findings can occur in CLOVES syndrome including bleeding from abnormal vessels in the skin, gastrointestinal tract (the stomach and intestines) and/or the genitourinary tract (urinary bladder and urethra). (For more information on this disorder, choose “CLOVES Syndrome” as your search term in the Rare Disease Database).
+
+Diffuse Capillary Malformation with Overgrowth (DCMO)
+
+DCMO patients have multiple and/or extensive capillary malformations associated with facial asymmetry, limb overgrowth and hand or foot deformities. These capillary malformations form a blotchy network of birthmarks that may lighten over the first several months and are typically lighter than birthmarks in KTS. Capillary malformations in DCMO extend beyond just one body region. They may be present on the abdomen but never on the back. Limb overgrowth in DCMO does not progress, so vascular complications are not expected to occur.
+
+Dysplastic Megalencephaly (DMEG)
+
+Dysplastic megalencephaly, or bilateral hemimegalencephaly, causes overgrowth of both hemispheres of the brain, leading to abnormal development. Symptoms include seizures that don’t respond well to medications, severe neurological impairment, abnormal muscle tone and developmental delays in motor, language and cognitive skills. DMEG may also be associated with cardiac failure during fetal development.
+
+Fibroadipose Hyperplasia (FAH)/Fibroadipose Overgrowth (FAO)
+
+First reported in 2012 as aPIK3CA-related condition, this overgrowth syndrome affects connective tissues (including fat, skin, ligaments, tendons and blood). Body parts that may enlarge are the trunk, an individual limb, or fingers and toes. Fat, bone, and muscle may overgrow, but most commonly, overgrowth is seen in fatty tissue below the skin and around the abdomen. Although extra fingers or toes may be present at birth, overgrowth in fibroadipose hyperplasia is not usually apparent at birth and tends to progress over time. Functional limitations with completing everyday tasks may occur due to anatomical differences between body parts and limited movement of enlarged body parts.
+
+Hemihyperplasia Multiple Lipomatosis (HHML) Syndrome
+
+When the overgrowth is more diffuse it may present as hemihyperplasia multiple lipomatosis (HHML) syndrome, a rare disorder characterized by the development of multiple benign fatty tumors (lipomas) and the abnormal enlargement of one side or structure of the body (hemihyperplasia). Hemihyperplasia may present as asymmetry between just one limb as compared to the other side, or between one half of the body and the other. Hemihyperplasia may be mildly progressive as the result of asymmetric (more rapid) growth on the affected side.
+
+Fibro-Adipose Vascular Anomaly (FAVA)
+
+FAVA is a rare mass of blood vessels and fatty tissue that develops within a muscle. It normally leads to overgrowth of a single limb, most commonly in the lower extremities about 90% of the time but may also form in the upper extremities and the trunk. It tends to cause pain as its most prominent symptom, but may present as reduced mobility, swelling, or visible veins. Diagnosis with FAVA may be delayed into late childhood or even adulthood. FAVA is three times more common in females than males. As of 2020, there were only 20 patients with FAVA reported in the medical literature.
+
+Facial Infiltrating Lipomatosis (FIL)
+
+Facial infiltrating lipomatosis (FIL) results in overgrowth in areas of the face due to invasion by mature fat cells (lipocytes). One side of the face becomes swollen and enlarged over time due to enlargement of bones and soft tissues. Other features may include early development of teeth, enlarged teeth (macrodontia), tongue enlargement on the affected side and nerve tumors (neuromas) in areas around the tongue and lips.
+
+Hemimegalencephaly (HME)
+
+Hemimegalencephaly (HME) is a rare neurological condition in which one-half of the brain, or one side of the brain, is abnormally larger than the other. The structure of the brain on the affected side may be markedly abnormal or show only subtle changes. In either case, because of this size and structural difference, the enlarged brain tissue causes frequent seizures, often associated with cognitive or behavioral disabilities. Seizures in association with HME often begin in early infant life, including infantile spasms. Hemimegalencephaly may occur as an isolated or sporadic brain malformation, or it may be associated with other neurodevelopmental syndromes; it has been observed in some patients with CLOVES syndrome when the face/head are involved. Thus, when detected, HME should prompt a search for other syndromic diagnoses.
+Anti-seizure medications are not typically effective in controlling seizures in HME and surgery is often recommended to control the seizures. If the affected side is surgically removed (anatomic hemispherectomy) or disconnected from the other brain structures (functional hemispherectomy) early in life, the remaining side of the brain may gradually take over the functions normally performed by the affected side.
+Any combination of altered mental status, seizures, enlarged head and /or colored birthmark should prompt consideration of HME. In general, the presence of HME is definitively diagnosed by brain MRI. With the evolution of more widespread fetal imaging including ultrasound and MRI, many HME cases are detected prenatally. (For more information on this disorder, choose “Hemimegalencephaly” as your search term in the Rare Disease Database).
+
+Klippel-Trenaunay Syndrome (KTS)
+
+Originally described in the early 1900s according to a set of symptoms, many but not all patients with KTS have since been found to havePIK3CAgene mutations. KTS is present at birth and is characterized by a triad of cutaneous capillary malformation (port-wine stain) and abnormal veins in association with limb overgrowth, and patients often show lymphatic malformations as well. KTS occurs typically in one lower limb and may extend into the pelvis. KTS affects males and females equally. There is some overlap with symptoms of CLOVES syndrome depending on the extent of involvement. (For more information on this disorder, choose “Klippel-Trenaunay” as your search term in the Rare Disease Database).
+
+Lipomatosis of Nerve (LON)
+
+Lipomatosis of nerve occurs when nerve bundles enlarge from overgrown fat that impacts nerve function. LON may be associated with bone or soft tissue overgrowth in areas served by but at somewhat of a distance from the affected portion of the nerve. This means LON may occur with other overgrowth conditions like macrodactyly or muscular hemihyperplasia. Overgrowth progresses slowly so patients usually do not present with symptoms until childhood or young adulthood and symptoms are usually of a neurological dysfunction. LON most often affects the median nerve that controls the forearm and hand so patients can present with carpal tunnel syndrome. Other nerves more frequently affected are the ulnar and plantar nerves serving the arm and feet, respectively. LON affects males and females equally.
+
+Macrodactyly
+
+Macrodactyly refers to abnormally large fingers or toes present at birth due to overgrowth of bones and soft tissue. It can occur as a feature of other PROS syndromes or in isolation. Macrodactyly occurs more often in the hands than feet but can affect both in one individual. It may also affect one or more digits and may occur on one or both sides of the body. Growth of the enlarged digits may occur at the same or at a much faster rate than unaffected digits and growth rates can vary across time in the affected individual. Webbed fingers and toes, known as syndactyly, may co-occur in patients with macrodactyly. Other accompanying symptoms in macrodactyly include stiffness, reduced mobility, swelling and rarely, pain.PIK3CAgene mutations are a primary cause of isolated macrodactyly.
+
+Megalencephaly-Capillary Malformation (MCAP) Syndrome
+
+Megalencephaly-capillary malformation syndrome (MCAP), formerly known as macrocephaly-capillary malformation (M-CM), is a complex disorder that usually presents at birth and involves many organ systems, including the brain; skin; blood vessels; connective tissue and others. Some patients with this syndrome have mild symptoms while others have more severe ones.
+Most affected individuals have a disproportionately large head and vascular malformations on the skin, typically light pink vascular markings on the midline face, trunk, and sometimes limbs.
+Most children with MCAP have an enlarged brain (megalencephaly) and other findings on brain MRI scans with associated neurological problems. One particularly common type of malformation of the brain’s cortex in MCAP is polymicrogyria (PMG), which refers to abnormally small and numerous folds of the cortical surface. The corpus callosum (a midline structure that joins the two cerebral hemispheres) is usually twice as thick as normal. Head overgrowth tends to progress with time, and brain overgrowth within the skull can even lead to brain herniation. Brain overgrowth can interfere with drainage of cerebrospinal fluid, leading to abnormal widening of the ventricles and excessive accumulation of this fluid (hydrocephalus). Chiari malformation may also occur when megalencephaly causes portions of the cerebellum of the brain to become dislodged and compress the brainstem. Symptoms of hydrocephalus and Chiari malformation include headaches, lethargy, breathing abnormalities and recurrent vomiting; when this occurs, neurosurgical intervention is needed urgently.
+Most infants with this syndrome have some degree of body overgrowth at birth that tends to stabilize or normalize with age, although others may have body growth deficiency later. Body growth may also be uneven between the two halves of the body, ranging from very noticeable to very subtle.
+Specific skin findings are associated with MCAP syndrome. These light-pink vascular markings, known as capillary malformations, are most commonly at the midline face (on the forehead or above the upper lip) in MCAP, but they can also be found in children who don’t have this syndrome. They may fade as children with MCAP get older. MCAP-associated capillary malformations often show a lacy or reticulated pattern (resembling a net or web) called cutis marmorata.
+Children with MCAP syndrome may also have low blood sugar levels (hypoglycemia). This is from growth hormone deficiency caused by abnormal brain development. (For more information on this disorder, choose “Megalencephaly-Capillary Malformation” as your search term in the Rare Disease Database).
+
+Muscular Hemihyperplasia (HH)
+
+Formerly known as muscular hemihypertrophy, muscular hemihyperplasia is an overgrowth of muscle tissue on one side of the body and usually present at birth. It can overlap with features of macrodactyly, HHML and FAO.
+

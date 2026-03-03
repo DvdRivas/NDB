@@ -1,0 +1,13 @@
+Graft versus Host Disease
+
+synonyms:
+GVHD
+
+overview:
+Graft versus Host Disease (GVHD) is a rare disorder that can strike persons whose immune system is deficient or suppressed and who have received a bone marrow transplant or a nonirradiated blood transfusion. Symptoms may include skin rash, intestinal problems and liver dysfunction.
+
+symptoms:
+GVHD occurs most frequently after allogeneic bone marrow transplant and initially leads to dermatitis (a skin rash), gastrointestinal problems and liver dysfunction. In its chronic form involvement of mucosa (mouth and eyes) resembling sicca syndrome, lungs (resembling bronchiolitis obliterans) and the muskuloskeletal system (resembling myositis) is observed. GVHD affects about 60% of all bone marrow transplant but usually is limited and mild.
+GVHD can be acute (sudden) or chronic (long lasting). Acute GVHD occurs in the first 100 days (at earliest 2 to 3 weeks) following bone marrow transplantation. The first symptoms are usually mild skin rash, liver dysfunction and intestinal problems. In some cases the patients may suddenly show very severe skin problems, diarrhea, nausea, abdominal pain and liver failure.
+Chronic GVHD is used for GVHD lasting beyond 100 days and usually persists long after a bone marrow transplant. The signs and symptoms are similar to those of the acute GVHD, but in addition to the skin, intestinal and liver problems, chronic GVHD may also involve mucosa, lungs and the musculoskeletal system. Long term consequences may be scleroderma-like skin changes and bronchiolitis obliterans.
+

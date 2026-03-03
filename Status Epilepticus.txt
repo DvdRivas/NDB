@@ -1,0 +1,15 @@
+Status Epilepticus
+
+synonyms:
+ConvulsionsSeizures
+
+overview:
+Status epilepticus (SE) is considered a neurological emergency. Left untreated (or undertreated), prolonged seizures can cause permanent neurological injury or death. Rapid treatment must be initiated. If initial agents fail, it may be necessary to induce an iatrogenic coma. In any case, the person in status epilepticus must be closely watched, and often requires continuous EEG in order to confirm that the seizures have stopped not only clinically but electrically as well.
+
+symptoms:
+Epilepsy is a group of disorders characterized by electrical discharges in the brain.  There are no established factors that bring on an epileptic seizure that are common to all patients.  However, visual phenomena such as flickering lights or sunbursts, are frequently cited by people with epilepsy as preceding an attack.  In certain patients the likelihood of having a seizure increases with stress, fatigue, insufficient food intake and/or the failure to take prescribed medications.
+The Status Epilepticus are classified as follows:
+Generalized Convulsive Status Epilepticus (GCSE): Overt (70 percent of GCSE): This consists of continuous tonic and/or clonic activity with impairment or loss of awareness.
+Subtle (30 percent of GCSE): This is less obvious than the overt type, consisting of facial twitching, nystagmoid eye movements, or subtle jerking of the extremities.
+Non-Convulsive Status Epilepticus (NCSE): Complex Partial Status Epilepticus: This type occurs in patients with a history of partial seizures, but can also arise as a result of acute injury (like a new stroke). This type may cause focal motor manifestations (like nystagmus), but can also cause more subtle findings such as confusion, personality changes or  psychosis. Absence (Typical) Status Epilepticus: This occurs in patients with idiopathic generalized epilepsy. As with complex partial status, the clinical symptoms can be subtle, consisting of confusion or personality changes.
+

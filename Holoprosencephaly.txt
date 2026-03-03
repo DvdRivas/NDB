@@ -1,0 +1,13 @@
+Holoprosencephaly
+
+synonyms:
+holoprosencephaly sequenceHPE
+
+overview:
+Holoprosencephaly (HPE) is the failure of the prosencephalon, or forebrain, to develop normally. The forebrain is a region of the brain in the fetus that develops into parts of the adult brain, including the cerebral cortex. Instead of the normal complete separation of the left and right halves of the forebrain, there is an abnormal continuity between the two sides. There are several different types of holoprosencephaly. In the alobar form, there is no separation between the right and left halves at all. In semilobar HPE, at least some separation of the two halves is present. In the lobar form, most of the brain has separated into right and left sides, though there is incomplete division into the two halves.
+
+symptoms:
+Holoprosencephaly is a malformation sequence with a very variable degree of severity for both the brain and facial abnormalities. Intellectual disability is associated with HPE and seizures are often present.
+Children diagnosed with this disorder may have a small head (microcephaly), excessive fluid in the brain (hydrocephalus), facial abnormalities, tooth abnormalities (single central incisor), cleft lip and/or palate, epilepsy, and/or endocrine abnormalities. The most severely affected individuals may have cyclopia, a single central eye that is the most severe eye finding seen in holoprosencephaly, though this is very rare. Abnormalities in the formation of the nose may also occur.
+Holoprosencephaly may also affect other systems in the body. Defects in the pituitary gland can cause an abnormally low level of sugar in the blood (hypoglycemia), low levels of sodium in the blood, or genital abnormalities.
+

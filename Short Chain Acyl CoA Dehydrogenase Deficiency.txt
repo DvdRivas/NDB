@@ -1,0 +1,13 @@
+Short Chain Acyl CoA Dehydrogenase Deficiency
+
+synonyms:
+SCAD deficiencySCAD deficiency, adult-onset (localized)SCAD deficiency, congenital (generalized)SCADH deficiencySCADD
+
+overview:
+Short chain acyl-CoA dehydrogenase deficiency (SCADD) is a rare autosomal recessive genetic defect in fatty acid catabolism belonging to a group of diseases known as fatty acid oxidation disorders (FOD). It occurs because of a deficiency of the short-chain acyl-CoA dehydrogenase (SCAD) enzyme.
+Although SCADD was initially thought to produce severe problems including progressive muscle weakness, hypotonia, acidemia, developmental delay, and even early death, it is now believed that this deficiency has no clinical relevance. Since the advent of expanded newborn screening programs using tandem mass spectrometry technology, many more SCADD infants are being detected, all of whom are asymptomatic.
+When symptoms are present, additional diagnostic testing for another condition should be performed as the association is likely coincidental rather than causative.
+
+symptoms:
+Essentially all individuals identified through newborn screening have been healthy. Therefore, the variety of symptoms that have been reported in other individuals with SCAD deficiency are all likely coincidental. This situation has been accentuated by the existence of two very common variants in theSCADgene that lead to blood and urine findings suggestive of SCADD but are not sufficiently severe to cause complete SCADD.
+

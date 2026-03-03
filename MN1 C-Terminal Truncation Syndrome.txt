@@ -1,0 +1,17 @@
+MN1 C-Terminal Truncation Syndrome
+
+synonyms:
+MCTT syndromeCEBALID syndrome (craniofacial defects, dysmorphic ears, structural brain abnormalities, expressive Language delay and impaired intellectual development) (OMIM #618774)
+
+overview:
+Summary
+MN1C-terminal truncation (MCTT) syndrome is a rare autosomal dominant genetic disorder caused by a genetic change at one end (the C-terminal) of theMN1gene. The genetic disorder is characterized by intellectual disability with delayed or absent speech, delayed gross motor development, distinctive structural changes in the brain (rhombencephalosynapsis), unique facial features and hearing loss. This new syndrome was first reported in 2020. There is ongoing research to better understand the spectrum of symptoms, the long-term prognosis and gather knowledge to provide the most appropriate genetic counseling.
+
+symptoms:
+The symptoms and physical findings associated with MCTT syndrome may vary from one person to another (variable expression). Affected individuals or parents of affected children should talk to their physicians and consult with a medical genetics team about their specific case and associated symptoms.
+To date, a total of 28 patients have been reported in the medical literature, but other patients are known anecdotally. Most individuals with MCTT syndrome have mild to moderate intellectual disability and severe expressive language delay or absent speech. Most have gross motor delay but can walk independently at a later age. Some individuals have mild to moderate hearing impairment (conductive and/or sensorineural). Low muscle tone (hypotonia) and feeding difficulty due to poor ability to suck are also frequently seen during infancy. The height and weight (growth parameters) of affected children are typically normal.
+Individuals with MCTT syndrome may have distinctive imaging findings of the brain. Magnetic resonance imaging (MRI) shows abnormal development of the cerebral cortex (perisylvian polymicrogyria and/or cortical dysplasia), fusion of the structures in cerebellum (rhombencephalosynapsis) and the presence of embryonic vessel construction (persistent trigeminal artery) that may be important when considering surgical approaches.
+Characteristic features of the head and facial (craniofacial) region include tall forehead, flattened midface, prominent eyes, widely set eyes (hypertelorism), downslanting eyes, low-set ears with abnormal shape and a short, upturned nose especially in infancy. An abnormal skull shape is also frequently observed. Some patients have premature fusion of skull bones (craniosynostosis) which may require surgery. Neurosurgical care should be customized.
+Abnormality of the curvature of the spine (scoliosis/lordosis/kyphosis), congenital structural heart defects, seizures and behavioral problems have been observed in some individuals with MCTT syndrome.
+Due to the limited case reports of MCTT syndrome, it is unknown if the life span of individuals with MCTT syndrome is affected. The oldest individual known to the authors of this report is a 46-year-old healthy male who lives a full life under the care of his family, so survival into adulthood is probable. It is likely that MCTT syndrome is both underrecognized and underreported in adults.
+

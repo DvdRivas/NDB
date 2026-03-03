@@ -1,0 +1,16 @@
+Systemic Primary Carnitine Deficiency
+
+synonyms:
+carnitine transporter deficiencycarnitine uptake defectcarnitine uptake deficiencyCUDCDSP
+
+overview:
+Summary
+Systemic primary carnitine deficiency (CDSP) is a rare metabolic disorder in which the body cannot properly process fats into energy. Carnitine functions to carry fatty acids obtained through diet to the energy centers in muscle cells (mitochondria). A deficiency of carnitine results in accumulation of fats in the liver, muscle, and heart. Symptoms of CDSP in infants can include poor feeding, tiredness, irritability and low blood sugar (hypoglycemia) but CDSP can also present later in childhood with heart and muscle abnormalities. Some people with CDSP are diagnosed as adults and have mild or no symptoms. CDSP is caused by mutations in theSLC22A5gene and inherited as an autosomal recessive genetic condition.
+Introduction
+CDSP is treatable by the daily use of L-carnitine supplements. Without early detection and treatment, an affected child may experience low blood sugar (hypoglycdemia), seizures, heart muscle weakness (cardiomyopathy) that can be life-threatening. Newborn screening is available for CDSP.
+
+symptoms:
+CDSP can present in three ways. Infants with the infantile metabolic (hepatic) type present in the first two years of life with episodes of irritability, tiredness and abnormal enlargement of the liver (hepatomegaly). Laboratory results show hypoglycemia with little to no ketones in urine (hypoketotic hypoglycemia), high levels of ammonia in the blood hyperammonemia), and elevated liver transaminases. Some children with the infantile presentation may also have symptoms of muscle disease.
+Children with the childhood myopathic (cardiac) type usually present between ages two to four with heart disease (cardiomyopathy), low muscle tone (hypotonia), skeletal muscle weakness, and elevated serum creatine kinase.
+The adulthood presentation of CDSP is much rarer and the most common symptom is fatigability.
+

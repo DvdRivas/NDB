@@ -1,0 +1,63 @@
+Perivascular Epithelioid Cell Neoplasm
+
+synonyms:
+perivascular epithelioid tumorPEComa
+
+overview:
+Summary
+
+Perivascular epithelioid cell neoplasms (PEComas) are rare soft tissue tumors. They often form around small blood vessels (perivascular spaces) in various body parts such as the lungs, GI tract, kidneys, liver and uterus. PEComas are made up of cells with an epithelioid (cuboidal) shape and have some features that are shared with melanocytes and smooth muscle cells. Melanocytes are cells that are normally found in the skin and produce melanin to give skin its color. PEComa can make some of the same proteins that are used to create pigment. PEComa also make some of the same proteins found in smooth muscle cells, which make up muscles that are not under our conscious control, such as the muscles that make up our internal organs and digestive tract.
+PEComas are considered to be a group of tumors that share these characteristic features. However, within this group are specific tumors with their own unique features and more likely to form in certain body parts. These specific tumors include angiomyolipomas (AMLs), clear cell sugar tumors, primary extrapulmonary sugar tumor (PEST), lymphangioleiomyomatosis (LAM), clear-cell myomelanocytic tumor (CCMT) of the falciform ligament/ligamentum teres, primary cutaneous PEComa (CCCMT-cutaneous clear cell myomelanocytic tumor) and PEComas not otherwise specified (NOS).
+Most PEComas are benign but some can be malignant with the potential to spread to other parts of the body.PEComas can also be associated with the genetic condition tuberous sclerosis complex (TSC). In this condition, multiple tumors form in the body. Intellectual disabilities and seizures may also be present.
+
+Introduction
+
+The name perivascular epithelioid cell tumor was first proposed in the early 1990s after researchers noticed shared cellular features between the various tumors that are now members of the PEComa grouping. These features are considered unique to these types of tumors, distinguishing them from other tumors.
+
+symptoms:
+Signs and symptoms of PEComas vary quite a bit between patients and depend on tumor location. Some PEComas cause no symptoms and are found when patients undergo imaging for other reasons.
+For patients with symptoms, PEComas may form a visible painful or painless mass. For women with PEComas in the reproductive tract, these tumors may present with vaginal bleeding. PEComas in the GI tract may present with abdominal pain, bloody stools, constipation/bowel obstruction, weight loss and anemia.
+Each type of PEComa has unique physical features and potential signs and symptoms associated with it.
+
+Angiomyolipoma
+
+Angiomyolipomas (AMLs) are rare but are the most common benign tumor of the kidneys. AMLs are composed of blood vessels (angio), smooth muscle cells (myo) and fatty (adipose/lipomatous) tissues.
+Eighty percent of AML cases are sporadic (occur randomly with no known risk factors) and 20% of cases develop in patients with TSC or LAM (hereditary conditions).
+In people with TSC, AMLs are especially common, occurring in approximately 75% of these patients. TSC patients are more likely to have AMLs that cause symptoms. AMLs may also develop in patients with LAM. Patients with AMLs who have TSC or LAM are more likely to have multiple, large and more aggressive AMLs.
+When AMLs cause signs and symptoms, they may include a mass that can easily be felt, pain on one side of the body between the abdomen and back (flank pain), weight loss, blood in the urine, anemia, urinary tract infections or kidney failure. More serious symptoms include bleeding in the abdomen (retroperitoneal hemorrhage) which can lead to shock. This is estimated to occur in less than 15% of AML cases.
+AMLs can also occur in organs outside of the kidney, such as the liver. These are also usually benign but can be malignant. AMLs can vary in the proportion of cell types they’re composed of. AMLs with more epithelioid cells, especially, may become malignant, although this is rare. Larger tumors are also more likely to spread to other parts of the body.
+
+Clear Cell Sugar Tumor of the Lung (CCTL)
+
+Clear cell “sugar” tumors of the lung are usually benign. They’re called clear cell “sugar” tumors because the cells they’re composed of have thin walls and high levels of glycogen, a stored version of the body’s carbohydrates, or sugars.
+CCTL is usually around the size of a coin and occurs as a single tumor. It can occur in any lung lobe but tends to affect the lower lungs.
+Symptoms of CCTL may include fever, cough, coughing up blood and shortness of breath, but patients typically do not have symptoms. CCTL rarely affects tissues outside of the lung.
+Like other PEComas, CCTLs are also associated with TSC, and it can also occur in patients with LAM without TSC.
+
+Primary Extrapulmonary Sugar Tumor (PEST)
+
+Primary extrapulmonary sugar tumors are similar in structure and appearance to clear cell sugar tumors of the lungs but instead occur outside of the lung, such as in the rectum, vulva, uterus, pancreas, breast, trachea or heart. Symptoms vary depending on location but can include fatigue, rectal bleeding, shortness of breath and heart rhythm disturbances.
+Most PESTs are thought to be benign but can be malignant.
+
+Lymphangioleiomyomatosis
+
+Lymphangioleiomyomatosis (LAM) is a rare progressive multisystem disorder that predominantly impacts women of reproductive age. LAM is characterized by the spread and uncontrolled growth of specialized cells (smooth muscle-like LAM cells) in certain organs of the body, especially the lungs, kidneys and lymphatics.
+There are two main types of LAM: sporadic LAM (that occurs spontaneously) and LAM associated with tuberous sclerosis complex (TSC), a genetic condition.
+Symptoms of LAM vary depending on the organs affected. The most common symptom associated with LAM is difficulty breathing (dyspnea), especially on exertion. Affected individuals may also experience complications including lung collapse (pneumothorax) or fluid accumulation around the lungs (pleural effusion) and in the abdomen and angiomyolipomas. The disorder is progressive and, in some patients, may result in chronic respiratory failure (For more information, search “lymphangioleiomyomatosis” in the Rare Disease Database).
+
+Clear Cell Myomelanocytic Tumor of the Falciform Ligament (CCMT)
+
+Clear cell myomelanocytic tumors of the falciform ligament form on this ligament usually in the right lobe of the liver. The falciform ligament connects the liver to the front portion of the abdominal wall.
+CCMTs were first described in 2000. These tumors are usually benign and can be large. Symptoms usually include abdominal pain, but CCMTs can be asymptomatic.
+
+Primary Cutaneous PEComa/Cutaneous Clear Cell Myomelanocytic Tumor (CCCMT)
+
+Primary cutaneous PEComas are very rare PEComas that arise in the skin. They are more likely to appear on the limbs or the back. These tumors involve the dermis of the skin and the underlying subcutaneous fat. CCCMT may be confused with malignant melanoma.
+
+PEComas – Not Otherwise Specified (NOS)
+
+PEComas-NOS include tumors composed of perivascular epithelioid cells that do not fit into the other PEComa subtypes based on overall composition and location.
+PEComas-NOS typically present as a painless mass and usually occur in women.
+PEComas-NOS have been reported in almost every body site. The uterus is the most commonly reported site for this type of PEComa. PEComas-NOS of the uterus may present with vaginal bleeding. Other common sites include the genitourinary tract, gastrointestinal tract and the back side of the abdomen (retroperitoneum). PEComas-NOS have also been reported in the oral cavity, the orbit (socket that holds the eye) and the skull base.
+These PEComas can be aggressive, spreading to nearby regions or other organs far from the original tumor. They may also recur after surgical removal.
+

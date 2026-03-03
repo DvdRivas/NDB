@@ -1,0 +1,15 @@
+Hereditary Nonspherocytic Hemolytic Anemia
+
+synonyms:
+congenital nonspherocytic hemolytic anemiaHNHANSANSHA
+
+overview:
+Summary
+
+Hereditary nonspherocytic hemolytic anemia refers to a group of conditions for which the main feature is the premature destruction of red blood cells. Red blood cells move oxygen throughout the body. Premature destruction of red blood cells is called hemolytic anemia. “Nonspherocytic” means the red blood cells are not sphere-shaped like normal red blood cells, and “hereditary” means the conditions are inherited. There are over 16 conditions that fall under the category of hereditary nonspherocytic hemolytic anemia, but they all share these common features. For some people, symptoms are present at birth, but for others, symptoms do not appear until adulthood.
+The most common forms of hereditary nonspherocytic hemolytic anemia are G6PD deficiency (https://rarediseases.org/rare-diseases/glucose-6-phosphate-dehydrogenase-deficiency/) and pyruvate kinase deficiency (https://rarediseases.org/rare-diseases/pyruvate-kinase-deficiency/).
+
+symptoms:
+SymptomsPeople with hereditary nonspherocytic hemolytic anemia may experience yellowing of the skin (jaundice), tiredness, a large spleen (splenomegaly) and/or liver (hepatomegaly).
+Lab findingsPeople with anemia may have the following results in bloodwork: increase in immature red blood cells (reticulocytosis), decrease in mature red blood cells (anemia), increased lactate dehydrogenase and increased bilirubin.
+

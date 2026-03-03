@@ -1,0 +1,28 @@
+Goblet Cell Adenocarcinoma
+
+synonyms:
+goblet cell carcinomaGCCmucinous carcinoidadenocarcinoid +/-ex GCAgoblet cell tumors (GCT)mucinous adenocarcinoidsmicroglandular-GCAcomposite GCA-adenocarcinomamixed crypt cell carcinomaadenocarcinoma ex GCAappendiceal crypt cell adenocarcinomagoblet cell carcinomagoblet cell adenocarcinoidgoblet cell tumor
+
+overview:
+Summary
+Goblet cell adenocarcinomas (GCA) of the appendix are a subtype of appendiceal cancer. GCA are defined by a unique combination of two types of cancer cells – neuroendocrine (carcinoid) and epithelial (adenocarcinoma). These tumors are more aggressive than neuroendocrine tumors and are now treated and staged like appendiceal adenocarcinomas. They are extremely rare with an estimated incidence of 1 per 2 million individuals. The average age of onset is between 50 and 60 years, most patients are Caucasian (>80%) and they affect males and females equally. They most typically present either as appendicitis or with abdominal pain and a mass. In females, they often spread to the ovaries and can be easily confused with ovarian cancer. Making the diagnosis of GCA requires the examination of a tumor specimen. While GCA tend not to spread to other parts of the body outside the abdomen, they frequently spread inside the abdominal cavity. This condition is referred to as peritoneal carcinomatosis. Treatment for GCA often requires surgery to remove the right side of the colon where the appendix originates, and intravenous chemotherapy. If the GCA has spread in the abdomen, additional surgery to remove the cancer and heated chemotherapy delivered directly into the abdomen may be considered.
+
+Introduction
+In addition to being quite rare, cancers and tumors of the appendix come in a wide variety of types. The most common type of tumor or cancer of the appendix is a neuroendocrine or carcinoid tumor. Neuroendocrine tumors (NETs) are derived from specialized cells that reside in the wall of the appendix called enterochromaffin (EC) cells. These cells make chemicals that help facilitate gastrointestinal motility and digestion. The next most common type of cancer of the appendix is adenocarcinoma. These are derived from the most abundant cells lining the inside of the appendix called epithelial cells. One of the functions of epithelial cells is to make mucin – a jelly-like substance that helps protect the lining of the intestine. Cells that make mucin are often referred to as goblet cells. Goblet cell adenocarcinomas (GCAs) are an extremely rare subtype of cancer of the appendix that can have characteristics of both adenocarcinomas and NETs. These tumors have had several names in the past, including goblet cell carcinoid, to try to reflect that these tumors often have aspects of adenocarcinoma (goblet cell), and NETs (carcinoid). Previously these tumors have been treated and staged more like NETs but we now know that these tumors are more aggressive than NETs and only rarely associated with hormone secretion. Although GCAs are distinct from appendiceal adenocarcinomas, they are now treated and staged like appendiceal adenocarcinomas.
+
+symptoms:
+At the time of diagnosis, GCAs can be either localized to the appendix or have spread to other parts of the body – particularly the abdomen. For GCAs that are localized, the most common signs and symptoms are those of acute appendicitis – namely right lower abdominal pain. For GCAs that have already spread away from the appendix, the most common presenting signs and symptoms are abdominal pain and a mass. Finding GCAs that have already spread at the time of diagnosis is more common in females and 15-30% are initially diagnosed as having an ovarian cancer. There is a clear attraction of GCAs to the ovary for a reason that is not yet known but it is under investigation.
+GCAs rarely spread outside the abdominal cavity. However, once the cancer cells escape from the appendix, they can continue to grow in the abdominal cavity and on the surface of other organs, such as the omentum, intestines, ovaries, uterus, liver, spleen and peritoneum (lining of the abdominal cavity). This condition is called peritoneal carcinomatosis (see Related Disorders) – which means growth of cancer cells within the abdominal cavity. Over time, without treatment, this condition can result in blockage of the intestines or loss of intestinal function.
+Goblet cell carcinoids have been classified in several different ways as indicated below:
+
+Tang Classification
+Group A (typical GCA)Group B (signet ring cell)Group C (poorly differentiated carcinoma)
+
+Taggart Classification
+Group 1 (GCA with <25% adenocarcinoma) 
+Group 2 (GCA with 25-50% adenocarcinoma) 
+Group 3 (GCA with >50% adenocarcinoma)
+
+Lee Stratification
+Low-gradeHigh-grade
+

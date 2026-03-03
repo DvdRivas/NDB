@@ -1,0 +1,16 @@
+Propionic Acidemia
+
+synonyms:
+propionyl-CoA carboxylase deficiencyPCC deficiencyPAPCCA-related propionic acidemiaPCCB-related propionic acidemia
+
+overview:
+Summary
+
+Propionic acidemia is a rare metabolic disorder affecting from 1/20,000 to 1/250,000 individuals in various regions of the world. It is characterized by deficiency of propionyl-CoA carboxylase, an enzyme involved in the breakdown (catabolism) of the chemical “building blocks” (amino acids) of proteins. Symptoms most commonly become apparent during the first weeks of life and may include abnormally diminished muscle tone (hypotonia), poor feeding, vomiting, listlessness (lethargy), dehydration and seizures. Without appropriate treatment, coma and death may result. Rarely, the condition may become apparent later in life and may be associated with less severe symptoms and findings. Propionic acidemia is inherited in an autosomal recessive pattern. Individuals with this condition have to follow a specific diet including a low protein intake and specific food formulas (medical foods). Liver transplant is a surgical option that can help decrease the frequency of acute metabolic episodes (decompensation).
+
+symptoms:
+Symptoms most commonly develop during the first weeks of life and may include vomiting, listlessness (lethargy), low muscle tone (hypotonia), failure to grow and gain weight at the expected rate (failure to thrive), and dehydration. Approximately 30% of affected infants may also develop seizures. The recurrence or worsening of symptoms may be associated with an infection, constipation, or consumption of high amounts of protein. In some affected infants, episodes of symptoms may alternate with periods of apparently normal health and development.
+Without appropriate treatment, episodes of vomiting, lethargy, dehydration, and accumulation of excessive levels of acids in the blood and bodily tissues (acidosis) may lead to coma and death [1-4].
+As patients age, they can experience various symptoms affecting nearly all organ systems. These symptoms include brain damage (encephalopathy), hypotonia, intellectual disability, severe vision problems, inflammation of the pancreas (pancreatitis), recurrent vomiting, chronic renal failure, heart failure (cardiomyopathy), heart rhythm problems (prolonged QTc interval) , and osteoporosis which can lead to fractures. Affected individuals can also have a reduced number of cells in their blood, such as reduced red blood cells (anemia), reduced white blood cells (leukopenia), reduced platelets (thrombocytopenia), or a reduced number of all cell types (pancytopenia). These blood abnormalities can cause various symptoms, such as immune deficiency or bleeding problems. Individuals with propionic acidemia are also at an increased risk of having a stroke as early as a few weeks of age [4-10].
+Less commonly, propionic acidemia may become apparent in childhood or later in life [11-13]. These affected individuals may not experience sudden, acute episodes of acidosis and tend to come to medical attention due to neurological symptoms such as intellectual disability or cardiomyopathy.
+

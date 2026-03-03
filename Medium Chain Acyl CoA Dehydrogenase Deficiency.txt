@@ -1,0 +1,17 @@
+Medium Chain Acyl CoA Dehydrogenase Deficiency
+
+synonyms:
+MCAD deficiencyACADM deficiencyMCADH deficiencymedium chain acyl-coenzyme A dehydrogenase deficiencyMCADD
+
+overview:
+Summary
+Medium chain acyl-coA dehydrogenase deficiency (MCADD) is a genetic disorder caused by a lower-than-normal level of the medium chain acyl-coenzyme A dehydrogenase enzyme. This enzyme is involved in breaking down fat stores in the body to be used for energy. Symptoms of this disorder generally develop between 1 and 24 months of age, although they can sometimes first appear in adulthood. Individuals with MCADD experience symptoms of metabolic crisis due to low blood sugar (hypoglycemia) after periods of prolonged fasting or in response to a common illness. These may include weakness, vomiting and seizures. Rarely, coma or sudden death may occur. MCADD is inherited in an autosomal recessive pattern.
+
+Introduction
+MCADD is usually diagnosed through newborn screening. An early diagnosis of this disorder is important to be able to prevent symptoms from occurring. Treatment involves avoiding long periods of fasting and restricting fat intake. MCADD is a known cause of sudden infant death syndrome (SIDS).
+
+symptoms:
+Symptoms of MCADD are metabolic crisis brought about by low blood sugar (hypoglycemia). Because infants are typically weaned from nighttime feedings sometime between 3 and 24 months of age, this is when an infant’s first experience with longer fasting occurs. A previously healthy child with MCADD might suddenly experience severe symptoms at this point. A child could also have symptoms in response to a mild disease like a cold since this can decrease appetite. Alternatively, an individual with a milder form of MCADD might first develop symptoms in adulthood in response to an extreme metabolic stress such as surgery or severe illness. A person with MCADD who never experiences low blood sugar would never develop symptoms of the disease.
+During a hypoglycemic crisis, the affected individual could experience tiredness/weakness (lethargy), vomiting (emesis), seizures, coma or sudden death (in 18% of first crises). Additional signs of the disease could include an enlarged liver (hepatomegaly), low blood sugar due to inefficient breakdown of fats (hypoketotic hypoglycemia) and elevated levels of certain substances in the blood or urine (e.g., acylglycines).
+Secondary symptoms of MCADD that can develop after a person has experienced one or multiple metabolic crises are caused by damage to body tissues due to the hypoglycemic conditions during the events. These can include lasting muscle weakness and pain as well as reduced tolerance to exercise. Affected individuals may develop an inability to understand or use language (aphasia) and attention deficit disorder due to damage to the brain. Females with MCADD may have pregnancy complications such as HELLP syndrome (hemolysis, elevated liver enzymes, and low platelet count).
+

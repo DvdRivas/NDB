@@ -1,0 +1,12 @@
+Malignant Hyperthermia
+
+synonyms:
+Hyperpyrexia
+
+overview:
+Malignant hyperthermia (MH) is a dominantly inherited disorder of skeletal muscle that predisposes susceptible individuals to a life threatening adverse reaction (fulminant MH event) upon exposure to potent volatile anesthetics (halothane, isoflurane, sevoflurane, desflurane, etc.) and the skeletal muscle relaxant succinylcholine.
+The anesthetic drugs trigger an uncontrolled calcium (Ca2+) release from the sarcoplasmic reticulum (SR) through the ryanodine receptor (RYR1) causing a rapid and sustained rise in myoplasmic Ca2+. The high intracellular Ca2+ activates Ca2+ pumps at the SR and the sarcolemma to reuptake calcium into SR or to transport it into the extracellular space respectively. The energetic cost to regain cellular Ca2+ control causes a need for ATP, which in turn produces heat. Muscle membrane integrity is compromised leading to hyperkalemia and rhabdomyolysis.1 If not treated promptly, by withdrawing the anesthetic and administering dantrolene, mortality can be greater than 70%.2 In some individuals, fulminant MH events can be induced by stress, exercise and high environmental temperatures in the absence of anesthetics.3 Pediatric patients may be at greater risk.4
+
+symptoms:
+A fulminant MH episode is characterized by hypermetabolism that produces heat (hypethermia), increased oxygen uptake, and carbon dioxide production, along with hyperkalemia, and acidosis with hyperlacactemia.  Skeletal muscle rigidity may either be localized to the masseter muscle or generalized.  Muscle damage is reflected by increases in serum creatine kinase, potassium, calcium, and phosphate.  Rhabdomyolysis with myoglobinuria and myoglobinemia often occurs.  The time of onset after induction of general anesthesia may vary from minutes to hours, and patients may have had previously uneventful exposure to anesthetics.
+

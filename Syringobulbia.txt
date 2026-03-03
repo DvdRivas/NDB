@@ -1,0 +1,10 @@
+Syringobulbia
+
+overview:
+Syringobulbia is a neurological disorder characterized by a fluid-filled cavity (syrinx) within the spinal cord that extends to involve the brainstem (medulla). It usually occurs as a slit-like gap within the lower brainstem that may affect one or more of the cranial nerves, causing facial palsies of various kinds. In addition, sensory and motor nerve pathways may be affected by compression and/or interruption. This disorder is intimately associated with syringomyelia, in which the syrinx is limited to the spinal cord, and to the Chiari I malformation.
+
+symptoms:
+Usually, syringobulbia presents after syringomyelia, although isolated cases of syringobulbia have been documented.
+Syringobulbia is a slowly progressive disorder that may cause dizziness (vertigo), involuntary rapid movement of the eyeball (nystagmus), and loss of feelings of pain and temperature in the face.  Atrophy and small local involuntary contractions (fibrillation) of the tongue muscle may also occur, as well as stuttering (dysphonia), and a shrill or harsh voice.  Symptoms may also include impaired vision, numbness, and an unsteady way of walking (gait instability).
+Other symptoms may include hearing loss or ringing in the ears (tinnitus) and periodic limb movements.  In rare cases, nausea, vomiting, and feeding difficulties may be early symptoms.
+

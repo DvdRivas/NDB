@@ -1,0 +1,14 @@
+Hemimegalencephaly
+
+synonyms:
+macrencephalyunilateral megalencephaly
+
+overview:
+Hemimegalencephaly (HME) is a rare neurological condition in which one-half of the brain, or one side of the brain, is abnormally larger than the other. The structure of the brain on the affected side may be markedly abnormal or show only subtle changes. In either case, as a consequence of this size and structural differences, the enlarged brain tissue causes frequent seizures, often associated with cognitive or behavioral disabilities. Seizures in association with HME often begin in early infant life including an association with infantile spasms. Hemimegalencephaly may occur as an isolated or sporadic brain malformation or it may be associated with other neurodevelopmental syndromes. Thus, when detected, HME should prompt a search for other syndromic diagnoses.
+Anti-seizure medications typically are not effective in controlling seizures in HME and thus, surgery is often recommended to control the seizures. If the affected side is surgically removed (anatomic hemispherectomy) or disconnected from the other brain structures (functional hemispherectomy), the remaining side of the brain may gradually take over the functions normally performed by the affected side.
+Any combination of altered mental status, seizures, enlarged head, and /or altered skin pigmentation should prompt consideration of HME. In general, the presence of HME is definitively diagnosed by brain MRI. With the evolution of more widespread fetal imaging including ultrasound and MRI, a number of HME cases are detected prenatally.
+
+symptoms:
+HME typically is identified in the neonatal period when the baby develops presents seizures. The seizures usually do not decline in severity or number with medical treatment and in some cases they may exceed 50 or more per day. On physical examination, a child with HME may presents with enlarged head circumference or an asymmetrical head shape.  There may be movement or motor deficits on the side opposite to the HME. When these signs are present, the neurologist may suspect the presence of HME and order magnetic resonance imaging (MRI) examination.
+HME may occur in association with other syndromes, such as Proteus syndrome, epidermal nevus syndrome, tuberous sclerosis complex (TSC), linear sebaceous nevus syndrome, neurofibromatosis, and Sturge-Weber syndrome which are associated with abnormalities of skin pigmentation that can be detected on physical examination. Any child with these skin markings and seizures should be further evaluated for HME as well as other brain malformations. Hemimegalencephaly may also occur in association with Sotos syndrome and Alexander disease. These syndromes arise as a result of complex genetic activities such as single or multiple gene mutations. The mutations causing these disorders can be inherited or occur randomly during fetal development.
+

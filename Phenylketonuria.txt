@@ -1,0 +1,14 @@
+Phenylketonuria
+
+synonyms:
+classical phenylketonuriahyperphenylalanemiasevere phenylalanine hydroxylase (PAH) deficiencyphenylalaninemiaPKU
+
+overview:
+Phenylketonuria (PKU) is an inborn error of metabolism that can be diagnosed during the first days of life with routine newborn screening. PKU is characterized by absence or deficiency of an enzyme called phenylalanine hydroxylase (PAH), responsible for processing the amino acid phenylalanine. Amino acids are the chemical building blocks of proteins and are essential for proper growth and development. With normal PAH activity, phenylalanine is converted to another amino acid, tyrosine. However, when PAH is absent or deficient, phenylalanine accumulates and is toxic to the brain. Without treatment, most people with PKU would develop severe intellectual disability. To prevent intellectual disability, treatment consists of a carefully controlled, phenylalanine-restricted diet beginning during the first days or weeks of life.
+
+symptoms:
+Infants with PKU typically appear normal at birth. With early screening and dietary treatment, affected individuals may never show symptoms of PKU. However, untreated newborns not diagnosed in the first days of life may be weak and feed poorly. Other symptoms may include vomiting, irritability and/or a red skin rash with small pimples. Developmental delay may be obvious at several months of age. The average IQ of untreated children is usually less than 50. Intellectual disability in PKU is a direct result of elevated levels of phenylalanine in the brain which causes the destruction of the fatty covering (myelin) of individual nerve fibers. It can also cause depression by reducing brain levels of dopamine and serotonin (neurotransmitters).
+Untreated infants with PKU tend to have unusually light eye, skin, and hair color due to high phenylalanine levels interfering with production of melanin, a substance that causes pigmentation. They may also have a musty or “mousy” body odor caused by phenyl acetic acid in the urine or sweat.
+Neurological symptoms are present in some untreated patients with PKU, including seizures, abnormal muscle movements, tight muscles, increased reflexes, involuntary movements, or tremors.
+Untreated females with PKU who become pregnant are at high risk for having a miscarriage or having a baby that does not grow properly in the womb. Children of females with untreated PKU may have an abnormally small head (microcephaly), congenital heart disease, developmental abnormalities or facial differences. There is a strong relationship between the severity of these symptoms and high levels of phenylalanine in the mother. As a result, all females with PKU who have stopped treatment should resume treatment before conception and continue on it throughout pregnancy, managed by a metabolic geneticist and dietician.
+

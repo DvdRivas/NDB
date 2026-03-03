@@ -1,0 +1,11 @@
+Pyruvate Dehydrogenase Complex Deficiency
+
+synonyms:
+intermittent ataxia with pyruvate dehydrogenase deficiencylactic and pyruvate acidemia with carbohydrate sensitivitylactic and pyruvate acidemia with episodic ataxia and weaknessPDH deficiency
+
+overview:
+Pyruvate dehydrogenase complex deficiency (PDCD) is a rare disorder of carbohydrate metabolism caused by a deficiency of one of the three enzymes in the pyruvate dehydrogenase complex (PDC). The age of onset and severity of disease symptoms vary widely. Individuals with PDCD symptom onset in the prenatal period or in infancy usually die in early childhood. Those who develop PDCD later in childhood may have neurological symptoms but usually survive into adulthood. Most individuals with PDCD have an abnormality in thePDHA1gene located on the X chromosome. A smaller percentage of affected individuals have forms of the disorder that follow autosomal recessive inheritance.
+
+symptoms:
+Individuals with PDCD are affected by a broad spectrum of symptoms ranging from fatal lactic acidosis in infancy to chronic neurological dysfunction. Not all individuals with PDCD are affected at birth, but almost all show signs of the disease during their first year of life. The most common presenting features of PDCD, including poor feeding, lethargy and rapid breathing (tachypnea), are due to increased blood levels of lactic acid. Other early symptoms include neurological function impairments, such as motor delays, poor muscle tone (hypotonia) and seizures, as well as brain structural abnormalities on neuroimaging. Many individuals with PDCD also have developmental delays, incoordination (ataxia) and respiratory infections/distress. When symptoms begin during the prenatal period or soon after birth, neurological development can be severely impacted leading to major deficits. However, individuals with symptom onset well after birth may have normal neurologic development with intermittent displays of symptoms such as ataxia.
+

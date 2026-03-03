@@ -1,0 +1,11 @@
+Respiratory Distress Syndrome, Infant
+
+synonyms:
+Hyaline Membrane DiseaseInfantile Respiratory Distress SyndromeIRDS
+
+overview:
+Infant respiratory distress syndrome is a lung disorder that tends to affect premature infants. Major symptoms include difficulty in breathing and collapsed lungs, potentially requiring mechanical ventilation or positive end-expiratory pressure (PEEP).
+
+symptoms:
+Infant  respiratory  distress syndrome is characterized by diminished oxygen intake in the premature newborn. A clear membrane is found lining the alveolar (air cell) ducts in the lungs and is associated with reduced amounts of lung wetting agents or emulsifier (surfactant).  The surfactant is a lipoprotein based on lecithin that stabilizes alveolar membranes.  When this surfactant is missing, breathing is difficult and may lead to collapse of a lung.  The affected infant must be placed on some type of ventilation, either mechanical or physical, in order to continue breathing.
+

@@ -1,0 +1,17 @@
+Menkes Disease
+
+synonyms:
+Copper Transport DiseaseKinky Hair DiseaseSteely Hair DiseaseTrichopoliodystrophyX-linked Copper DeficiencyMD
+
+overview:
+Introduction
+
+Menkes disease (MD) is an inherited X-linked recessive disorder that affects many systems in the body. Affected infants are often born prematurely and may have non-specific symptoms such as hypothermia, hypoglycemia, and prolonged jaundice. One obvious and specific physical sign is “steely” or “kinky” hair that usually develops by several months of age. Menkes disease is also associated with seizures, stunted growth, failure to thrive, unstable body temperature, and intellectual disability.
+Menkes disease is caused by mutations in the ATP7A gene that is responsible for transport of copper throughout the body. The body uses copper as a cofactor to activate certain enzymes in order to carry out certain functions. When these enzymes are not working normally, serious and fatal effects can ensue over time related to the function of the copper-dependent enzymes that control the development of hair, brain, bones, liver, and arteries. Variants of MD that are caused by mutations in the ATP7A gene but result in less severe symptoms include mild Menkes disease and occipital horn syndrome.
+There is no complete cure for Menkes disease at this time, but treatment with parenteral copper histidinate (CuHis) can increase survival and lessen the neurological symptoms if initiated early, within approximately 28 days following birth.
+
+symptoms:
+Menkes disease is characterized by dry skin and abnormal hair that is often brittle, tangled, sparse, steely or kinky and is often white, ivory, or grey in color. The affected infant may also appear to have a yellow appearance (jaundice) which is caused by excessive bilirubin in the blood (hyperbilirubinemia). Lower than normal body temperature (hypothermia) also may occur in the neonatal period. The normal, asymptomatic phase of the illness typically lasts for two to three months.
+Brain and cognitive abnormalities are central in this disorder. Blood clots (subdural hematomas) and/or rupture or thrombosis of arteries in the brain may occur. Neurodegenerative effects such as seizures, and delayed growth and development may also arise. Reduced bone density (osteoporosis) is common and may result in fractures. The combination of subdural hematoma and bone fractures may lead to an incorrect diagnosis of child abuse. Emphysema, bladder diverticula, neck masses due to internal jugular vein phlebectasia, and cortical blindness have also been described.
+Occipital horn syndrome (OHS) is recognized as a milder form of MD with less severe neurological involvement and is usually diagnosed around the age of 5-10 years.
+

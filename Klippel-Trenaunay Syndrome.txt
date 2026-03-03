@@ -1,0 +1,20 @@
+Klippel-Trenaunay Syndrome
+
+synonyms:
+KTS
+
+overview:
+Summary
+Klippel-Trenaunay syndrome (KTS) is a rare vascular disorder that is present at birth (congenital) and characterized by three features: cutaneous capillary malformation (“port-wine stain”), lymphatic anomalies and abnormal veins in association with variable overgrowth of soft tissue and bone. KTS occurs most frequently in the lower limb and less commonly in the upper extremity.
+
+Introduction
+The eponym KTS generated controversy in the medical literature since the first report of the condition in the early 20th century. The French physicians, Klippel and Trenaunay, described patients with capillary stains (improperly called “hemangiomas” at that time), venous varicosities and overgrowth. In the same era, the English dermatologist, Parkes Weber, reported the combination of “hemangiomas” and overgrowth of a limb. For many years, the names of all three physicians were linked as a confusing (and incorrect) term “Klippel-Weber-Trenaunay syndrome,” which unfortunately is sometimes used to this day.
+Since the latter 20th century, it is well-recognized that Parkes Weber and Klippel-Trenaunay syndromes are entirely different. Parkes Weber syndrome consists of fast-flow, multiple microscopic arteriovenous connections with variable capillary staining of an enlarged limb (usually the lower extremity). In contrast, KTS is a slow flow combined vascular disorder involving abnormal capillaries (C), lymphatics (L) and veins (V). Therefore, many investigators use the abbreviation CLVM, rather than KTS, and restrict the designation for patients who have all three anomalous vascular components. Other authors apply the KTS term more broadly and include patients with only capillary stain (CM) or combined capillary and venous anomalies (CVM) in the lower limb in the absence of lymphatic abnormalities. Now that genetic testing is available, it is possible to more precisely diagnose patients with these various combinations of vascular anomalies.
+
+symptoms:
+Capillary Malformation (CM)At birth, KTS presents with scattered, geographic capillary stains. With age, the surface of the CM becomes studded with tiny lymphatic vesicles that often ooze clear fluid and turn black due to intralesional bleeding.
+Lymphatic Malformation (LM)LM presents as localized or generalized overgrowth caused by micro- and macrocystic anomalies, sometimes in association with lymphedema. Often there is lymphatic swelling and fatty deposition on the opposite foot. The lymphatic anomalies can also occur in the pelvis, bladder and lower gastrointestinal tract. Lymphatic cysts in the spleen are also common. LM is documented by ultrasonography and/or MRI. Lymphography shows that lymphedema is the result of diminished number or absence of lymphatic channels.Episodic infections (cellulitis) are common and probably related to poor lymphatic drainage in the limb.
+Venous Malformation (VM)Venous abnormalities are always present but variable and involve the entire affected extremity. Typically, there are anomalous embryonic veins called the “marginal system.” Dilatation of superficial veins may not be apparent in infancy but becomes more prominent with age. LM and VM can also involve the pelvic or abdominal organs resulting in bleeding from the rectum, vagina or urinary bladder. Abnormal fatty deposits accompany the venous and lymphatic anomalies.
+Many patients with extensive abnormal veins have a low-grade hematologic condition called “localized intravascular coagulopathy” (LIC), this can be determined by measuring increased D-dimers in the blood. Stagnant blood in the dilated veins may clot and trigger a generalized bleeding disorder called “disseminated intravascular coagulopathy” (DIC).
+OvergrowthEnlargement of the limb can be minimal to extremely distorted. Overgrowth in length often occurs; however, in some patients the affected limb is shorter than normal. Frequently there is enlargement of the opposite foot.
+

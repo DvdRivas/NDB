@@ -1,0 +1,11 @@
+Pseudocholinesterase Deficiency
+
+synonyms:
+Apnea, PostanestheticButyrylcholinesteraseCholinesterase II DeficiencyPseudocholinesterase E1Succinylcholine SensitivitySuxamethonium Sensitivity
+
+overview:
+Pseudocholinesterase deficiency is an uncommon genetic disorder that makes an affected person very sensitive to any of several anesthetic agents, especially those derived from the drug known as choline. When anesthetic drugs such as succinylcholine or mivacurium are administered to a susceptible person, the muscles that work the lungs may become paralyzed. Mechanical ventilation is essential until the excess anesthetic agent is metabolized and normal breathing is resumed.
+
+symptoms:
+Individuals with pseudocholinesterase deficiency have a shortage or absence of the enzyme pseudocholinesterase in their blood serum.  If the drug succinylcholine (or another anesthetic derivative of choline) is given during surgery, the respiratory muscles become paralyzed and the patient stops breathing (apnea).  Artificial respiration (mechanical ventilation) may be necessary until the drug is eliminated from the body and the affected individual is able to resume breathing.  If the person with pseudocholinesterase deficiency is not exposed to a choline-derived anesthetic, he or she may never be aware of having a deficiency of the enzyme pseudocholinesterase.
+

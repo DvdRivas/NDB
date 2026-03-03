@@ -1,0 +1,17 @@
+Tracheobronchomalacia
+
+synonyms:
+TBMtracheomalacia
+
+overview:
+Summary
+Tracheobronchomalacia (TBM) is a condition caused by a weak airway that collapses when the patient breathes. It can present either at birth or in adulthood with a cough, shortness of breath and/or recurrent infections.
+TBM occurs when the walls of the airway (specifically the trachea and bronchi) are weak. As the patient breathes out, the weak airway collapses partially or completely. There are two forms of TBM: primary (congenital) and secondary (acquired). Primary TBM typically presents at birth or during infancy due to a malformed airway. Secondary TBM is an acquired form usually seen in adults with weakened airways. Symptoms include shortness of breath, a “barking” cough, chronic airway infections, and/or wheezing or stridor with breathing. These symptoms may mimic other diseases or not be present at all, which makes TBM more difficult to diagnose and likely less rare than previously thought. A pulmonologist confirms the diagnosis and severity with a flexible bronchoscopy. Case severity may vary widely, but prognosis has continually improved with supportive measures.
+Introduction
+Primary tracheobronchomalacia is caused by congenital conditions that weaken or compress the walls of the airway (i.e. tracheoesophageal fistula, esophageal atresia, or Ehlers-Danlos syndrome). Secondary or acquired TBM may occur due to trauma (i.e. prolonged intubation or trachea surgery) and is always associated with another condition (i.e. COPD, asthma, chronic infections, heartburn, and sleep apnea). The exact mechanism causing TBM is largely unknown. Treatment may only be needed if signs and symptoms are present and affecting the patient’s quality of life. Depending on severity, treatment options may include continuous positive airway pressure (CPAP), stenting, or tracheobronchoplasty.
+
+symptoms:
+Many patients with TBM are asymptomatic. The most common symptoms include:
+Shortness of breath (especially during exercise and eating)A chronic “barking” coughRecurrent respiratory infectionsStridor (a high-pitched sound made as when breathing out)Bluish coloring around the lips and noseMucus buildupRespiratory distress
+Adults with secondary TBM will have symptoms that progressively get worse over time.
+

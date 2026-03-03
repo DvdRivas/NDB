@@ -1,0 +1,16 @@
+Severe Combined Immunodeficiency
+
+synonyms:
+bubble boy syndromeSCID
+
+overview:
+Severe combined immunodeficiency (SCID) is a group of rare congenital syndromes with little or no immune responses.  This results in frequent recurring infections with bacteria, fungi, and viruses. Infections that are minor in most people can be life‑threatening in people with SCID.
+The immune system includes specialized white blood cells that work together to fight off bacteria, fungi, and viruses. These white blood cells include T lymphocytes (T cells) that are central mediators of the immune response and also directly attack viruses. B lymphocytes (B cells) produce antibodies that attach to invaders and mark them to be destroyed, but they need T cells to work effectively. Natural killer (NK) cells are specialized to help fight viruses as well. Patients with SCID have a genetic defect that affects T cells and at least one other type of immune cell (hence “combined immunodeficiency”).
+Types of SCID are classified by which immune cells, T, B, and/or NK cells, are defective. There are several types of SCID, each caused by a different genetic (hereditary) defect. Despite the type of SCID, the primary symptom is reduced or absent immune function and all forms of classic SCID are lethal unless treated appropriately. The type of SCID helps determine the best treatment.
+Most states now have newborn screening for SCID to help detect and treat babies prior to them becoming sick.  Early detection by newborn screening has dramatically increased the success of the bone marrow transplantation as babies with SCID can avoid early infections.
+
+symptoms:
+All newborn babies receive antibodies from their mothers during pregnancy that protect them from infections during the first few months of their lives. In the absence of family history of SCID and prior to newborn screening, babies with SCID often presented to medical attention between three and six months with severe infections as their maternal antibodies naturally decreased.  Symptoms included rashes, diarrhea, recurrent infections, difficulty gaining weight, weakness and/or growth delay.
+Organisms that would cause mild to moderate illnesses in healthy people may cause life‑threatening infections in babies with SCID. Even organisms that do not ordinarily make people sick may make a child with SCID very ill. Babies with SCID typically suffer from many, severe cases of yeast (thrush or diaper rash), chicken pox, measles, herpes virus (cold sores), ear infections, meningitis (brain infections), or pneumonia that do not respond well to standard medical treatments. Children with SCID may also become infected with viruses (cytomegalovirus) from breastmilk, other live viruses (for example, the rotavirus or chickenpox) from vaccination or from common colds (viruses or bacteria) from siblings or surrounding children with healthy immune systems that can get rid of those infections.
+It is critical that a child with SCID receive a stem cell transplant as soon as possible and preferably in the first few months of life. Children with SCID should avoid any live vaccines, young children that can often transmit common infections, and breast feeding until the milk can be tested to ensure the best success of the bone marrow transplant.
+

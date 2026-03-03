@@ -1,0 +1,63 @@
+Osteogenesis Imperfecta
+
+synonyms:
+brittle bone diseasebrittle bone dysplasiaOI
+
+overview:
+Osteogenesis imperfecta (OI) is a rare disease affecting the connective tissue and is characterized by extremely fragile bones that break or fracture easily (brittle bones). The abnormal growth of bones is often referred to as a bone dysplasia. The specific symptoms and physical findings associated with OI vary greatly from person to person. The severity of OI also varies greatly, even among individuals in the same family. OI may be a mild disorder or result in severe complications.
+Four main types of OI (the collagen types) have been identified based on clinical features and severity. These types account for 85-90 percent of OI cases and are caused by mutations (changes) in theCOL1A1orCOL1A2genes. These genes code for type 1 collagen, the most abundant collagen in the human body. It is found in bones, tendons and ligaments. OI type I is the most common and the mildest form of the disorder. OI type II is the most severe of the collagen types. OI types V through XXI (the non-collagen types), as well as unclassified types, make up the remaining 10-15 percent of OI cases. These types are caused by changes in genes that code for proteins that interact with collagen.
+
+symptoms:
+In all types of osteogenesis imperfecta, symptoms vary greatly from one individual to the next, even within the same type and the same family.  Some affected individuals may not experience any bone fractures or only a few. Other affected individuals experience multiple fractures. The age of onset of fractures varies from person to person. OI is a collagen related disease, and as such, the arrangement and integrity of teeth (dentition), lung function, heart (cardiac) function, muscle strength and ligament flexibility may be affected as well.
+Historically, OI has been classified into four main types according to clinical features and severity. Over the past decade, many new genes have been identified in individuals who have brittle bones as a component of their disease. The classification has been expanded beyond types I through IV to include these new and rarer types of OI. Types V through XXI are classified according to the causative genetic mutation. Just like the more common types of OI, the clinical features of affected individuals vary within these rare types. The types of OI and the causative gene (shown in parentheses) are described below.
+Osteogenesis Type I (COL1A1)
+Osteogenesis type I is the most common and usually the mildest form of OI. In most people, it is characterized by multiple bone fractures, usually occurring during childhood through puberty.  A child with type I OI may fracture early in life with minimal trauma (falling from a standing position or when being pulled up by a caregiver), whereas others may fracture later on when participating in higher intensity physical activity.  Fractures during the newborn (neonatal) period are rare. The frequency of fractures usually declines after puberty. Repeated fractures may result in slight malformation of the bones of the arms and legs (e.g., bowing of the tibia and femur).
+A distinguishing feature associated with OI type I is a bluish discoloration of the whites of the eyes (blue sclera). Some individuals with OI type I may develop abnormalities affecting the middle and/or inner ears, contributing to, or resulting in hearing impairment. The incidence of hearing loss in patients with type I OI increases with age.
+Individuals with OI type I may have a triangular facial appearance. Height is variable and most people are below average height for age in childhood, with an adult height shorter than that of unaffected family members. Between 10 and 40 percent of patients with OI type I develop a curved spine (scoliosis). The curve is often mild and progresses minimally over time.
+Additional symptoms associated with OI type I include loose (hyper extensible) joints and low muscle tone (hypotonia). This may result in a predisposition to joint dislocations and ligament sprains. Some patients have skin that bruises easily. Brittle teeth (dentinogenesis) are uncommon in type I OI.
+Osteogenesis Type II (COL1A1orCOL1A2)
+OI type II is the most severe type of osteogenesis imperfecta. Affected infants often experience life-threatening complications at birth or shortly after. Infants with OI type II have low birth weight, abnormally short arms and legs and blue sclera. In addition, affected infants have extremely fragile bones and numerous fractures present at birth.  The ribs and long bones of the legs are often malformed.
+Infants with OI type II have underdeveloped lungs and an abnormally small upper chest (thorax) that may result in life-threatening respiratory insufficiency. Some affected infants may experience congestive heart failure.
+Infants with OI type II may also have a small, narrow nose, small jaw (micrognathia) and abnormally large soft spots on the top of the skull (large fontanelle). Affected infants may also have thin, fragile skin and low muscle tone (hypotonia).
+Osteogenesis Type III (COL1A1orCOL1A2)
+Extremely fragile malformed bones and multiple fractures characterize OI type III.  Fractures are often present at birth and x-rays may show signs of healing fractures that occurred prenatally.
+Progressive malformations of various bones commonly result in short stature, spinal deformity (scoliosis, thoracic kyphosis and lumbar lordosis) and malformation of the junction where the bone in the back of the skull (occipital bone) and the top of the spine meet (basilar invagination).  Approximately 70 percent of children with type III OI develop scoliosis. These curves have a high risk of progression during skeletal growth.  Chest wall deformities are common, resulting in a barrel shaped rib cage. Frequent fractures and bone deformities of the upper and lower extremities may require multiple surgeries for stabilization as the child grows. Adult height is severely reduced.  Individuals with type III OI may become more dependent on the use wheelchairs and other mobility aids by young adulthood.
+Infants with OI type III may have a slight blue discoloration to the whites of the eyes at birth. In most patients, the bluish tinge fades during the first year of life. Affected infants often have a triangular facial appearance due to an abnormally prominent forehead (frontal bossing) and a small jaw (micrognathia). Hearing loss may develop during the first decade. Dentinogenesis imperfecta may also be present. Type III patients may develop pulmonary problems secondary to abnormal lung tissue and chest wall abnormalities.
+Osteogenesis Type IV (COL1A1orCOL1A2)
+The clinical severity of type IV OI (the moderate type) may resemble type I or type III.  Fractures are more common before puberty. Affected individuals experience mild to moderate bone malformation and are usually shorter than average. Patients with type IV OI may also develop scoliosis.
+Individuals with OI type IV may have a triangular facial appearance.  In most patients, the sclera are normal or pale blue during infancy.  As an infant ages, the pale blue discoloration of the sclera fades. Affected individuals may also experience hearing impairment and dentinogenesis imperfecta.
+Osteogenesis Type V (IFITM5)
+OI type V is moderate in severity, with a clinical picture similar to type IV. Individuals may develop an abundance of healing bone (hypertrophic callus) at fracture sites or where bones have been cut surgically. They may also have an abnormal bony connection between the two long bones of the forearm resulting in limitations of motion at the wrist and elbow.
+Osteogenesis Type VI (SERPINF1)
+Type VI OI is moderate in severity and affected individuals have a clinical picture similar to type IV. Children who have type OI type VI do not have fractures at birth, but develop them later. Vertebral compression fractures and scoliosis are common, as is progressive bowing of the bones in the arms and legs. Height is moderate to severely affected. The sclera of the eyes are white, teeth are normal and hearing loss has not been observed.
+Osteogenesis Imperfecta Type VII (CRTAP)
+Type VII OI is severe and affected individuals have clinical cases similar to type II.
+Osteogenesis Imperfecta Type VIII (LEPREI)
+Affected individuals have white sclera, severe growth deficiency and a clinical course similar to types either II or III.
+Osteogenesis Imperfecta Type IX (PPIB)
+Type IX OI is very rare and affected individuals have white sclera, proportionate limbs and moderate to severe clinical cases.
+Osteogenesis Imperfecta Type X (SERPINH1)
+Type X OI is extraordinarily rare and the bones are severely affected. Individuals with type X OI have a head that appears large for body size and blue sclera. Pulmonary complications, renal stones and muscle weakness have been reported.
+Osteogenesis Imperfecta Type XI (FKBP10)
+Type XI OI encompasses a spectrum of disorders that include variable severities of both brittle bones and abnormalities in joint mobility. Progressive scoliosis and kyphosis, abnormal hips and normal hearing are common features. Bruck syndrome type I is also caused by mutations in theFKBP10gene and is characterized by severe OI and joint contractures (limited mobility).
+Osteogenesis Imperfecta Type XII (BMP1)
+Type XII OI includes several disorders that are characterized by recurrent fractures, poor bone density, muscle weakness, delayed tooth eruption, progressive hearing loss and white sclera. Bone density may be above normal.
+Osteogenesis Imperfecta Type XIII (SP7)
+Affected individuals have bone density just at or below normal and develop mild to moderate bone deformities. They have a small lower jaw, normal teeth, faint blue sclera and growth deficiency.
+Osteogenesis Imperfecta Type XIV (TMEM38B)
+The severity of symptoms in affected individuals varies widely. Some individuals have bowing of the bones in the legs and recurrent fractures, whereas others are asymptomatic. Muscle weakness and heart abnormalities have been reported in patients with type XIV OI.
+Osteogenesis Imperfecta Type XV (WNT1)
+Affected individuals have moderate to severe bowing of the long bones, scoliosis, vertebral fractures and muscle weakness. Some have blueish sclera and neurological problems have been reported.
+Osteogenesis Imperfecta Type XVI (CREB3L1)
+OI type XVI is severe. Fractures are present at the time of birth and the long bones of the upper arms and legs develop bowing.
+Osteogenesis Imperfecta Type XVII (SPARC)
+Type XVII is severe. Affected individuals have white sclera, no dental involvement, joint hypermobility and may develop scoliosis
+Osteogenesis Imperfecta Type XVIII (FAM46A)
+OI Type XVIII causes severe bony abnormalities, scoliosis, chest wall deformity and the sclera may be blue or white.
+OI Type XIX (MBTPS2)
+Type XIX OI is a severe type caused by a mutation on the X chromosome. It is characterized by prenatal fractures, growth deficiency, scoliosis and severe angulation of the lower leg bone (tibia).
+OI Type XX (MESD)
+OI type XX is severe. Features include fractures, severe bowing deformities of the long bones, and possible respiratory failure.
+OI Type XXI (KDELR2)
+Type XXI OI is moderate to severe and results in progressive bone deformities and multiple fractures. Growth deficiency and scoliosis are also reported.
+

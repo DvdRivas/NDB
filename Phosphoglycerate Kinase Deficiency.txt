@@ -1,0 +1,14 @@
+Phosphoglycerate Kinase Deficiency
+
+synonyms:
+anemia, hemolytic with PGK deficiencyerythrocyte phosphoglycerate kinase deficiencyPGKphosphoglycerokinase
+
+overview:
+Phosphoglycerate kinase deficiency is an extremely rare inherited metabolic disorder characterized by deficiency of the enzyme phosphoglycerate kinase. This enzyme is essential for the breakdown of glycogen, resulting in the release of energy. Symptoms and findings associated with the disorder may include low levels of circulating red blood cells (hemolytic anemia); varying degrees of intellectual disability; rapidly changing emotions (emotional liability); an impaired ability to communicate through and/or to comprehend speech or writing (aphasia); exercise-induced pain, stiffness, or cramps; enlargement of the spleen (splenomegaly); and/or paralysis of one side of the body (hemiplegia). In most cases, phosphoglycerate kinase deficiency is inherited as an X-linked genetic trait. In such cases, the disorder is fully expressed in males only; however, some females who carry one copy of the disease gene (heterozygotes) may have hemolytic anemia.
+
+symptoms:
+The three main features of phosphoglycerate kinase deficiency are hemolytic anemia, intellectual disability, and muscle problems (myopathy). An individual with the disorder may be affected by one or more of these features, but it is unusual for one person to exhibit all three signs.
+Individuals with childhood PGK deficiency have some degree of intellectual disability with delayed language acquisition. Some have epilepsy and strokes.
+Most adult patients are moderately affected, and heterozygous females may show only mild hemolytic anemia with no myopathy or intellectual disability.
+Myopathy with exercise-induced stiffness, cramps, and muscle pain is seen in adolescents and young adult males. The cramps are often severe and may incapacitate the individual for hours. Myoglobinuria is often seen in severe episodes.
+

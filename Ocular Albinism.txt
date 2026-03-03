@@ -1,0 +1,12 @@
+Ocular Albinism
+
+synonyms:
+Nettleship-Falls ocular albinismOA1ocular albinism type 1X-linked ocular albinismXLOA
+
+overview:
+Ocular albinism type I (OA1), or X-linked ocular albinism, is the most common form of ocular albinism. Ocular albinism is a genetic disorder characterized by vision abnormalities in affected males. Vision deficits are present at birth and do not become more severe over time. Affected individuals have normal skin and hair pigmentation. Ocular albinism is inherited as an X-linked recessive genetic condition and caused by mutations in the G protein-coupled receptor 143 (GPR143) gene.
+
+symptoms:
+Ocular albinism primarily affects pigment production in the eyes. Several vision problems can occur with ocular albinism including an involuntary movement of eyes back and forth (nystagmus), reduced iris pigment in some individuals, reduced retinal pigment, lack of development of the fovea (foveal hypoplasia) leading to blurred vision, and abnormal connections in the nerves from the retina to the brain that prevents the eyes from tracking together and reduces depth perception. Crossed eyes (strabismus) and sensitivity to light (photophobia) are also common. Typically individuals have normal hair and skin pigmentation.
+Congenital motor nystagmus is a genetic condition characterized by an involuntary movement of eyes back and forth (nystagmus). Affected individuals will often turn or bob their head to try to improve vision clarity. Pigmentation in the eye is normal. There is preliminary evidence that some mutations of GPR143 result in X-linked congenital nystagmus in males. This has been seen in several different Chinese families. Affected males have congenital nystagmus but they do not have the additional changes typically seen in individuals with classical X-linked ocular albinism including a reduction in retinal pigmentation and pathological changes to the fundus. Female carriers appear to be unaffected. Further research needs to be done to understand how mutations in the same gene can result in different outcomes.
+

@@ -1,0 +1,20 @@
+Smallpox
+
+overview:
+Smallpox is a highly infectious disease caused by the variola virus. It is characterized by symptoms such as fever, a general feeling of unwellness (malaise), headaches and back pain, followed by the development of a rash and raised lesions (pocks) within two to three days. The virus had two primary strains: variola major and variola minor.
+In 1980, the World Health Assembly declared smallpox eliminated (eradicated), and no cases of naturally occurring smallpox have happened since, however, concerns about its potential use as a bioterrorism weapon have resurfaced in recent years.
+
+symptoms:
+Smallpox is a serious disease that progresses through distinct stages, from initial symptoms to rash development, and finally to scabbing and recovery.
+Incubation period (7-17 days):After being exposed to the smallpox virus, symptoms typically begin to appear after an incubation period of about 12 days, though it can range from 7 to 17 days. During this period, the virus is in your body, but you won’t show any symptoms and won’t feel sick. People are not contagious at this stage.
+Initial symptoms (2-4 Days) (appear after the incubation period):The first signs of smallpox usually include a high fever, severe headaches, back pain and malaise. Some people may also experience vomiting, severe abdominal pain and delirium. At this point, most people feel too sick to carry on with their normal activities. During this stage, people may become contagious, but the risk is higher in the stages that follow.
+Early rash (about 4 days):Two to three days after the initial symptoms begin, a rash appears, first as small red spots on the tongue and in the mouth. These spots quickly turn into sores that break open, releasing large amounts of the virus into the mouth and throat. This marks the beginning of the most contagious stage.
+The rash then spreads to the skin, starting on the face and quickly moving to the arms, legs, hands, feet and eventually the entire body within 24 hours. As the rash spreads, the fever may decrease, and you might start feeling a little better. By the fourth day of the rash, the sores fill with a thick, opaque fluid, often with a dent in the center, and the fever may spike again.
+Pustular rash (about 10 days):Around the sixth day of the rash, the sores become pustules—round, firm bumps that feel like peas under the skin. This stage lasts about 10 days, during which people remain highly contagious. After about 5 days, the pustules begin to crust over and form scabs.
+Scabs and recovery (about 2 weeks):By the end of the second week after the rash first appeared, most of the sores will have scabbed over. Over the next week or so, these scabs start to fall off, leaving marks or scars on the skin. This stage lasts about 6 days.
+People are still contagious until all the scabs have fallen off, which usually happens about three weeks after the rash appears. After four weeks, once all the scabs have fallen off, people are no longer contagious.
+Smallpox comes in two strains according to the severity of the disease:
+Variola major: The more severe form, with a fatality rate of about 30%Variola minor:A milder form, with a fatality rate of less than 1%
+Smallpox can lead to serious, life-threatening complications including:
+Severe blood lossToxins in the blood (toxemia)Cardiovascular problemsSecondary bacterial infections
+

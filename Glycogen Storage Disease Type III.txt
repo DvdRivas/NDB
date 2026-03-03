@@ -1,0 +1,24 @@
+Glycogen Storage Disease Type III
+
+synonyms:
+amylo-1,6-glucosidase deficiencyCori diseaseAGL deficiencyglycogenosis type IIIForbes diseaselimited dextrinosisGDE deficiencyglycogen debrancher deficiencyGSD-III
+
+overview:
+Summary
+The human diet contains 3 macronutrients that can be stored by the body as energy: carbohydrates (as the natural carbohydrate polymer glycogen, in mainly the liver and muscle), protein (as muscle, the natural protein source of the body) and fat (in organs and fat tissue). There are at least 13 glycogen storage disease (GSD) subtypes, in which the energy stored as glycogen cannot be adequately produced or broken down. The liver GSD subtypes cause fasting intolerance (types 0, Ia, Ib, III, VI, IX and XI) or liver failure (type IV), with or without muscle symptoms. The fasting induced low blood glucose concentrations decrease the energy supply by the liver to organs like the brain.
+The ketotic GSD subtypes 0, III, VI, IX, and XI are associated with fastingketotichypoglycemia. In these patients, the breakdown of glycogen (glycogenolysis) is defective. Their fasting intolerance is considered relatively mild compared to GSD type I patients, in whom both glycogenolysis and the generation of glucose from non-carbohydrate substances (gluconeogenesis) are impaired.
+Introduction
+The first patient with GSD type III (GSD-III) was described in 1928 by the Dutch pediatrician Simon van Creveld. He described a 7-year-old boy with marked enlarged liver, obesity and small genitals. The fasting blood glucose concentration appeared to be very low, and concentrations of ketone bodies in urine were high. Based on additional investigations in the patient, Dr Van Creveld concluded that the body increasingly burned fat, resulted from “insufficient mobilization of glycogen”.
+
+symptoms:
+The median age at the first clinical presentations is in the first year of life. Most common presenting symptoms are enlarged liver (hepatomegaly) (98%), low blood sugar (hypoglycemia) (53%), failure to thrive (49%) and recurrent illness and/or infections (17%). Symptoms and signs of GSD-III, at least during the first 4 to 6 years of life, may be indistinguishable from GSD type I. The amount of glycogen in the liver and muscles is abnormally high, the liver is enlarged, and the abdomen protrudes. The muscles tend to be flaccid or weak.
+A typical child with GSD-III has short stature, low blood sugar after fasting that does not respond to the hormone glucagon, and an elevated level of fatty substances in the blood, known as hyperlipidemia. Hypoglycemia is usually associated with increased ketone bodies, and ketonemia can precede hypoglycemia, reflecting activation of burning fat stores. Patients with GSD-III may also have difficulty fighting infections, and may experience unusually frequent nosebleeds. Enlarged heart muscle (cardiac hypertrophy) is common in individuals with GSD-IIIa and can already appear in early childhood. However, in most children, heart function remains within normal limits. Children with GSD-III often grow slowly during childhood and puberty may be delayed, but their adult height is usually normal. Most signs and symptoms improve significantly with adequate dietary management.
+In adulthood, the liver manifestations of the disease usually subside, but progression to liver scarring (cirrhosis) and malignancy (carcinoma) may occur. Despite dietary management, muscle disease can get worse. As the cohort of adult GSD-III patients is still relatively young and small, the course of the disease over time is incompletely described.
+Some affected individuals may have virtually no symptoms (asymptomatic) other than a protruding abdomen and an enlarged liver in childhood. These patients tend to lose these few symptoms during adolescence when their liver decreases progressively in size.
+Classification
+There are four subtypes of GSD-III:
+GSD-IIIa is the most common type, affecting 85%, and affects both the liver and (cardiac and/or skeletal) muscles.
+GSD-IIIb affects about 15% of individuals and only affects the liver.AGLmolecular testing can display mutations specific to GSD-IIIb.
+GSD-IIIc is extremely rare and believed to be caused by loss of activity of the glucosidase active site of the glycogen debranching enzyme.
+GSD-IIId is extremely rare and believed to be caused by loss of activity of the transferase active site of the glycogen debranching enzyme.
+

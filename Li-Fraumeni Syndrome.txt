@@ -1,0 +1,21 @@
+Li-Fraumeni Syndrome
+
+synonyms:
+LFS
+
+overview:
+Summary
+Li-Fraumeni syndrome (LFS) is an inherited familial predisposition to a wide range of certain, often rare, cancers. This is due to a change (mutation) in a tumor suppressor gene known asTP53. The resulting p53 protein produced by the gene is damaged (or otherwise rendered malfunctioning) and is unable to help prevent malignant tumors from developing. Children and young adults are susceptible to developing several multiple cancers, most notably soft-tissue and bone sarcomas, breast cancer, brain tumors, adrenocortical carcinoma and acute leukemia. Other cancers seen in LFS patients include gastrointestinal cancers and cancers of the lung, kidney, thyroid, and skin, as well as in gonadal organs (ovarian, testicular, and prostate.)
+It is important to note that not everyone with aTP53gene mutation will necessarily develop cancer, but the risks are substantially higher than in the general population. A diagnosis of LFS is critically important so that affected families can seek appropriate genetic counseling as well as surveillance for early detection of cancer.
+Introduction
+LFS was first recognized in the 1969 by Drs. Frederick Li and Joseph Fraumeni, Jr., while studying pediatric and familial cancers at the National Cancer Institute. They described four families with multiple early-onset cancers in children and young adults. The syndrome was first reported in a publication as “Li-Fraumeni syndrome” in 1982 by researchers in the United Kingdom who described two families with multiple forms of cancer in young people.
+In 1990, inherited variants of theTP53gene were discovered as the primary cause of LFS. This finding provided a special opportunity for genetic testing and clinical interventions that enable cancer prevention, early cancer detection, and cancer treatment of people with LFS. The finding also fueled further molecular research intoTP53which is commonly found in the tumor tissue of cancer patients.
+
+symptoms:
+LFS may be suspected if someone has a personal or family history of cancers featured in LFS. In addition, there are certain rare cancers that are characteristic of the syndrome that should alert clinicians to the potential of a diagnosis of LFS. Patients and families with multiple childhood cancers, or specific rare cancers such as adrenocortical, choroid plexus carcinoma, anaplastic rhabdomyosarcoma, sonic hedgehog medulloblastoma, or hypodiploid acute lymphoblastic leukemia should alert practitioners to the potential of a hereditary cancer syndrome such as LFS. Although increasingly identified as a hereditary cancer syndrome, not all physicians are aware of the diagnosis of LFS.
+Cancers most closely associated (core cancers) with LFS include:
+• Soft tissue sarcoma• Osteosarcoma• Breast cancer• Brain and CNS tumors (glioma, choroid plexus carcinoma, SHH subtype medulloblastoma, neuroblastoma)• Adrenocortical carcinoma• Acute leukemia
+Other cancers may also appear, but risks are lower than for the core cancers:
+• Lung adenocarcinoma• Melanoma• Gastrointestinal tumors (such as colon, pancreas)• Kidney• Thyroid• Gonadal germ cells (such as ovarian, testicular, and prostate)
+Individuals with LFS have an approximately 50% of developing cancer by age 40, and up to a 90% percent chance by age 60, while females have nearly a 100% risk of developing cancer in their lifetime due to their markedly increased risk of breast cancer. Many individuals with LFS develop two or more primary cancers over their lifetimes.
+

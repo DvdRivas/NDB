@@ -1,0 +1,21 @@
+Pachyonychia Congenita
+
+synonyms:
+PC
+
+overview:
+Summary
+
+Pachyonychia congenita (PC) is a rare keratinizing skin disorder inherited in an autosomal dominant fashion. The predominant characteristics are severe plantar pain, palmoplantar keratoderma (PPK) including calluses with underlying blisters and variable hypertrophic nail dystrophy, often accompanied by oral leukokeratosis, cysts of various types, follicular hyperkeratosis, palmoplantar hyperhidrosis and sometimes natal teeth.
+
+Introduction
+
+Historically, PC was subdivided into PC-1 (caused by mutations in theKRT6AorKRT16genes) and PC-2 (due to mutations in theKRT6BorKRT17genes). However, based on clinical and molecular data collected by the International Pachyonychia Congenita Research Registry (IPCRR;www.pachyonychia.org) the nomenclature was revised in 2011. Those with mutations inKRT6Aare named PC-K6a, those with mutations inKRT16are PC-K16 etc.
+
+symptoms:
+The symptoms and severity of pachyonychia congenita can vary widely, even among individuals in the same family or among individuals with the same disease-causing gene mutation.
+The most predominant feature, palmoplantar keratoderma usually begins when a child starts weight bearing and walking. Blisters develop beneath the calluses causing extreme pain. This can lead to the use of crutches, canes or wheelchairs. Nail dystrophy (fingernails and toenails) is typically noted within the first few months/year of life. Nails tend to either (a) grow to full length with an upward slant caused by prominent distal hyperkeratosis or (b) have a nail plate that terminates prematurely to leave a gently sloping distal region of hyperkeratosis and exposed distal fingertip. Infections can occur under the nails and be painful.
+Cysts of various types including vellus hair cysts and steatocystomas usually develop at puberty and continue into adulthood. In some people with PC, particularly PC-K17, cysts can be the most painful and problematic characteristic. Multiple milia (particularly on the face) often occur in young children with PC-K17. Follicular keratoses occur in some patients on the trunk, elbows and knees, usually in early childhood. Oral leukokeratosis (white patches on the tongue and cheek) is more common in those with PC-K6a. It is often present at birth or within the first few months of life and can be misdiagnosed as aCandida albicansinfection if no other symptoms of PC are apparent. Natal or prenatal teeth are more commonly seen in those with mutations inKRT17. Palmoplantar hyperhidrosis has been reported in about 50% of people with PC.
+Other less common features include angular cheilitis, laryngeal involvement resulting in a hoarse cry or hoarse voice and ‘first bite syndrome’. First bite syndrome is more common in young children and is intense pain near the jaw or ears that lasts about 15-25 seconds when beginning to eat or swallow.
+Variants of PC: Steatocystoma multiplex (SM) – widespread pilosebaceous cysts develop at puberty, but there is little or no nail involvement or palmoplantar keratoderma, can be due to mutations inKRT17.
+
